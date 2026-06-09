@@ -1,7 +1,5 @@
 # The Great Works and the Holiest Mind
 
-*A containment of the greatest works of our procured selection — the library that forms the complete man: scripture, epic, philosophy, the liberal arts, history, the warrior's code, and the examined soul. Some controversial, some banal, all load-bearing.*
-
 The ordering principle is the medieval/Carolingian curriculum of the formed mind — the trivium and quadrivium, raised on Scripture and the Fathers, crowned with epic and history — extended through the chivalric and martial traditions and out to the moderns who still wrestle with God, death, and honor.
 
 ---
@@ -36,8 +34,7 @@ A map of the collection. Each book gathers works of one vein; every entry within
 | 22 | Mathematics, Nature & the Physical Order | The sciences by their literary door, Mandelbrot to Darwin. |
 | 23 | The Buddhist Canon | Zen and the warrior's mind, the sutras, and the Tibetan way. |
 | 24 | The Indian Tradition | Veda, Upanishad, epic, drama, and the modern voice. |
-| 25 | The Forbidden Shelf | Dangerous ideas — the canon's serious-but-toxic dark mirror. |
-
+| 25 | 
 ---
 
 ## II. The Books
