@@ -502,6 +502,62 @@ The works named at founding, with corrected titles and translators where given.
 - Richard Feynman — The Character of Physical Law; QED
 - James Gleick — Chaos: Making a New Science
 
+### 23. The Buddhist Canon — Zen, the Warrior's Mind & Beyond
+
+*Procured by import, not by chronology. The order is deliberate and descending: Zen as it forged the warrior (the spine of Bushido — Book 15) sits highest; the Mahayana sutras and the foundational Pali teaching follow; the broader Tibetan and devotional material — the Bardo Thodol and its kin — sits lowest in martial weight though not in worth. The Five Rings, the Dhammapada, Bushido, and the Hagakure are cross-listed from Book 15.*
+
+**I. Zen and the warrior's mind (highest import):**
+- Takuan Soho — The Unfettered Mind (Letters to Yagyu Munenori)
+- Yagyu Munenori — The Life-Giving Sword (Heiho Kadensho)
+- Bodhidharma — The Two Entrances and Four Practices; The Bloodstream Sermon
+- Huineng — The Platform Sutra of the Sixth Patriarch
+- Dogen — Shobogenzo; Fukanzazengi
+- Anon. — The Gateless Gate (Mumonkan)
+- Yuanwu — The Blue Cliff Record (Hekiganroku)
+- Hakuin — Wild Ivy; the koan teachings
+- Eugen Herrigel — Zen in the Art of Archery
+- D.T. Suzuki — Zen and Japanese Culture
+- Shunryu Suzuki — Zen Mind, Beginner's Mind
+
+**II. The Mahayana sutras and the great commentators:**
+- The Heart Sutra
+- The Diamond Sutra
+- The Lotus Sutra
+- The Vimalakirti Sutra
+- The Lankavatara Sutra
+- Nagarjuna — The Fundamental Verses on the Middle Way (Mulamadhyamakakarika)
+- Shantideva — The Way of the Bodhisattva (Bodhicaryavatara)
+
+**III. The foundational (Pali) teaching:**
+- The Pali Canon (Tipitaka) — selections from the Digha and Majjhima Nikayas
+- The Sutta Nipata; The Udana
+- Buddhaghosa — The Visuddhimagga (The Path of Purification)
+- The Milindapanha (The Questions of King Milinda)
+- The Jataka Tales
+
+**IV. The Tibetan & devotional (general import):**
+- The Tibetan Book of the Dead (Bardo Thodol)
+- The Life of Milarepa; The Hundred Thousand Songs of Milarepa
+- Gampopa — The Jewel Ornament of Liberation
+- Patrul Rinpoche — The Words of My Perfect Teacher
+- Tsongkhapa — The Great Treatise on the Stages of the Path (Lamrim Chenmo)
+
+### 24. The Indian Tradition — Veda, Epic, Drama & Verse
+
+*The Sanskrit and Bengali inheritance: the Vedic hymns, the Upanishadic ascent, the classical drama, and the modern voice. The Bhagavad Gita, the Mahabharata, and the Ramayana are cross-listed from Book 15; the Buddhist Pali Canon stands in Book 23.*
+
+- The Rigveda (the Vedic hymns)
+- The Principal Upanishads — Isha, Katha, Kena, Mundaka, Chandogya, Brihadaranyaka
+- Patanjali — The Yoga Sutras
+- Adi Shankara — Crest-Jewel of Discrimination (Vivekachudamani); the Upanishad commentaries
+- The Laws of Manu (Manusmriti)
+- Kautilya — The Arthashastra
+- Kalidasa — Shakuntala (Abhijnanashakuntalam); The Cloud Messenger (Meghaduta); The Birth of Kumara (Kumarasambhava)
+- The Panchatantra
+- Bhartrhari — The Three Centuries (Shatakatraya)
+- Jayadeva — The Gitagovinda
+- Rabindranath Tagore — Gitanjali; The Home and the World; selected poems
+
 ---
 
 *The list is living. Additions are made by procurement, not by accident.*
