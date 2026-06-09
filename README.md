@@ -52,33 +52,54 @@ The works named at founding, with corrected titles and translators where given.
 ## II. Of a Similar Vein — the Exhaustive Enumeration
 
 ### 1. Sacred Scripture & the Liturgy
-- The Septuagint
-- The Gallican / Roman Psalter
-- The Roman Breviary (Divine Office)
-- The Roman Missal
-- The Roman Martyrology
+
+*The ground of everything that follows: the revealed text and the rites by which the Church prays it day and night. The Vulgate stands at the head from the seed (Book I).*
+
+- **The Pentateuch (the Torah) — Genesis to Deuteronomy** — The five books of Moses narrate creation, the fall, the call of Abraham, the exodus, and the giving of the Law at Sinai. They establish the Western idea of one moral God who acts in history and binds a people to himself by promise and commandment. Nearly every Western category — law, sin, covenant, deliverance — is born in these pages.
+- **The Psalms** — A hundred and fifty poems of praise, lament, penitence, and thanksgiving that became the prayer-book of Synagogue and Church alike. They give voice to the whole range of the soul before God, from the abyss of "why hast thou forsaken me?" to unguarded joy. To learn them is to be handed words for every interior weather.
+- **The Book of Job** — A blameless man loses everything and demands of God an account of innocent suffering. His friends offer tidy theodicies; God answers not with reasons but with the whirlwind and the vastness of creation. Its wisdom is that the deepest questions may be met by an enlargement of vision rather than an argument.
+- **The Wisdom Books — Proverbs, Ecclesiastes, the Song of Songs** — Proverbs distills practical prudence into memorable maxims, Ecclesiastes confronts the vanity of all striving under the sun, and the Song sings an erotic love read as the soul's union with God. Together they hold the sensible, the disillusioned, and the ecstatic in a single canon. They teach that wisdom is not only doctrine but the art of living, despairing, and loving rightly.
+- **The Prophets — Isaiah and the rest** — The prophetic books thunder against injustice and idolatry while promising restoration and a coming anointed one. Isaiah fuses searing social critique with the most luminous visions of peace and the suffering servant. They are the conscience of Israel and the seedbed of messianic hope.
+- **The Four Gospels — Matthew, Mark, Luke, John** — Four accounts, each from its own angle, of the life, teaching, death, and resurrection of Jesus of Nazareth. They carry the Sermon on the Mount, the parables, and the Passion that reordered the moral imagination of the West around mercy and the cross. No four documents have been read, painted, or contested more.
+- **The Pauline Epistles** — Letters of the apostle Paul to the first churches, hammering out grace, faith, freedom, and the body of Christ under real crisis. They are the earliest Christian writings and the engine of its theology from Augustine to Luther. Here the gospel becomes argument and exhortation, and gives the West its greatest hymn to love.
+- **The Apocalypse (Revelation)** — John's visionary record of cosmic war, judgment, and the new Jerusalem, drenched in symbol. It has terrified and consoled in equal measure and supplied the West its imagery of the end of all things. Its wisdom is that history is going somewhere, and the slain Lamb, not the beast, has the last word.
+- **The Septuagint** — The pre-Christian Greek translation of the Hebrew Scriptures made at Alexandria, the Bible of the apostles. It carried Hebrew revelation into the Greek-speaking world and shaped the very language of the New Testament. To read it is to stand where Athens and Jerusalem first truly met.
+- **The Deuterocanon — Wisdom of Solomon, Sirach, and the rest** — The books kept in the Septuagint and Vulgate but set aside by later Protestant canons. Wisdom and Sirach fuse Hebrew piety with Greek reflection on virtue, mortality, and providence. They are the hinge between the Old Testament and the wisdom of the gentiles.
+- **The Gallican / Roman Psalter** — The liturgical arrangements of the Psalms as chanted in the Latin Church, the daily backbone of monastic life. Through them the monk prayed the whole Psalter each week until the words wore grooves into memory. This is Scripture not merely read but inhabited as rhythm.
+- **The Roman Breviary (the Divine Office)** — The book of the canonical hours, sanctifying the whole day with psalms, readings, and hymns at fixed times. It is the Church's unceasing prayer, binding the individual into a chorus that never falls silent across the world. To pray it is to step out of private mood into the objective worship of the ages.
+- **The Roman Missal** — The book of the texts and rubrics of the Mass through the liturgical year. It is the choreography of the central Christian act, where word and sacrament meet. In its collects and prefaces lies some of the most compressed theology ever written.
+- **The Roman Martyrology** — The Church's register of the martyrs and saints, announced by the date of their heavenly birthday. It is a daily reminder that the faith was bought with blood and witnessed in every age and land. To hear it read is to know that holiness is concrete, dated, and costly.
 
 ### 2. The Church Fathers (Patristics)
-- Augustine — The City of God; On Christian Doctrine; On the Trinity; Enchiridion
-- Jerome — Letters; On Illustrious Men
-- Gregory the Great — Dialogues; Moralia in Job
-- Ambrose — On the Duties of the Clergy (De Officiis Ministrorum); Hexameron
-- Athanasius — On the Incarnation; The Life of Antony
-- John Cassian — Conferences; Institutes
-- Benedict of Nursia — The Rule of St. Benedict
-- John Chrysostom — On the Priesthood; Homilies
-- Basil the Great — On the Holy Spirit; Hexaemeron; To Young Men
-- Gregory of Nazianzus — Orations
-- Gregory of Nyssa — The Life of Moses
-- Origen — On First Principles
-- Tertullian — Apology
-- Cyprian — On the Unity of the Church
-- Irenaeus — Against Heresies
-- Lactantius — The Divine Institutes
-- Eusebius — Ecclesiastical History
-- Pseudo-Dionysius the Areopagite — The Celestial Hierarchy; The Mystical Theology
-- Cassiodorus — Institutions of Divine and Secular Learning
-- John of Damascus — On the Orthodox Faith
+
+*The minds that turned the gospel into a civilization — defending it, defining it, and handing on the ancient learning. Augustine's Confessions stands at the head from the seed (Book I).*
+
+- **St. Clement of Rome — The First Epistle to the Corinthians** — One of the earliest Christian writings outside the New Testament, a letter from Rome to quell a schism at Corinth. It witnesses to apostolic authority and orderly succession within living memory of the apostles. Read it to watch Christianity first organizing itself into a Church.
+- **St. Ignatius of Antioch — The Letters** — Seven letters written on the road to martyrdom, burning with longing for union with Christ. They give the earliest clear testimony to the bishop's office and the Eucharist as the "medicine of immortality." Few documents show faith embraced so fearlessly before the lions.
+- **St. Justin Martyr — The First and Second Apologies** — A philosopher's reasoned defense of Christianity addressed to the Roman emperor himself. Justin argues that the scattered truths of the philosophers were seeds of the Word made whole in Christ. He models the marriage of reason and faith, and the nerve to argue for it on pain of death.
+- **St. Irenaeus — Against Heresies** — A systematic refutation of Gnosticism defending the goodness of creation and the unity of the two Testaments. Irenaeus insists that the same God who made the world also redeemed it, against all who despised matter. His line that "the glory of God is man fully alive" still answers every gospel of self-contempt.
+- **Tertullian — Apology** — The fierce North African lawyer's defense of Christians against Roman slander and persecution. He coined the Latin vocabulary of Western theology and the maxim that "the blood of the martyrs is the seed of the Church." His wit and rigor founded Latin Christianity even as his rigorism finally carried him into schism.
+- **St. Clement of Alexandria — The Stromata; The Tutor** — The cultured Alexandrian who baptized Greek learning for the Church. He held that philosophy was a tutor leading the Greeks to Christ as the Law led the Jews. His confidence that all truth is God's truth set the charter for Christian humanism.
+- **Origen — On First Principles** — The first great systematic theology, daring and speculative, from the most learned man of the early Church. He read Scripture on several levels and pressed questions of cosmos, freedom, and final restoration further than the Church would later allow. Even where condemned, he set the agenda every later theologian had to answer.
+- **Eusebius — Ecclesiastical History** — The first history of the Church, preserving documents and martyr-acts that would otherwise be lost. Written as Constantine's peace dawned, it frames the Church's survival as the hand of providence in history. It is the indispensable window onto the first three centuries.
+- **St. Athanasius — On the Incarnation; The Life of Antony** — The bishop who stood "against the world" for the full divinity of Christ at Nicaea. On the Incarnation argues that God became man so that man might be deified; the Life of Antony launched the literature of monasticism. Together they fix both the doctrine and the discipline of the faith.
+- **St. Hilary of Poitiers — On the Trinity** — The "Athanasius of the West," who carried the Nicene cause into the Latin Church during his exile. His treatise defends the co-equal Son against Arian subordination with patience and depth. He shows the West learning to think the Trinity in its own tongue.
+- **St. Basil the Great — On the Holy Spirit; Hexaemeron; To Young Men** — One of the Cappadocians who secured the divinity of the Spirit and organized Eastern monastic life. To Young Men famously teaches Christians how to read pagan literature for its honey while avoiding its poison. He unites speculative theology, practical charity, and cultural balance.
+- **St. Gregory of Nazianzus — The Theological Orations** — "The Theologian," whose five orations gave the doctrine of the Trinity its classic articulation. His poetry and preaching wed precise dogma to soaring contemplation. He proves that orthodoxy and beauty need not be at odds.
+- **St. Gregory of Nyssa — The Life of Moses; On the Soul and the Resurrection** — The most mystical Cappadocian, who read Moses' ascent of Sinai as the soul's endless journey into God. He coined the idea of epektasis, perpetual progress into an infinite God who is never exhausted. His vision turns heaven from a static reward into eternal adventure.
+- **St. John Chrysostom — On the Priesthood; the Homilies** — The "golden-mouthed" preacher of Antioch and Constantinople, fearless before emperors. His homilies expound Scripture verse by verse with moral urgency and a special fire for the poor. He models the pastor whose eloquence serves conscience, not applause.
+- **St. Ambrose — On the Duties of the Clergy; Hexameron** — The Roman governor turned bishop who baptized Augustine and humbled an emperor to public penance. De Officiis recasts Cicero's ethics of duty in Christian dress, founding Western moral theology. He shows the Church learning to discipline even the powers of this world.
+- **St. Jerome — Letters; On Illustrious Men** — The cantankerous scholar-monk whose Latin Bible (the Vulgate, Book I) shaped the West for a millennium. His letters blend ferocious learning, ascetic counsel, and feuds, while On Illustrious Men catalogs the Christian writers. He is the patron of all who serve God through exact scholarship.
+- **St. John Cassian — Conferences; Institutes** — The traveler who carried the wisdom of the Egyptian desert fathers to the Latin West. The Conferences record long dialogues on prayer, discernment, and the warfare against the eight vices. They became the handbook that fed Benedict and all Western monasticism.
+- **St. Benedict of Nursia — The Rule** — A short, humane code for monastic common life balancing prayer, work, and study under an abbot. Its genius is moderation and stability, "a school for the Lord's service" rather than heroic extremity. For fifteen centuries it has quietly ordered Western civilization from behind cloister walls.
+- **St. Cyprian — On the Unity of the Church** — The bishop-martyr of Carthage writing amid persecution and schism. He argues that there is no salvation outside the one Church and that the bishops hold its unity in solidarity. His blunt ecclesiology framed every later debate about authority and the keys.
+- **Lactantius — The Divine Institutes** — The "Christian Cicero," who set out the faith in elegant classical Latin for educated pagans. He systematically dismantles polytheism and commends Christianity as the true philosophy and true worship. He proves the new faith could speak the high style of Rome.
+- **St. Leo the Great — The Tome; the Sermons** — The pope whose letter fixed the doctrine of Christ's two natures at Chalcedon and whose nerve turned back Attila. His sermons are models of lapidary Roman gravity in the service of dogma. He embodies the union of doctrinal precision and the authority of the see of Peter.
+- **Pseudo-Dionysius the Areopagite — The Celestial Hierarchy; The Mystical Theology** — The mysterious author who fused Neoplatonism and Christianity into a theology of ascent through symbol to the God beyond being. His "negative theology" insists that God is best approached by unknowing, in a dazzling darkness. He shaped medieval mysticism, angelology, and the very idea of hierarchy.
+- **St. Gregory the Great — Dialogues; Moralia in Job** — The pope who reformed the liturgy, sent monks to convert England, and wrote (in the seed) the Pastoral Care. The Moralia mines the Book of Job for a vast spiritual psychology of temptation and virtue. He is the bridge by which the patristic age passes into the medieval.
+- **Cassiodorus — Institutions of Divine and Secular Learning** — The Roman statesman who, as the old order fell, founded a monastery to copy and preserve the books of antiquity. His Institutions is a curriculum joining sacred study to the liberal arts. To him as much as anyone we owe the survival of the classical inheritance.
+- **St. Maximus the Confessor — The Ambigua; Centuries on Love** — The Byzantine monk who suffered mutilation rather than concede that Christ lacked a human will. His dense theology of cosmic harmony and love crowns the Greek patristic synthesis. He teaches that the whole creation is gathered up and reconciled in Christ.
+- **St. John of Damascus — On the Orthodox Faith** — The last of the Greek Fathers, who summed up the whole tradition into a single system. He defended the holy images against the iconoclasts with the logic of the Incarnation: the invisible God, having taken flesh, may be depicted. His synthesis became the textbook of Eastern Orthodoxy and reached the medieval West.
 
 ### 3. Medieval Theology, Philosophy & Mysticism
 - Anselm — Proslogion; Monologion; Cur Deus Homo
