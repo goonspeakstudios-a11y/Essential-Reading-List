@@ -200,41 +200,51 @@ The works named at founding, with corrected titles and translators where given.
 - **Aesop — The Fables** — The slave whose brief animal tales each carry a hard kernel of practical wisdom. The tortoise and the hare, the fox and the grapes: these have taught morals to every generation since. They are the simplest and most universal school of worldly prudence.
 
 ### 8. Greek Philosophy
-- Plato — Republic; Symposium; Phaedo; Phaedrus; Timaeus; Gorgias; Laws
-- Aristotle — Nicomachean Ethics; Politics; Physics; Metaphysics; On the Soul; Poetics; Rhetoric
-- The Pre-Socratics (fragments)
-- Epictetus — Enchiridion; Discourses
-- Marcus Aurelius — Meditations
-- Plotinus — The Enneads
-- Diogenes Laertius — Lives of the Eminent Philosophers
-- Xenophon — Memorabilia; Cyropaedia
+
+*The Greek invention of philosophy itself — the asking of what is real, what is good, and how we know. Aristotle and Plato stand here from the seed (Book I); the rest of their works fill out the foundation.*
+
+- **Plato — Republic; Symposium; Phaedo; Phaedrus; Timaeus; Gorgias; Laws** — The dialogues that set nearly every later question, dramatizing Socrates in pursuit of justice, love, knowledge, and the soul's immortality. The theory of Forms holds that the visible world is a shadow of an eternal order the mind can ascend toward. It has been said that all philosophy is a series of footnotes to Plato.
+- **Aristotle — Nicomachean Ethics; Politics; Physics; Metaphysics; On the Soul; Poetics; Rhetoric** — The most comprehensive mind of antiquity, who founded logic, biology, and political science and analyzed virtually everything else. His ethics locates happiness in virtuous activity and the mean; his Poetics still governs how we talk about drama. Where Plato points upward, Aristotle patiently anatomizes the world we actually live in.
+- **The Pre-Socratics (the fragments)** — The first philosophers, who replaced myth with reasoned guesses about the one stuff behind all things. Heraclitus's flux, Parmenides's changeless being, and Democritus's atoms still frame our deepest debates. In these scraps we watch human reason first wake up.
+- **Epictetus — Enchiridion; Discourses** — The freed slave who taught that we are disturbed not by events but by our judgments of them. Master the one thing in your power, your own will, and no tyrant can touch you. His handbook is the most practical short course in inner freedom ever written.
+- **Marcus Aurelius — Meditations** — The private notebook of a Roman emperor reminding himself to live justly, accept fate, and remember death. Never meant for publication, it is Stoicism lived under the heaviest of crowns. It is perhaps the most intimate and durable book of consolation in the world.
+- **Plotinus — The Enneads** — The founder of Neoplatonism, who mapped reality as an overflow from the ineffable One through Mind and Soul down to matter. The philosophic life is the soul's ascent back to its source in mystical union. His vision shaped Augustine, the Fathers, and the whole Western mystical tradition.
+- **Sextus Empiricus — Outlines of Pyrrhonism** — The fullest surviving account of ancient skepticism, suspending judgment on every dogma to attain tranquility. By balancing each argument with its opposite, the skeptic frees himself from anxious certainty. Rediscovered in the Renaissance, it lit the fuse of modern doubt from Montaigne to Descartes.
+- **Diogenes Laertius — Lives of the Eminent Philosophers** — A gossipy, invaluable compilation of the lives, sayings, and doctrines of the Greek thinkers. For many schools it is our only source for what they taught and how they lived. It is antiquity's own affectionate biography of philosophy.
+- **Xenophon — Memorabilia; Cyropaedia** — Socrates' other pupil, who gives us a plainer, more practical teacher than Plato's, and a portrait of the ideal ruler in Cyrus. Soldier as well as writer, he prizes usefulness, leadership, and good sense. He shows philosophy in service of action and command.
 
 ### 9. History & Biography (Classical)
-- Herodotus — The Histories
-- Thucydides — The Peloponnesian War
-- Plutarch — Parallel Lives; Moralia
-- Livy — The History of Rome (Ab Urbe Condita)
-- Tacitus — Annals; Histories; Germania; Agricola
-- Suetonius — The Twelve Caesars
-- Sallust — The Catiline War; The Jugurthine War
-- Julius Caesar — The Gallic War; The Civil War
-- Polybius — The Histories
-- Josephus — The Jewish War; Antiquities of the Jews
-- Ammianus Marcellinus — The Later Roman Empire
-- Arrian — The Anabasis of Alexander
-- Quintus Curtius Rufus — History of Alexander
-- Diodorus Siculus — Bibliotheca Historica
-- Strabo — Geography
-- Pausanias — Description of Greece
+
+*The Greek and Roman invention of history as inquiry and of biography as moral mirror. Plutarch heads this book from the seed (Book I).*
+
+- **Herodotus — The Histories** — The "father of history," who set out to record the great deeds of Greeks and barbarians and why they warred. Curious about everything, he weaves ethnography, marvels, and the clash of East and West around the Persian Wars. He teaches that the historian's first duty is to ask, travel, and wonder.
+- **Thucydides — The Peloponnesian War** — The first scientific historian, who stripped out the gods to expose the cold mechanics of power, fear, and self-interest. His Melian Dialogue, where "the strong do what they can and the weak suffer what they must," is the founding text of realism. He wrote a "possession for all time," and it remains a manual for understanding nations.
+- **Plutarch — Parallel Lives; Moralia** — The pairing of noble Greeks and Romans to weigh their characters, history written as the study of souls. Plutarch cares less for battles than for the revealing gesture that lays a man bare. His Lives shaped Shakespeare and the moral imagination of every gentleman for centuries.
+- **Livy — The History of Rome (Ab Urbe Condita)** — The vast narrative of Rome from its legendary founding, written to hold up old virtue against present decadence. Its heroic episodes taught Rome, and Europe after it, what civic courage looks like. It is the nation's own epic in prose.
+- **Tacitus — Annals; Histories; Germania; Agricola** — The darkest and most piercing of Roman historians, anatomist of tyranny under the emperors. His epigrams cut to the bone: "they make a desert and call it peace." No one has written more unforgettably about how liberty dies and men learn to serve.
+- **Suetonius — The Twelve Caesars** — Scandalous, intimate biographies of Julius Caesar through Domitian, organized by virtue and vice. He records the private habits, omens, and depravities the grander historians omit. He invented the template of the warts-and-all political biography.
+- **Sallust — The Catiline War; The Jugurthine War** — Sharp monographs on Rome's moral decline by a disillusioned insider. He argues that the loss of fear of an enemy unleashed the greed and faction that rotted the Republic. His terse, brooding style made corruption itself into literature.
+- **Julius Caesar — The Gallic War; The Civil War** — The general's own lucid, deceptively modest accounts of his conquests and his seizure of power. Written in the third person, they are masterpieces of self-justifying propaganda and of clear Latin prose. They show how the victor writes the history, and how well.
+- **Polybius — The Histories** — The Greek hostage who explained to his countrymen how Rome conquered the world in a single lifetime. He pioneered the analysis of constitutions and the cycle by which governments rise and decay. His theory of mixed government reached straight through to the American founders.
+- **Josephus — The Jewish War; Antiquities of the Jews** — The Jewish general turned Roman client who chronicled the catastrophic revolt and the fall of the Temple. He is our indispensable witness to first-century Judea and the world of early Christianity. He writes as a man torn between two civilizations, pleading for his people before their conquerors.
+- **Ammianus Marcellinus — The Later Roman Empire** — The last great Latin historian, a soldier who chronicled the fourth-century empire and the emperor Julian. Pagan but fair-minded, he watched Rome strain against the gathering barbarian tide. He is the somber bridge from the classical world to its fall.
+- **Arrian — The Anabasis of Alexander** — The most reliable account of Alexander's conquests, written by a Roman governor on the best early sources. It follows the campaigns from the Granicus to India with a soldier's eye. It is the closest we can stand to the greatest conqueror of antiquity.
+- **Quintus Curtius Rufus — History of Alexander** — A more dramatic, moralizing life of Alexander, fascinated by the corruption that power and the East worked on him. Where Arrian gives the campaigns, Curtius gives the tragedy of a soul. It is a study of greatness undone by its own success.
+- **Diodorus Siculus — Bibliotheca Historica** — An ambitious universal history attempting to gather all known peoples into one narrative. Much of what we know of lost historians survives only through him. He is antiquity's encyclopedist of the human past.
+- **Strabo — Geography** — A vast description of the known world, its peoples, cities, and customs, region by region. It fuses geography with history and is a treasure-house of ancient knowledge of the earth. It is how the Greco-Roman world saw the shape of its own home.
+- **Pausanias — Description of Greece** — A traveler's meticulous guidebook to the temples, statues, and legends of old Greece. Without it, much of the topography and art of the classical world would be lost to us. It is the first great work of cultural tourism and antiquarian devotion.
 
 ### 10. Roman Prose, Moral Philosophy & Letters
-- Cicero — On Duties (De Officiis); Tusculan Disputations; On the Nature of the Gods; On Old Age; On Friendship; Letters
-- Seneca — Letters to Lucilius; On the Shortness of Life; Moral Essays
-- Apuleius — The Golden Ass
-- Aulus Gellius — Attic Nights
-- Petronius — Satyricon
-- Frontinus — Stratagems
-- Vegetius — On Military Matters (De Re Militari)
+
+*Rome teaching the West how to live, govern, and die well — practical wisdom in the world's most influential prose. Cicero's On Invention and the Dream of Scipio already stand in the seed (Book I).*
+
+- **Cicero — On Duties; Tusculan Disputations; On the Nature of the Gods; On Old Age; On Friendship; Letters** — The fullest expression of the Roman moral ideal, transmitting Greek philosophy in matchless Latin. On Duties was for centuries the West's basic textbook of ethics for public men. His letters, unguarded and alive, let us watch a great mind meet the death of a republic.
+- **Seneca — Letters to Lucilius; On the Shortness of Life; Moral Essays** — The Stoic statesman's intimate letters on how to face fortune, time, and mortality. His theme is that life is long enough if we stop squandering it on trifles and fear. Few writers give more usable counsel for steadying the soul.
+- **Apuleius — The Golden Ass** — The only Latin novel to survive entire, the bawdy, magical tale of a man turned into a donkey. Beneath the comedy and the inset story of Cupid and Psyche lies a genuine account of religious conversion. It is at once the ancestor of the picaresque novel and a mystery of the soul's redemption.
+- **Aulus Gellius — Attic Nights** — A learned commonplace-book of curiosities on law, language, philosophy, and history. It preserves countless anecdotes and fragments we would otherwise have lost. It is the delightful proof that a cultivated mind hoards knowledge for its own sake.
+- **Petronius — Satyricon** — A scandalous, fragmentary novel of low life under Nero, centered on the vulgar millionaire's feast of Trimalchio. Its satire of new-money excess is mordant and astonishingly modern. It is the funniest and most cynical window we have onto the Roman underworld.
+- **Frontinus — Stratagems** — A general's catalog of military ruses drawn from Greek and Roman history. Practical and dry, it distills the cunning side of the art of war into examples. It is the companion on the battlefield to the canon's books of martial wisdom.
+- **Vegetius — On Military Matters (De Re Militari)** — The late-Roman summary of the army's training, organization, and tactics, written to revive a fading discipline. "Let him who desires peace prepare for war" is its enduring maxim. It was the bible of European warfare straight through the Middle Ages.
 
 ### 11. Medieval History, Chronicle & Hagiography
 - Gregory of Tours — The History of the Franks

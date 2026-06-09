@@ -37,9 +37,9 @@ For anonymous/collective works: `- **Title** — ...`
 | 5 | The Quadrivium | DONE | DONE |
 | 6 | Classical Latin Epic & Poetry | DONE | DONE |
 | 7 | Greek Epic, Tragedy & Lyric | DONE | DONE |
-| 8 | Greek Philosophy | pending | pending |
-| 9 | History & Biography (Classical) | pending | pending |
-| 10 | Roman Prose & Letters | pending | pending |
+| 8 | Greek Philosophy | DONE | DONE |
+| 9 | History & Biography (Classical) | DONE | DONE |
+| 10 | Roman Prose & Letters | DONE | DONE |
 | 11 | Medieval History & Chronicle | pending | pending |
 | 12 | Germanic, Norse & Anglo-Saxon | pending | pending |
 | 13 | Chivalry & Romance | pending | pending |
@@ -57,4 +57,4 @@ For anonymous/collective works: `- **Title** — ...`
 | 25 | The Forbidden Shelf (summaries only) | SEALED | pending |
 
 ## Next action
-Continue with **Book 8** (Greek Philosophy). Cron cancelled — grinding straight through in active turns.
+Continue with **Book 11** (Medieval History & Chronicle). Cron cancelled — grinding straight through in active turns.
