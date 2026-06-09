@@ -558,6 +558,19 @@ The works named at founding, with corrected titles and translators where given.
 - Jayadeva — The Gitagovinda
 - Rabindranath Tagore — Gitanjali; The Home and the World; selected poems
 
+### 25. The Forbidden Shelf — Dangerous Ideas
+
+*Procured for the discomfort they cause: serious philosophy the canon's own traditions can produce and cannot disown — the dark mirror of Books 14, 15, and 18. Read to be tested, not to be persuaded. Operational and incitement material is deliberately excluded; this is a shelf of ideas, not of weapons. Nietzsche (Books 16-17), Machiavelli and Hobbes (Book 14), and Junger (Book 16) keep adjacent company.*
+
+- Julius Evola — Revolt Against the Modern World; Ride the Tiger; Men Among the Ruins
+- Carl Schmitt — The Concept of the Political; Political Theology
+- Oswald Spengler — The Decline of the West
+- Georges Sorel — Reflections on Violence
+- Joseph de Maistre — St. Petersburg Dialogues; Considerations on France
+- Max Stirner — The Ego and Its Own (The Unique and Its Property)
+- E.M. Cioran — A Short History of Decay; The Trouble with Being Born
+- Marquis de Sade — Philosophy in the Bedroom
+
 ---
 
 *The list is living. Additions are made by procurement, not by accident.*
