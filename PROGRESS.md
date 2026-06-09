@@ -74,9 +74,9 @@ to EACH of Books 1-24 (Book 25 sealed), each with a 3-sentence summary in the es
 | 9 Classical History | DONE |
 | 10 Roman Prose | DONE |
 | 11 Medieval Chronicle | DONE |
-| 12 Germanic/Norse | pending |
-| 13 Chivalry | pending |
-| 14 Statecraft | pending |
+| 12 Germanic/Norse | DONE |
+| 13 Chivalry | DONE |
+| 14 Statecraft | DONE |
 | 15 Warrior's Way | pending |
 | 16 Moderns | pending |
 | 17 Modern Philosophy | pending |
@@ -89,7 +89,7 @@ to EACH of Books 1-24 (Book 25 sealed), each with a 3-sentence summary in the es
 | 24 Indian | pending |
 | 25 Forbidden Shelf | SEALED (no additions) |
 
-R2 next: Book 12.
+R2 next: Book 15.
 
 ### Structural change DONE
 Removed the seed table (old Section I); replaced with "Contents — The Twenty-Five Books"
