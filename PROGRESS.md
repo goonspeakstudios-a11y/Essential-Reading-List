@@ -50,11 +50,11 @@ For anonymous/collective works: `- **Title** — ...`
 | 18 | The Hermetic & Esoteric | DONE | DONE |
 | 19 | The Arabic & Persian World | DONE | DONE |
 | 20 | The Rabbinic & Kabbalistic Tradition | DONE | DONE |
-| 21 | The Celtic World | pending | pending |
-| 22 | Mathematics & Narrative Physics | pending | pending |
+| 21 | The Celtic World | DONE | DONE |
+| 22 | Mathematics & Narrative Physics | DONE | DONE |
 | 23 | The Buddhist Canon | pending | pending |
 | 24 | The Indian Tradition | pending | pending |
 | 25 | The Forbidden Shelf (summaries only) | SEALED | pending |
 
 ## Next action
-Continue with **Book 21** (Celtic World). Fast self-paced loop active; 2h cron 7c44b64d is a harmless backstop.
+Continue with **Book 23** (Buddhist Canon), then 24 (Indian), then 25 (summaries only). Fast self-paced loop active; 2h cron 7c44b64d is a harmless backstop.

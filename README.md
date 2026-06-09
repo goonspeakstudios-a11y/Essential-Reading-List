@@ -540,44 +540,44 @@ The works named at founding, with corrected titles and translators where given.
 *The matter of the western isles, in Irish and Welsh: the invasions, the cattle-raids, the saints' sea-voyages, and the brehon law. The Mabinogion is cross-listed from Book 13, Gildas and Geoffrey of Monmouth from Book 11.*
 
 **Irish:**
-- Lebor Gabala Erenn (The Book of Invasions)
-- Tain Bo Cuailnge (The Cattle Raid of Cooley)
-- The Ulster Cycle — Bricriu's Feast; The Destruction of Da Derga's Hostel; The Wooing of Etain
-- The Mythological Cycle — Cath Maige Tuired (The Second Battle of Mag Tuired)
-- The Fenian Cycle — Acallam na Senorach (The Colloquy of the Ancients); The Pursuit of Diarmuid and Grainne
-- The Immrama — The Voyage of Bran; The Voyage of Mael Duin
-- The Annals of the Four Masters; The Annals of Ulster
-- Senchas Mar (the Brehon law tracts)
-- Lebor na hUidre (The Book of the Dun Cow); The Book of Leinster
+- **Lebor Gabala Erenn (The Book of Invasions)** — The pseudo-history of Ireland's successive mythical settlers, ending with the Gaels. It gave the Irish a heroic origin to set beside the nations of the Bible and Rome. It is the foundation-myth of a people, weaving paganism into a Christian frame.
+- **Tain Bo Cuailnge (The Cattle Raid of Cooley)** — The central epic of Irish literature, in which the boy-hero Cu Chulainn single-handedly defends Ulster against Queen Medb's army. Its battle-frenzy, honor, and doom make it the Irish Iliad. It preserves the heroic, chariot-riding world of the pagan Celts.
+- **The Ulster Cycle — Bricriu's Feast; The Destruction of Da Derga's Hostel; The Wooing of Etain** — The tales surrounding Cu Chulainn and the warriors of King Conchobar. Feasting, boasting, geis-taboos, and the otherworld run through them. They are the fullest window onto the imagination of heroic Ireland.
+- **The Mythological Cycle — Cath Maige Tuired** — The stories of the Tuatha De Danann, the god-like race who ruled Ireland before men. The Second Battle pits them against the monstrous Fomorians for the land. It is the nearest thing we have to a native Irish mythology of the gods.
+- **The Fenian Cycle — Acallam na Senorach; The Pursuit of Diarmuid and Grainne** — The lays of Finn mac Cumaill and his roving warrior-band, the Fianna. The Colloquy has the last survivors recount the old days to St. Patrick himself. Diarmuid and Grainne's doomed elopement is the Celtic root of Tristan and Isolde.
+- **The Immrama — The Voyage of Bran; The Voyage of Mael Duin** — The "rowing-about" tales of sea-voyages to wondrous otherworld islands. They blend pagan paradise with Christian pilgrimage across the western ocean. They are the Celtic dream of the blessed lands beyond the waves.
+- **The Annals of the Four Masters; The Annals of Ulster** — The great medieval chronicles recording Ireland's history year by year. They preserve the kings, battles, and churchmen of a thousand years. They are the documentary memory of the Gaelic world.
+- **Senchas Mar (the Brehon law tracts)** — The vast body of early Irish law, among the oldest in Europe. It governed a clan-based society through honor-price, contract, and arbitration rather than the state. It is a unique survival of a native, pre-feudal legal civilization.
+- **Lebor na hUidre; The Book of Leinster** — The great medieval Irish manuscripts that preserved the sagas for us. Copied by monks, they saved a pagan literature the Church might have let die. Without these books, the heroic age of Ireland would be lost.
 
 **Welsh:**
-- The Welsh Triads (Trioedd Ynys Prydein)
-- Aneirin — Y Gododdin
-- The Book of Taliesin
-- The Black Book of Carmarthen
-- The Red Book of Hergest
+- **The Welsh Triads (Trioedd Ynys Prydein)** — Lore organized in memorable groups of three, a bardic index of Britain's legends. They preserve names and tales otherwise vanished, Arthur's among them. They are the keys to a largely lost Welsh mythology.
+- **Aneirin — Y Gododdin** — An elegy for the British warriors who fell at the battle of Catraeth, perhaps the oldest Welsh poem. It mourns a doomed war-band, each hero named and praised. It contains what may be the earliest reference to Arthur.
+- **The Book of Taliesin** — The poems ascribed to the legendary bard Taliesin, shimmering with riddle and shape-shifting boast. "I have been" many things, the poet sings, across all of creation. It is the voice of the Welsh bardic-magical imagination at its strangest.
+- **The Black Book of Carmarthen** — The oldest surviving manuscript wholly in Welsh, a trove of early poetry. It holds verses on Arthur, Myrddin (Merlin), and the legends of the land. It is a foundation document of Welsh literature.
+- **The Red Book of Hergest** — A great late-medieval Welsh manuscript preserving the Mabinogion tales and much poetry. It is one of the chief sources for the matter of Wales. It gathered a national literature between two covers.
 
 **Celtic Christianity & history:**
-- St. Patrick — Confessio; Letter to Coroticus
-- Adomnan of Iona — The Life of St. Columba
-- The Voyage of St. Brendan (Navigatio Sancti Brendani)
-- Nennius — Historia Brittonum
+- **St. Patrick — Confessio; Letter to Coroticus** — The only certain writings of Ireland's apostle, humble and deeply moving. The Confessio tells of his captivity, his calling, and his mission to the people who had enslaved him. It is the authentic voice of the man who began Ireland's conversion.
+- **Adomnan of Iona — The Life of St. Columba** — The life of the great Irish missionary-monk who founded Iona and helped convert Scotland. Full of prophecy and miracle, it also paints real monastic life on the northern seas. It is the masterpiece of early Celtic hagiography.
+- **The Voyage of St. Brendan (Navigatio Sancti Brendani)** — The wildly popular tale of an Irish abbot's sea-quest for the Promised Land of the Saints. Its marvels, whales, and floating islands enchanted all of medieval Europe. It is the Christian immram, pilgrimage as high adventure.
+- **Nennius — Historia Brittonum** — An early compilation of British history and legend, our first source for Arthur as war-leader. It lists his twelve victorious battles against the Saxons. It is a seedbed from which the whole Arthurian legend would grow.
 
 ### 22. Mathematics, Nature & the Physical Order
 
 *The scientific seam, entered by its most literary door — works that narrate the physical and mathematical order rather than merely compute it. The thread Mandelbrot opened: the geometry of the irregular and the wild.*
 
-- Benoit Mandelbrot — The Fractal Geometry of Nature; The (Mis)Behavior of Markets
-- Henri Poincare — Science and Hypothesis; The Value of Science
-- D'Arcy Wentworth Thompson — On Growth and Form
-- Galileo Galilei — Dialogue Concerning the Two Chief World Systems
-- Isaac Newton — The Principia (Mathematical Principles of Natural Philosophy)
-- Charles Darwin — On the Origin of Species; The Voyage of the Beagle
-- Albert Einstein — Relativity: The Special and the General Theory
-- Werner Heisenberg — Physics and Philosophy
-- Erwin Schrodinger — What Is Life?
-- Richard Feynman — The Character of Physical Law; QED
-- James Gleick — Chaos: Making a New Science
+- **Benoit Mandelbrot — The Fractal Geometry of Nature; The (Mis)Behavior of Markets** — The mathematician who showed that clouds, coastlines, and markets are not smooth but endlessly rough and self-similar. His fractals gave a geometry to the irregular wildness real nature actually displays. He taught us to see infinite complexity hidden in simple repeated rules.
+- **Henri Poincare — Science and Hypothesis; The Value of Science** — The last universalist of mathematics, who glimpsed chaos and relativity before they had names. He reflected with rare grace on how scientific truth is found, chosen, and constrained by convention. He is the philosopher-scientist on the creative act of discovery itself.
+- **D'Arcy Wentworth Thompson — On Growth and Form** — The naturalist who explained living shapes — shells, horns, bones — by physical and mathematical law. Why a nautilus spirals and a jaw is shaped as it is becomes a question of forces and geometry. It is the most beautiful book ever written on the form of living things.
+- **Galileo Galilei — Dialogue Concerning the Two Chief World Systems** — The witty, devastating defense of the sun-centered universe that brought him before the Inquisition. He insists the book of nature is written in mathematics and read by the eye, not authority. He is the founder of the experimental method and a martyr of free inquiry.
+- **Isaac Newton — The Principia** — The supreme work of the scientific revolution, deriving the motions of heaven and earth from three laws and universal gravitation. It showed the cosmos to be a single rational system the mind could grasp. For two centuries it defined what science itself meant.
+- **Charles Darwin — On the Origin of Species; The Voyage of the Beagle** — The patient argument that all life evolved through natural selection from common ancestors. It dethroned humanity from the center of creation and remade biology, and our self-image, forever. Few ideas have so completely changed how we understand ourselves.
+- **Albert Einstein — Relativity: The Special and the General Theory** — The author's own accessible account of how space, time, and gravity are bound together. Clocks slow, lengths shrink, and matter bends the very geometry of the universe. It is the revolution that overthrew Newton's absolute space, told by the man who made it.
+- **Werner Heisenberg — Physics and Philosophy** — The founder of the uncertainty principle reflecting on what the quantum revolution means. At the bottom of things, nature is irreducibly indeterminate, and the observer is part of the observed. He shows physics colliding with the deepest questions of reality and knowledge.
+- **Erwin Schrodinger — What Is Life?** — The quantum physicist's slim, prophetic inquiry into the physical basis of the living. His idea of an "aperiodic crystal" carrying the code of life helped inspire the discovery of DNA. It is the bridge by which physics walked into biology.
+- **Richard Feynman — The Character of Physical Law; QED** — The great explainer, who conveyed the deep structure and strangeness of physics with joyful clarity. He insists on honesty, doubt, and the pleasure of finding things out. He is the modern model of the scientist as both genius and delighted teacher.
+- **James Gleick — Chaos: Making a New Science** — The vivid chronicle of how scientists discovered order in apparent randomness. The butterfly effect, strange attractors, and fractals reveal a hidden patterning in turbulence and weather. It is the story of a whole new way of seeing the irregular world.
 
 ### 23. The Buddhist Canon — Zen, the Warrior's Mind & Beyond
 
