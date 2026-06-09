@@ -32,7 +32,7 @@ For anonymous/collective works: `- **Title** — ...`
 |------|-------|----------|------------|
 | 1 | Sacred Scripture & the Liturgy | DONE | DONE |
 | 2 | The Church Fathers | DONE | DONE |
-| 3 | Medieval Theology & Mysticism | pending | pending |
+| 3 | Medieval Theology & Mysticism | DONE | DONE |
 | 4 | The Trivium | pending | pending |
 | 5 | The Quadrivium | pending | pending |
 | 6 | Classical Latin Epic & Poetry | pending | pending |
@@ -57,4 +57,4 @@ For anonymous/collective works: `- **Title** — ...`
 | 25 | The Forbidden Shelf (summaries only) | SEALED | pending |
 
 ## Next action
-Continue with **Book 3**.
+Continue with **Book 4** (The Trivium).
