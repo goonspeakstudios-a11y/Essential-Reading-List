@@ -347,61 +347,64 @@ The works named at founding, with corrected titles and translators where given.
 - **Matsuo Basho — The Narrow Road to the Deep North** — The wandering master who raised the haiku to a spiritual art on his journey through old Japan. In seventeen syllables he catches a whole moment of awakening: the frog, the pond, the splash. His travel-sketches fuse poetry and pilgrimage into one path.
 
 ### 16. The Moderns — the Novel, the Drama & the Examined Soul
-- Kafka — The Trial; The Castle; The Metamorphosis; Diaries
-- Mishima — The Sea of Fertility (tetralogy); Confessions of a Mask; Sun and Steel; Patriotism
-- Dostoevsky — Crime and Punishment; The Brothers Karamazov; Demons; The Idiot; Notes from Underground
-- Tolkien — The Lord of the Rings; The Silmarillion; The Hobbit
-- Leo Tolstoy — War and Peace; Anna Karenina; The Death of Ivan Ilyich
-- Miguel de Cervantes — Don Quixote
-- Johann Wolfgang von Goethe — Faust; The Sorrows of Young Werther
-- John Milton — Paradise Lost
-- William Shakespeare — The Tragedies and Histories
-- Herman Melville — Moby-Dick
-- Friedrich Nietzsche — Thus Spoke Zarathustra; Beyond Good and Evil
-- Knut Hamsun — Hunger; Growth of the Soil
-- Louis-Ferdinand Celine — Journey to the End of the Night
-- Joseph Conrad — Heart of Darkness; Lord Jim
-- Aleksandr Solzhenitsyn — The Gulag Archipelago; One Day in the Life of Ivan Denisovich
-- Ernst Junger — Storm of Steel; On the Marble Cliffs
-- Albert Camus — The Stranger; The Myth of Sisyphus
-- Hermann Hesse — Siddhartha; The Glass Bead Game
-- Georges Bernanos — The Diary of a Country Priest
-- Evelyn Waugh — Brideshead Revisited
-- G.K. Chesterton — Orthodoxy; The Everlasting Man
-- C.S. Lewis — The Abolition of Man; Till We Have Faces
-- T.S. Eliot — The Waste Land; Four Quartets
-- Rainer Maria Rilke — Duino Elegies
-- Stendhal — The Red and the Black
-- Honore de Balzac — Pere Goriot; Lost Illusions
-- Gustave Flaubert — Madame Bovary; Sentimental Education
-- Victor Hugo — Les Miserables; The Hunchback of Notre-Dame
-- Aleksandr Pushkin — Eugene Onegin
-- Nikolai Gogol — Dead Souls; The Overcoat
-- Anton Chekhov — Selected Stories and Plays
-- Marcel Proust — In Search of Lost Time
-- James Joyce — Ulysses; A Portrait of the Artist as a Young Man
-- Thomas Mann — The Magic Mountain; Death in Venice; Doctor Faustus
-- William Faulkner — The Sound and the Fury; Absalom, Absalom!
-- Moliere — The Misanthrope; Tartuffe
-- Jean Racine — Phedre; Andromache
-- Charles Baudelaire — Les Fleurs du Mal
-- Walt Whitman — Leaves of Grass
-- Friedrich Holderlin — Hymns and Fragments
-- Jaroslav Hasek — The Good Soldier Svejk
+
+*The literature of the modern soul, still wrestling with God, death, freedom, and honor after the old certainties cracked. Kafka, Mishima, Dostoevsky, and Tolkien stand at the head from the seed (Book I).*
+
+- **Kafka — The Trial; The Castle; The Metamorphosis; Diaries** — Nightmarish parables of a man crushed by faceless bureaucracies and unnameable guilt. Joseph K. is arrested for a crime never specified; Gregor wakes as an insect; the Castle never grants admittance. Kafka named the modern condition of alienation so exactly that his name became an adjective for it.
+- **Mishima — The Sea of Fertility; Confessions of a Mask; Sun and Steel; Patriotism** — The Japanese master obsessed with beauty, the body, death, and the lost warrior spirit. Sun and Steel narrates his forging of flesh and will toward a chosen, ritual end. His art and his spectacular suicide together pose the question of whether one can live, and die, as a work of art.
+- **Dostoevsky — Crime and Punishment; The Brothers Karamazov; Demons; The Idiot; Notes from Underground** — The deepest novelist of faith, doubt, freedom, and the human capacity for both murder and grace. The Grand Inquisitor and Raskolnikov's fevered logic test whether, if God is dead, all is permitted. No one has dramatized the war between nihilism and Christ inside a single heart more fiercely.
+- **Tolkien — The Lord of the Rings; The Silmarillion; The Hobbit** — The vast mythology of Middle-earth, where the small and humble bear the weight that defeats absolute power. Beneath the quest lies a Catholic vision of providence, mercy, and the long defeat that yet ends in hope. It restored to a disenchanted age the moral seriousness of myth.
+- **Leo Tolstoy — War and Peace; Anna Karenina; The Death of Ivan Ilyich** — The supreme realist, whose vast canvases hold whole societies and whose close-ups pierce the single soul. Ivan Ilyich, dying, discovers his whole respectable life was a lie. Tolstoy insists that meaning is found not in history's great men but in love, work, and the ordinary moment honestly lived.
+- **Miguel de Cervantes — Don Quixote** — The first modern novel, the tale of a mad old man who reads too many romances and sets out to revive chivalry. Comic and heartbreaking, it weighs noble illusion against drab reality and finds both wanting and both precious. It teaches that the dreamer who tilts at windmills may be the sanest fool alive.
+- **Johann Wolfgang von Goethe — Faust; The Sorrows of Young Werther** — Faust sells his soul for boundless experience yet is saved by his ceaseless striving. Werther's lovesick suicide launched Romanticism and a wave of imitators. Goethe is the modern myth of the restless self that will risk damnation rather than stagnate.
+- **John Milton — Paradise Lost** — The grandest epic in English, retelling the fall of man and the revolt of Satan to "justify the ways of God to men." Its Satan is so magnificent that readers still argue who the real hero is. It is the last great Christian epic and the first to make rebellion sublime.
+- **William Shakespeare — The Tragedies and Histories** — The widest and deepest imagination in any language, who gave every passion its perfect voice. Hamlet, Lear, Macbeth, and Othello map ambition, madness, jealousy, and grief once and for all. To know him is to find that he has already thought your thought and felt your feeling.
+- **Herman Melville — Moby-Dick** — The American epic of Captain Ahab's monomaniac hunt for the white whale that maimed him. It is at once a manual of whaling, a metaphysical quest, and a study of obsession driving a whole crew to ruin. The whale is whatever vast, indifferent thing a man destroys himself trying to strike through.
+- **Friedrich Nietzsche — Thus Spoke Zarathustra; Beyond Good and Evil** — The hammer-blow philosopher who proclaimed the death of God and the task of creating new values. Zarathustra preaches the overman, the will to power, and eternal recurrence in scripture-like poetry. He is the great diagnostician of nihilism, dangerous precisely because he saw so clearly.
+- **Knut Hamsun — Hunger; Growth of the Soil** — The Norwegian who probed the irrational depths of the mind in Hunger and the rootedness of the land in Growth of the Soil. His starving narrator's flickering consciousness anticipated all of modernist fiction. He celebrates the soil and the instinct against the abstractions of the city.
+- **Louis-Ferdinand Celine — Journey to the End of the Night** — A savage, jazzy howl of disgust at war, colonialism, and the whole human swindle. Its slang-soaked, breathless style detonated French prose. It is nihilism turned into a furious, blackly funny music, by an author whose later hatreds darken his genius.
+- **Joseph Conrad — Heart of Darkness; Lord Jim** — The Pole who wrote English better than the English, probing guilt, cowardice, and the thin crust of civilization. Marlow's voyage up the Congo to Kurtz finds "the horror" at the core of the imperial enterprise and the self. Conrad asks whether any of us would hold firm when the restraints fall away.
+- **Aleksandr Solzhenitsyn — The Gulag Archipelago; One Day in the Life of Ivan Denisovich** — The witness who exposed the Soviet camps and broke the conscience of the West about them. His great theme is that the line between good and evil runs through every human heart. He proves that one man with the truth and the courage to tell it can shake an empire.
+- **Ernst Junger — Storm of Steel; On the Marble Cliffs** — The German soldier-aesthete who recorded the First World War with chilling, exhilarated clarity. Storm of Steel sees battle as a terrible transfiguration; On the Marble Cliffs is a coded parable against tyranny. He is the cold, brilliant eye that watches the modern catastrophe without flinching.
+- **Albert Camus — The Stranger; The Myth of Sisyphus** — The poet of the absurd, who asked how to live in a universe without given meaning. Meursault's indifference and Sisyphus's endless boulder pose the one serious question: why not suicide? His answer is lucid revolt: we must imagine Sisyphus happy and live without appeal.
+- **Hermann Hesse — Siddhartha; The Glass Bead Game** — The seeker's novelist, charting the soul's path toward unity through East and West alike. Siddhartha finds wisdom not in doctrine but in the river and in lived experience. He is the perennial companion of the young in search of their own way.
+- **Georges Bernanos — The Diary of a Country Priest** — The interior journal of a sickly, failing young priest in a hostile rural parish. Through his agony shines the hidden action of grace and the truth that "all is grace." It is one of the most luminous Catholic novels ever written.
+- **Evelyn Waugh — Brideshead Revisited** — An elegy for a great Catholic family and a vanished aristocratic England. Beneath the charm and the satire works "the operation of divine grace" drawing each soul home. It is the most seductive defense of faith and tradition in modern English fiction.
+- **G.K. Chesterton — Orthodoxy; The Everlasting Man** — The jolly paradox-master who argued his way to Christianity as the only door that fit the keyhole of the world. The Everlasting Man reads all history as converging on Bethlehem. He makes the case for faith with such wit and gratitude that joy itself becomes an argument.
+- **C.S. Lewis — The Abolition of Man; Till We Have Faces** — The Oxford don who defended objective value against the modern reduction of all things to mere feeling and power. The Abolition of Man warns that denying the moral law unmakes humanity itself. Till We Have Faces retells the Psyche myth as the soul's slow, painful surrender to the divine.
+- **T.S. Eliot — The Waste Land; Four Quartets** — The poems that mapped modern spiritual desolation and then the slow road back to faith. The Waste Land is the broken music of a civilization in fragments; Four Quartets is its hard-won return to "the still point of the turning world." Together they are the modern soul's journey from dryness to grace.
+- **Rainer Maria Rilke — Duino Elegies** — Visionary poems on angels, death, love, and the task of transforming the visible world within us. "Every angel is terrible," yet beauty is the beginning of a terror we can just bear. Rilke teaches that our work is to praise, to say the things of earth so intensely they become eternal.
+- **Stendhal — The Red and the Black** — The story of Julien Sorel, an ambitious carpenter's son climbing through hypocrisy toward ruin. It dissects ambition, love, and the politics of post-Napoleonic France with cold psychological precision. Stendhal is the great anatomist of the willful self forging its destiny in a corrupt world.
+- **Honore de Balzac — Pere Goriot; Lost Illusions** — The colossal Human Comedy that aimed to catalog all of French society after the Revolution. Old Goriot, ruined by love for his ungrateful daughters, is a bourgeois King Lear. Balzac shows money and ambition as the new gods remaking every human bond.
+- **Gustave Flaubert — Madame Bovary; Sentimental Education** — The supreme craftsman, who sought "le mot juste" and made of provincial adultery a tragedy of romantic illusion. Emma Bovary destroys herself chasing the passions she read about in novels. Flaubert's icy perfection of style founded the modern art of the novel.
+- **Victor Hugo — Les Miserables; The Hunchback of Notre-Dame** — The vast romantic epics of the outcast and the redeemed, of Jean Valjean hunted across a lifetime for stealing bread. Hugo fuses melodrama, social conscience, and the conviction that mercy can remake a man. He is the great-hearted advocate of the wretched against a merciless law.
+- **Aleksandr Pushkin — Eugene Onegin** — The novel-in-verse that founded modern Russian literature, sparkling and sad. Its bored aristocrat spurns true love and learns its worth only when too late. Pushkin gave Russia its language and its template of the superfluous man.
+- **Nikolai Gogol — Dead Souls; The Overcoat** — The grotesque, hilarious satirist of Russian provincial corruption and pettiness. A swindler buys the names of dead serfs; a clerk is destroyed by the theft of his beloved coat. "We all came out of Gogol's Overcoat," said the writers who followed his pity for the little man.
+- **Anton Chekhov — Selected Stories and Plays** — The doctor-writer who made the ordinary and the unspoken into high art. Nothing dramatic happens in his stories and plays, yet whole lives quietly slip away. He teaches the deepest compassion: to see people exactly as they are and forgive them anyway.
+- **Marcel Proust — In Search of Lost Time** — The immense exploration of memory, time, love, and art, sparked by a madeleine dipped in tea. Its narrator wastes his life until he grasps that art alone can redeem lost time. It is the supreme novel of consciousness and the salvation hidden in remembrance.
+- **James Joyce — Ulysses; A Portrait of the Artist as a Young Man** — The encyclopedic day in Dublin that reinvented the novel through stream of consciousness. Leopold Bloom's ordinary wanderings are mapped onto Homer's Odyssey to make the everyday heroic. Joyce proved that one ordinary mind, fully rendered, contains the whole world.
+- **Thomas Mann — The Magic Mountain; Death in Venice; Doctor Faustus** — The great German ironist of art, sickness, and the European soul before catastrophe. On his Alpine mountain of the dying, ideas duel for the future of civilization; in Venice, beauty becomes a fatal infection. Mann diagnoses the deep maladies of a culture courting its own destruction.
+- **William Faulkner — The Sound and the Fury; Absalom, Absalom!** — The chronicler of the American South's guilt, decay, and obsession with the past. His shattered chronologies and many voices make the reader assemble the buried tragedy. "The past is never dead. It's not even past": his whole vision in a line.
+- **Moliere — The Misanthrope; Tartuffe** — The master of French comedy, who exposed hypocrisy, pretension, and folly with deadly grace. Tartuffe is the eternal portrait of the pious fraud; Alceste, of the honest man too rigid for the world. He proves that comedy can cut as deep as tragedy into human vice.
+- **Jean Racine — Phedre; Andromache** — The supreme French tragedian, whose plays burn with consuming, forbidden passion under classical restraint. Phedre's incestuous love for her stepson destroys her with the inevitability of fate. He achieves the maximum of fire within the strictest of forms.
+- **Charles Baudelaire — Les Fleurs du Mal** — The poems that found beauty in the gutter, the morgue, and the modern city, founding all modern verse. Torn between spleen and ideal, sin and the longing for the infinite, he made vice itself sing. He is the first poet of the modern soul, ecstatic and damned.
+- **Walt Whitman — Leaves of Grass** — The barbaric yawp of American democracy, embracing body, soul, the nation, and the cosmos. In long, surging free verse he sings the equal divinity of every common thing and person. "I am large, I contain multitudes": the founding hymn of the expansive American self.
+- **Friedrich Holderlin — Hymns and Fragments** — The German poet who sought to wed the lost gods of Greece to the modern world, and broke under the strain. His luminous, difficult hymns on rivers, gods, and the homeland verge on prophecy. Heidegger read him as the poet who names the holy in a destitute time.
+- **Jaroslav Hasek — The Good Soldier Svejk** — The riotous anti-war novel of a cheerful idiot whose dim-witted obedience makes a mockery of the whole Austro-Hungarian war machine. Svejk survives by being too foolish to be governed. It is the comic counter-blast to every glorification of war and empire.
 
 **The legends of poetry (Western):**
-- William Blake — Songs of Innocence and of Experience; The Marriage of Heaven and Hell
-- William Wordsworth — The Prelude; Lyrical Ballads
-- Samuel Taylor Coleridge — The Rime of the Ancient Mariner
-- Lord Byron — Don Juan; Childe Harold's Pilgrimage
-- Percy Bysshe Shelley — Prometheus Unbound
-- John Keats — The Great Odes; Hyperion
-- Alfred, Lord Tennyson — Idylls of the King; In Memoriam
-- Emily Dickinson — The Complete Poems
-- William Butler Yeats — The Tower; Collected Poems
-- Fernando Pessoa — The Book of Disquiet; the heteronym poems
-- Federico Garcia Lorca — Gypsy Ballads (Romancero Gitano)
-- Pablo Neruda — Canto General
+- **William Blake — Songs of Innocence and of Experience; The Marriage of Heaven and Hell** — The visionary engraver-poet who saw the infinite in a grain of sand and angels in the trees. His paired songs show the world through innocence and then through bitter experience. He is the great prophet against reason's tyranny and for the holiness of imagination and desire.
+- **William Wordsworth — The Prelude; Lyrical Ballads** — The poet who found the divine in nature and in the growth of his own mind. He made common life and plain speech the proper stuff of poetry. He teaches that childhood's "spots of time" and the quiet countryside can feed the soul for a lifetime.
+- **Samuel Taylor Coleridge — The Rime of the Ancient Mariner** — The supernatural ballad of a sailor cursed for killing an albatross and condemned to tell his tale. Its penance and its blessing of the water-snakes turn on the sacredness of all living things. It is the most haunting moral fable in English verse.
+- **Lord Byron — Don Juan; Childe Harold's Pilgrimage** — The scandalous, magnetic poet who created the brooding "Byronic hero" and embodied him. Don Juan is a witty, worldly mock-epic skewering hypocrisy and cant. He is Romantic rebellion as glamour, exile, and irresistible self-display.
+- **Percy Bysshe Shelley — Prometheus Unbound** — The radical idealist who sang of liberty, love, and the overthrow of tyranny. His Prometheus endures and forgives until oppression itself dissolves. He is the West's purest poetic voice of revolutionary hope and the unbound human spirit.
+- **John Keats — The Great Odes; Hyperion** — The young genius who poured a lifetime of beauty into a handful of years before dying at twenty-five. His odes on the nightingale, the urn, and autumn hold joy and mortality in unbearable balance. "Beauty is truth, truth beauty" is his hard-won creed against the pain of living.
+- **Alfred, Lord Tennyson — Idylls of the King; In Memoriam** — The voice of the Victorian age, who mourned a dead friend across the long elegy of In Memoriam and reached a chastened faith. His Arthurian Idylls retell the rise and fall of Camelot as a parable of his century. He gave grief, doubt, and duty their most musical English expression.
+- **Emily Dickinson — The Complete Poems** — The reclusive American who packed eternity into tiny, dash-riddled lyrics. From her room she looked at death, God, and the soul with startling, slant directness. No one has said so much about the infinite in so few, so strange, words.
+- **William Butler Yeats — The Tower; Collected Poems** — The Irish master whose art deepened with age from twilight romance to hard, ringing wisdom. He wove myth, magic, love, and the violence of his nation's birth into the century's finest lyrics. "The Second Coming" remains the definitive poem of an order falling apart.
+- **Fernando Pessoa — The Book of Disquiet; the heteronym poems** — The Portuguese poet who became a crowd, writing under dozens of invented authors with their own styles and lives. The Book of Disquiet is the diary of a soul dissolving into reverie. He turned the modern fragmentation of the self into a whole literature.
+- **Federico Garcia Lorca — Gypsy Ballads (Romancero Gitano)** — The Andalusian poet of blood, moon, knives, and the dark Spanish soul. His verse fuses folk song with surreal image and the ever-present scent of death. Murdered young by fascists, he became the martyr-poet of Spain.
+- **Pablo Neruda — Canto General** — The Chilean's sweeping epic of Latin America, its land, peoples, and struggles. From the heights of Machu Picchu he sings the voiceless dead of a whole continent. He is the great modern poet of love, the earth, and the common people's hope.
 
 ### 17. Modern Philosophy & the Depths of the Mind
 

@@ -45,7 +45,7 @@ For anonymous/collective works: `- **Title** — ...`
 | 13 | Chivalry & Romance | DONE | DONE |
 | 14 | Statecraft & Political Philosophy | DONE | DONE |
 | 15 | The Warrior's Way | DONE | DONE |
-| 16 | The Moderns | pending | pending |
+| 16 | The Moderns | DONE | DONE |
 | 17 | Modern Philosophy & Depth Psychology | pending | pending |
 | 18 | The Hermetic & Esoteric | pending | pending |
 | 19 | The Arabic & Persian World | pending | pending |
@@ -57,4 +57,4 @@ For anonymous/collective works: `- **Title** — ...`
 | 25 | The Forbidden Shelf (summaries only) | SEALED | pending |
 
 ## Next action
-Continue with **Book 16** (The Moderns — the heaviest, ~67 entries; may take its own fire). Loop now on 2h cron (job 7c44b64d). Any pending fast ScheduleWakeup should stand down in favor of the cron.
+Continue with **Book 17** (Modern Philosophy & Depth Psychology). Fast self-paced loop active; 2h cron 7c44b64d is a harmless backstop (will find all DONE).
