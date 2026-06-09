@@ -584,69 +584,69 @@ The works named at founding, with corrected titles and translators where given.
 *Procured by import, not by chronology. The order is deliberate and descending: Zen as it forged the warrior (the spine of Bushido — Book 15) sits highest; the Mahayana sutras and the foundational Pali teaching follow; the broader Tibetan and devotional material — the Bardo Thodol and its kin — sits lowest in martial weight though not in worth. The Five Rings, the Dhammapada, Bushido, and the Hagakure are cross-listed from Book 15.*
 
 **I. Zen and the warrior's mind (highest import):**
-- Takuan Soho — The Unfettered Mind (Letters to Yagyu Munenori)
-- Yagyu Munenori — The Life-Giving Sword (Heiho Kadensho)
-- Bodhidharma — The Two Entrances and Four Practices; The Bloodstream Sermon
-- Huineng — The Platform Sutra of the Sixth Patriarch
-- Dogen — Shobogenzo; Fukanzazengi
-- Anon. — The Gateless Gate (Mumonkan)
-- Yuanwu — The Blue Cliff Record (Hekiganroku)
-- Hakuin — Wild Ivy; the koan teachings
-- Eugen Herrigel — Zen in the Art of Archery
-- D.T. Suzuki — Zen and Japanese Culture
-- Shunryu Suzuki — Zen Mind, Beginner's Mind
+- **Takuan Soho — The Unfettered Mind** — A Zen master's letters to a sword-master on the mind that must not stop or stick anywhere. The swordsman who fixes his attention is already cut down; only the free, flowing mind wins. It is the direct welding of Zen enlightenment to the art of the sword.
+- **Yagyu Munenori — The Life-Giving Sword (Heiho Kadensho)** — The treatise of the shogun's own fencing master, for whom the highest sword gives life rather than takes it. True mastery lies in reading the opponent and acting from emptiness, not technique. It is bushido refined into a spiritual discipline.
+- **Bodhidharma — The Two Entrances and Four Practices; The Bloodstream Sermon** — The teachings of the monk who carried Zen from India to China and sat nine years facing a wall. He points past scripture to a direct seeing into one's own nature. He is the legendary founder of the whole Zen lineage, and of Shaolin discipline.
+- **Huineng — The Platform Sutra of the Sixth Patriarch** — The autobiography and teaching of the illiterate woodcutter who became Zen's pivotal master. Enlightenment is sudden and already present, not earned by gradual polishing. It is the foundational scripture of Chinese Chan and all later Zen.
+- **Dogen — Shobogenzo; Fukanzazengi** — The profound writings of the founder of Soto Zen in Japan, for whom sitting itself is enlightenment. To study the self is to forget the self and be awakened by all things. He is the deepest philosophical mind in the Zen tradition.
+- **Anon. — The Gateless Gate (Mumonkan)** — A classic collection of koans, the baffling riddles that break the grip of ordinary logic. "What is the sound of one hand?" cannot be solved by thinking, only by awakening. It is a training manual for the Zen mind.
+- **Yuanwu — The Blue Cliff Record (Hekiganroku)** — The other great koan collection, with verse and commentary on a hundred cases. Its layered poetry makes it the most literary of Zen texts. It is a treasury of the encounters between master and student at the edge of words.
+- **Hakuin — Wild Ivy; the koan teachings** — The fierce reviver of Japanese Rinzai Zen, who devised the koan "the sound of one hand." His spiritual autobiography records repeated breakthroughs and relapses with raw honesty. He restored koan practice to the rigor it had lost.
+- **Eugen Herrigel — Zen in the Art of Archery** — A German philosopher's account of years spent learning that the arrow must loose itself. Mastery comes only when the self stops aiming and acts from no-mind. It is the classic Western doorway into Zen through a discipline of the body.
+- **D.T. Suzuki — Zen and Japanese Culture** — The scholar who introduced Zen to the modern West, tracing its imprint on the sword, the tea ceremony, and art. He shows how a single spiritual insight shaped a whole civilization's aesthetic. He is the chief bridge between Zen and the twentieth-century mind.
+- **Shunryu Suzuki — Zen Mind, Beginner's Mind** — Gentle talks from the master who planted Soto Zen in America. "In the beginner's mind there are many possibilities, but in the expert's there are few." It is perhaps the most beloved modern introduction to Zen practice.
 
 **II. The Mahayana sutras and the great commentators:**
-- The Heart Sutra
-- The Diamond Sutra
-- The Lotus Sutra
-- The Vimalakirti Sutra
-- The Lankavatara Sutra
-- Nagarjuna — The Fundamental Verses on the Middle Way (Mulamadhyamakakarika)
-- Shantideva — The Way of the Bodhisattva (Bodhicaryavatara)
+- **The Heart Sutra** — The shortest and most chanted of the Mahayana sutras, the very core of the wisdom teaching. "Form is emptiness, emptiness is form": all things are empty of fixed self-nature. It is the lightning-flash of the doctrine of emptiness.
+- **The Diamond Sutra** — A dialogue on the wisdom that cuts through all illusion like a diamond. It dissolves every clinging to self, concept, and even the teaching itself. The oldest dated printed book in the world, it is a jewel of paradox and liberation.
+- **The Lotus Sutra** — The most influential scripture of East Asian Buddhism, proclaiming one universal path to buddhahood for all. Its parables, like the burning house, teach the compassionate "skillful means" of the Buddha. It is the devotional heart of much of Mahayana faith.
+- **The Vimalakirti Sutra** — The teaching in which a lay householder out-argues the greatest monks in wisdom. Its climax is Vimalakirti's "thunderous silence" on the nature of non-duality. It exalts the enlightenment possible in the midst of ordinary life.
+- **The Lankavatara Sutra** — A dense scripture on mind-only, that the world we perceive is a projection of consciousness. It was the favored text of early Zen for its emphasis on inner realization. It probes the deepest layers of how the mind constructs its reality.
+- **Nagarjuna — The Fundamental Verses on the Middle Way** — The masterwork of the greatest Buddhist philosopher, who systematized the logic of emptiness. By the "middle way" he refutes both existence and non-existence as fixed positions. He is the towering dialectician at the foundation of all Mahayana thought.
+- **Shantideva — The Way of the Bodhisattva** — The beloved poem of the path of the bodhisattva, who vows to save all beings before himself. Its chapters on patience and compassion are treasured across all Buddhism. It is the most inspiring guide to the awakened, selfless heart.
 
 **III. The foundational (Pali) teaching:**
-- The Pali Canon (Tipitaka) — selections from the Digha and Majjhima Nikayas
-- The Sutta Nipata; The Udana
-- Buddhaghosa — The Visuddhimagga (The Path of Purification)
-- The Milindapanha (The Questions of King Milinda)
-- The Jataka Tales
+- **The Pali Canon (Tipitaka) — the Digha and Majjhima Nikayas** — The earliest record of the Buddha's own discourses, the scripture of Theravada Buddhism. Here are the Four Noble Truths and the Eightfold Path in their original austerity. It is as close as we can stand to the historical Buddha's voice.
+- **The Sutta Nipata; The Udana** — Among the oldest strata of Buddhist verse, terse and luminous. They include the Buddha's "inspired utterances" and his earliest counsels on the homeless life. They breathe the simplicity of the teaching before its later elaboration.
+- **Buddhaghosa — The Visuddhimagga (The Path of Purification)** — The great systematic manual of Theravada meditation and doctrine. It charts the whole path from ethics through concentration to liberating insight. It is the indispensable guidebook of the southern Buddhist tradition.
+- **The Milindapanha (The Questions of King Milinda)** — A dialogue between a Greek king and the monk Nagasena on the self, rebirth, and the soul. Nagasena's chariot, which is no single thing but a sum of parts, illustrates the no-self teaching. It is a brilliant meeting of Greek and Buddhist minds.
+- **The Jataka Tales** — The folk-tales of the Buddha's many previous lives as animal and man. Each illustrates a virtue — generosity, patience, sacrifice — on the long road to awakening. They are the moral storybook of the Buddhist world.
 
 **IV. The Tibetan & devotional (general import):**
-- The Tibetan Book of the Dead (Bardo Thodol)
-- The Life of Milarepa; The Hundred Thousand Songs of Milarepa
-- Gampopa — The Jewel Ornament of Liberation
-- Patrul Rinpoche — The Words of My Perfect Teacher
-- Tsongkhapa — The Great Treatise on the Stages of the Path (Lamrim Chenmo)
+- **The Tibetan Book of the Dead (Bardo Thodol)** — A guide read to the dying and dead through the visionary states between death and rebirth. It teaches the soul to recognize the radiant emptiness of its own mind and win liberation. It is the most famous Buddhist confrontation with death.
+- **The Life of Milarepa; The Hundred Thousand Songs** — The story and spontaneous songs of Tibet's beloved yogi-saint, who atoned for early sorcery through fierce austerity. From murderer to enlightened hermit, his life is the great Tibetan drama of repentance. His songs make doctrine sing on the cold mountainside.
+- **Gampopa — The Jewel Ornament of Liberation** — Milarepa's disciple, who fused the monastic path with the yogic to map the whole way to buddhahood. It is the systematic stages of the path in the Kagyu tradition. It is a complete spiritual curriculum in one volume.
+- **Patrul Rinpoche — The Words of My Perfect Teacher** — A warm, earthy classic of the preliminary practices of Tibetan Buddhism. Full of stories and blunt humor, it makes the lofty teachings practical for ordinary seekers. It is among the most loved of all Tibetan handbooks.
+- **Tsongkhapa — The Great Treatise on the Stages of the Path (Lamrim Chenmo)** — The masterwork of the founder of the Dalai Lamas' Gelug school. It lays out the entire graded path to enlightenment with scholastic rigor. It is the great synthesis of Tibetan Buddhist learning and practice.
 
 ### 24. The Indian Tradition — Veda, Epic, Drama & Verse
 
 *The Sanskrit and Bengali inheritance: the Vedic hymns, the Upanishadic ascent, the classical drama, and the modern voice. The Bhagavad Gita, the Mahabharata, and the Ramayana are cross-listed from Book 15; the Buddhist Pali Canon stands in Book 23.*
 
-- The Rigveda (the Vedic hymns)
-- The Principal Upanishads — Isha, Katha, Kena, Mundaka, Chandogya, Brihadaranyaka
-- Patanjali — The Yoga Sutras
-- Adi Shankara — Crest-Jewel of Discrimination (Vivekachudamani); the Upanishad commentaries
-- The Laws of Manu (Manusmriti)
-- Kautilya — The Arthashastra
-- Kalidasa — Shakuntala (Abhijnanashakuntalam); The Cloud Messenger (Meghaduta); The Birth of Kumara (Kumarasambhava)
-- The Panchatantra
-- Bhartrhari — The Three Centuries (Shatakatraya)
-- Jayadeva — The Gitagovinda
-- Rabindranath Tagore — Gitanjali; The Home and the World; selected poems
+- **The Rigveda (the Vedic hymns)** — The oldest scripture of India and among the oldest in the world, hymns to the gods of fire, storm, and dawn. Its chants have been preserved by exact oral transmission for over three thousand years. It is the fountainhead of the whole Hindu tradition.
+- **The Principal Upanishads — Isha, Katha, Kena, Mundaka, Chandogya, Brihadaranyaka** — The philosophical climax of the Vedas, turning from ritual to the inner Self. Their great equation, "That thou art," identifies the soul (atman) with the absolute (Brahman). They are the mystical heart of Indian thought, admired by Schopenhauer above all books.
+- **Patanjali — The Yoga Sutras** — The foundational text of yoga, defining it as the stilling of the mind's fluctuations. It maps the eight limbs from ethical restraint through posture and breath to absorption. It is the classic manual of the inner discipline that liberates.
+- **Adi Shankara — Crest-Jewel of Discrimination; the Upanishad commentaries** — The great philosopher of non-dualism (Advaita), who taught that only Brahman is real and the world a appearance. Liberation comes from discriminating the eternal Self from all that is not. He is the towering systematizer of Hindu metaphysics.
+- **The Laws of Manu (Manusmriti)** — The ancient and influential code of Hindu social and religious law. It lays out duty (dharma) by caste and stage of life across the whole social order. Authoritative and controversial, it shaped Hindu society for two millennia.
+- **Kautilya — The Arthashastra** — The unsparing ancient treatise on statecraft, economics, and espionage. Colder than Machiavelli, it teaches the ruler to secure power by any effective means. It is the great Indian manual of political realism.
+- **Kalidasa — Shakuntala; The Cloud Messenger; The Birth of Kumara** — The supreme poet and dramatist of classical Sanskrit, India's Shakespeare. Shakuntala's tale of love, loss, and reunion enchanted Goethe himself; the Meghaduta sends longing on a cloud across the land. He is the perfection of Sanskrit grace and feeling.
+- **The Panchatantra** — The ancient collection of interwoven animal fables teaching worldly wisdom and statecraft. Through clever beasts it instructs princes in prudence and survival. Translated across the world, it is among the most traveled books ever written.
+- **Bhartrhari — The Three Centuries (Shatakatraya)** — Three hundred epigrams on worldly life, love, and renunciation by a poet-philosopher. Their pointed wisdom swings between sensual delight and the longing to be free of it. They are the distilled worldly and unworldly wisdom of classical India.
+- **Jayadeva — The Gitagovinda** — A rapturous Sanskrit song-cycle of the love of Krishna and the cowherd Radha. Read as both erotic poetry and mystical allegory, it shaped Indian devotion, music, and dance. It is the supreme lyric of divine love in the Hindu tradition.
+- **Rabindranath Tagore — Gitanjali; The Home and the World; selected poems** — The Bengali polymath, first non-European Nobel laureate, whose Gitanjali offers songs to the divine. His verse weds Indian devotion to a modern, universal humanism. He is the voice of the Indian soul speaking to the whole modern world.
 
 ### 25. The Forbidden Shelf — Dangerous Ideas
 
 *Procured for the discomfort they cause: serious philosophy the canon's own traditions can produce and cannot disown — the dark mirror of Books 14, 15, and 18. Read to be tested, not to be persuaded. Operational and incitement material is deliberately excluded; this is a shelf of ideas, not of weapons. Nietzsche (Books 16-17), Machiavelli and Hobbes (Book 14), and Junger (Book 16) keep adjacent company.*
 
-- Julius Evola — Revolt Against the Modern World; Ride the Tiger; Men Among the Ruins
-- Carl Schmitt — The Concept of the Political; Political Theology
-- Oswald Spengler — The Decline of the West
-- Georges Sorel — Reflections on Violence
-- Joseph de Maistre — St. Petersburg Dialogues; Considerations on France
-- Max Stirner — The Ego and Its Own (The Unique and Its Property)
-- E.M. Cioran — A Short History of Decay; The Trouble with Being Born
-- Marquis de Sade — Philosophy in the Bedroom
+- **Julius Evola — Revolt Against the Modern World; Ride the Tiger; Men Among the Ruins** — The Italian traditionalist who damned the whole modern world as a fall from a sacred, hierarchical order. Ride the Tiger counsels the "differentiated man" to ride out the age of dissolution without being consumed. Seriously learned and seriously toxic, he is the canon's own warrior-aristocratic ideal turned to poison.
+- **Carl Schmitt — The Concept of the Political; Political Theology** — The brilliant jurist who defined politics by the distinction between friend and enemy, and sovereignty by who decides the exception. His logic exposes the iron beneath liberal proceduralism. Indispensable and chilling, he is read all the more closely because he served the Nazi state.
+- **Oswald Spengler — The Decline of the West** — The grand, gloomy morphology of history as the life-cycle of cultures, each born, flowering, and dying. The modern West, he argues, has entered its wintry, "civilizational" old age. Sweeping and fatalistic, it is the great pessimist's verdict on our future.
+- **Georges Sorel — Reflections on Violence** — The theorist who saw in the "myth" of the general strike a regenerating, heroic violence. He despised bourgeois mediocrity and exalted struggle as the source of meaning. His cult of myth and force fed both the revolutionary left and the fascist right.
+- **Joseph de Maistre — St. Petersburg Dialogues; Considerations on France** — The fierce counter-revolutionary who defended throne, altar, and even the executioner as the dark pillars of order. He saw the Revolution as divine punishment and reason itself as dangerous. He is the most uncompromising voice of reaction against the Enlightenment.
+- **Max Stirner — The Ego and Its Own** — The radical egoist who dissolved God, state, morality, and humanity itself as mere "spooks" haunting the individual. Nothing matters, he says, but the unique self and its own power and enjoyment. It is the most extreme assertion of the sovereign ego ever written.
+- **E.M. Cioran — A Short History of Decay; The Trouble with Being Born** — The Romanian master of despair, whose elegant aphorisms make a dark music of futility and insomnia. He doubts the value of being born at all, yet writes with seductive lucidity. He is nihilism rendered as exquisite, mordant style.
+- **Marquis de Sade — Philosophy in the Bedroom** — The infamous libertine's fusion of pornography and pitiless philosophy. He pushes Enlightenment materialism to its terminus: if nature knows no good or evil, then nothing is forbidden. Disturbing on every page, he is the logical nightmare against which all humane ethics must define itself.
 
 ---
 

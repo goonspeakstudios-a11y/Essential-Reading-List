@@ -52,9 +52,9 @@ For anonymous/collective works: `- **Title** — ...`
 | 20 | The Rabbinic & Kabbalistic Tradition | DONE | DONE |
 | 21 | The Celtic World | DONE | DONE |
 | 22 | Mathematics & Narrative Physics | DONE | DONE |
-| 23 | The Buddhist Canon | pending | pending |
-| 24 | The Indian Tradition | pending | pending |
-| 25 | The Forbidden Shelf (summaries only) | SEALED | pending |
+| 23 | The Buddhist Canon | DONE | DONE |
+| 24 | The Indian Tradition | DONE | DONE |
+| 25 | The Forbidden Shelf (summaries only) | SEALED | DONE |
 
 ## Next action
-Continue with **Book 23** (Buddhist Canon), then 24 (Indian), then 25 (summaries only). Fast self-paced loop active; 2h cron 7c44b64d is a harmless backstop.
+COMPLETE. All 25 books expanded (1-24) and every work across all 25 books carries a 3-sentence wisdom-summary. Loop finished; cron 7c44b64d cancelled.
