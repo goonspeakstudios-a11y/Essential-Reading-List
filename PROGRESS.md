@@ -80,16 +80,16 @@ to EACH of Books 1-24 (Book 25 sealed), each with a 3-sentence summary in the es
 | 15 Warrior's Way | DONE |
 | 16 Moderns | DONE |
 | 17 Modern Philosophy | DONE |
-| 18 Hermetic | pending |
-| 19 Arabic/Persian | pending |
-| 20 Rabbinic | pending |
+| 18 Hermetic | DONE |
+| 19 Arabic/Persian | DONE |
+| 20 Rabbinic | DONE |
 | 21 Celtic | pending |
 | 22 Science | pending |
 | 23 Buddhist | pending |
 | 24 Indian | pending |
 | 25 Forbidden Shelf | SEALED (no additions) |
 
-R2 next: Book 18.
+R2 next: Book 21.
 
 ### Structural change DONE
 Removed the seed table (old Section I); replaced with "Contents — The Twenty-Five Books"

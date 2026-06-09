@@ -550,6 +550,10 @@ A map of the collection. Each book gathers works of one vein; every entry within
 - **Paracelsus — Selected Writings** — The rebel physician-alchemist who overthrew ancient medicine for observation, chemistry, and the doctrine of correspondences. Man is a microcosm, and healing means aligning him with the powers of nature. He is the stormy father of both modern pharmacology and Hermetic medicine.
 - **Giordano Bruno — On the Infinite Universe and Worlds; The Ash Wednesday Supper** — The Hermetic visionary who proclaimed an infinite cosmos of countless worlds and an immanent divine soul. His daring fused the new astronomy with magical religion. Burned by the Inquisition, he became the martyr of free, infinite thought.
 - **Robert Fludd — Utriusque Cosmi Historia** — The Rosicrucian physician's vast, illustrated mapping of the macrocosm and the human microcosm. He saw all of nature as a play of divine light and darkness, music and number. His engravings are the most beautiful images the Hermetic tradition produced.
+- **The Rosicrucian Manifestos (Fama Fraternitatis; Confessio Fraternitatis)** — The anonymous early-seventeenth-century tracts announcing a hidden brotherhood of spiritual reformers. They set off a wave of esoteric hope and intrigue across Europe. They are the founding documents of the Rosicrucian current.
+- **The Key of Solomon (Clavicula Salomonis)** — The most famous of the Renaissance grimoires, ascribed to King Solomon. It sets out the rites, circles, and seals for commanding spirits. It is the archetypal handbook of Western ceremonial magic.
+- **Jakob Bohme — Aurora; The Signature of All Things** — The German shoemaker whose visions saw God struggling into self-revelation through the play of opposites. His dense, fiery theosophy shaped Romanticism, idealism, and later occultism. He is the father of Christian theosophy.
+- **Emanuel Swedenborg — Heaven and Hell** — The eminent scientist who became a visionary, reporting detailed travels through the spirit world. His maps of the afterlife and the "correspondences" between matter and spirit influenced Blake, Yeats, and many after. He is the great modern systematizer of the visionary heaven.
 
 ### 19. The Arabic & Persian World — Epic, Verse & Philosophy
 
@@ -597,6 +601,15 @@ A map of the collection. Each book gathers works of one vein; every entry within
 - **Moses Maimonides — The Guide for the Perplexed** — The Jewish sage of Cairo who reconciled the Torah with Aristotle for minds torn between them. He purifies the idea of God of all crude anthropomorphism. The greatest Jewish philosopher, he shaped Aquinas and the whole medieval debate. (Cross-listed in Book 20.)
 - **Omar Khayyam — Treatise on Algebra** — Beyond his famous quatrains, Khayyam was a first-rank mathematician who classified and solved the cubic equations. He reformed the Persian calendar to remarkable accuracy. He embodies the union of poet and scientist in the medieval Persian genius.
 
+**Further Arabic prose, history & Sufi voices:**
+- **Al-Jahiz — The Book of Animals; The Book of Misers** — The witty Abbasid polymath, the founder of Arabic literary prose. His digressive, encyclopedic curiosity ranges from zoology to human folly. He is the great entertainer and observer of classical Arabic letters.
+- **Al-Masudi — The Meadows of Gold** — The wide-traveling historian-geographer called "the Herodotus of the Arabs." His work weaves history, science, and anecdote from across the known world. It is a dazzling panorama of the medieval Islamic horizon.
+- **Rabia al-Adawiyya — Poems and Sayings** — The woman saint of early Sufism, who taught the love of God for his own sake alone. She would quench hell and burn heaven, she said, that men might love God without fear or bribe. She is the purest early voice of selfless divine love.
+- **Al-Hallaj — The Tawasin; the poems** — The Sufi martyr executed for crying "I am the Truth" in the ecstasy of union. His annihilation of the self in God scandalized the orthodox and inspired the mystics. He is the supreme symbol of love that pays with its life.
+
+**Further Persian voices:**
+- **Nasir Khusraw — Diwan; Safarnama** — The Persian poet, philosopher, and traveler whose Book of Travels records a seven-year journey to Mecca and Egypt. His verse joins ethical seriousness to devotion. He is a singular voice of conscience and pilgrimage.
+
 ### 20. The Rabbinic & Kabbalistic Tradition
 
 *The Jewish textual world beneath the Tanakh: the Oral Torah set to writing — its law, its lore, and the mystical ascent. Sefer Yetzirah and the Zohar are cross-listed from Book 18; the Guide for the Perplexed from Book 19.*
@@ -623,6 +636,12 @@ A map of the collection. Each book gathers works of one vein; every entry within
 - **Isaac Luria & Chaim Vital — Etz Chaim (The Tree of Life)** — The revolutionary Kabbalah of the Safed master, recorded by his disciple. Creation begins with God's self-contraction; the cosmic vessels shatter, and humanity's task is to gather the scattered sparks. This drama of exile and repair (tikkun) reshaped all later Jewish mysticism.
 - **Moses Chaim Luzzatto — The Path of the Just (Mesillat Yesharim)** — A ladder of moral and spiritual ascent, from watchfulness to holiness. Beloved across all Jewish movements, it makes the mystic's path into daily ethical discipline. It is the most practical of the great Kabbalistic-ethical works.
 - **Sefer Raziel HaMalakh** — A medieval grimoire of angelic and cosmological lore, ascribed to the angel Raziel teaching Adam. It gathers names, amulets, and secrets of creation. It is the folk-magical fringe of the Kabbalistic tradition.
+
+**Liturgy, Hasidism & the modern voice:**
+- **The Passover Haggadah** — The liturgy of the seder, retelling the Exodus so each generation may feel it left Egypt itself. Around the table it turns memory into living obligation and hope. It is the most beloved and most reprinted text of Jewish home worship.
+- **Nachman of Breslov — Likutei Moharan; The Tales** — The Hasidic master whose teachings and mystical fairy tales plumb joy, despair, and faith. "The whole world is a very narrow bridge, and the main thing is not to fear." He is the storyteller-saint of the Hasidic soul.
+- **Martin Buber — I and Thou** — The modern philosopher who distinguished the I-It of use from the I-Thou of genuine encounter. We become persons only in real meeting with another, and ultimately with the eternal Thou. It is a slender book that reshaped modern religious thought.
+- **Abraham Joshua Heschel — The Sabbath; God in Search of Man** — The modern sage who recovered the prophets' sense of wonder and the holiness of time. The Sabbath, he writes, is a cathedral built not in space but in the hours. He is the great modern voice of radical amazement before God.
 
 ### 21. The Celtic World — Myth, Epic, Law & History
 
