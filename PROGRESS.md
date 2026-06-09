@@ -83,13 +83,14 @@ to EACH of Books 1-24 (Book 25 sealed), each with a 3-sentence summary in the es
 | 18 Hermetic | DONE |
 | 19 Arabic/Persian | DONE |
 | 20 Rabbinic | DONE |
-| 21 Celtic | pending |
-| 22 Science | pending |
-| 23 Buddhist | pending |
-| 24 Indian | pending |
+| 21 Celtic | DONE |
+| 22 Science | DONE |
+| 23 Buddhist | DONE |
+| 24 Indian | DONE |
 | 25 Forbidden Shelf | SEALED (no additions) |
 
-R2 next: Book 21.
+R2 COMPLETE — all of Books 1-24 expanded in Round 2. Book 25 sealed.
+Next: the queued ToposText download task (robots.txt + ToS check first).
 
 ### Structural change DONE
 Removed the seed table (old Section I); replaced with "Contents — The Twenty-Five Books"

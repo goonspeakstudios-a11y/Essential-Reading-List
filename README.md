@@ -672,6 +672,12 @@ A map of the collection. Each book gathers works of one vein; every entry within
 - **The Voyage of St. Brendan (Navigatio Sancti Brendani)** — The wildly popular tale of an Irish abbot's sea-quest for the Promised Land of the Saints. Its marvels, whales, and floating islands enchanted all of medieval Europe. It is the Christian immram, pilgrimage as high adventure.
 - **Nennius — Historia Brittonum** — An early compilation of British history and legend, our first source for Arthur as war-leader. It lists his twelve victorious battles against the Saxons. It is a seedbed from which the whole Arthurian legend would grow.
 
+**Further Irish & Welsh:**
+- **Buile Suibhne (The Frenzy of Sweeney)** — The tale of a king cursed into madness and birdlike flight, wandering Ireland in exile. His laments are some of the loveliest nature poetry in the language. It has haunted modern poets from Flann O'Brien to Seamus Heaney.
+- **Early Irish Nature Lyrics (incl. "Pangur Ban")** — The marginal poems of monk-scribes on hermitage, birdsong, and the seasons. "Pangur Ban," on a monk and his cat each hunting in the night, is the most beloved. They are small, clear windows onto the early Irish religious soul.
+- **Sanas Cormaic (Cormac's Glossary)** — An early medieval Irish encyclopedic glossary, the first in any European vernacular. It explains words through etymology, lore, and legend. It is a treasury of the vanished knowledge of Gaelic Ireland.
+- **Dafydd ap Gwilym — Poems** — The greatest medieval Welsh poet, master of love, longing, and the living woodland. He wed native bardic craft to the new continental themes of courtly love. He is the supreme lyric voice of medieval Wales.
+
 ### 22. Mathematics, Nature & the Physical Order
 
 *The scientific seam, entered by its most literary door — works that narrate the physical and mathematical order rather than merely compute it. The thread Mandelbrot opened: the geometry of the irregular and the wild.*
@@ -687,6 +693,10 @@ A map of the collection. Each book gathers works of one vein; every entry within
 - **Erwin Schrodinger — What Is Life?** — The quantum physicist's slim, prophetic inquiry into the physical basis of the living. His idea of an "aperiodic crystal" carrying the code of life helped inspire the discovery of DNA. It is the bridge by which physics walked into biology.
 - **Richard Feynman — The Character of Physical Law; QED** — The great explainer, who conveyed the deep structure and strangeness of physics with joyful clarity. He insists on honesty, doubt, and the pleasure of finding things out. He is the modern model of the scientist as both genius and delighted teacher.
 - **James Gleick — Chaos: Making a New Science** — The vivid chronicle of how scientists discovered order in apparent randomness. The butterfly effect, strange attractors, and fractals reveal a hidden patterning in turbulence and weather. It is the story of a whole new way of seeing the irregular world.
+- **Nicolaus Copernicus — On the Revolutions of the Heavenly Spheres** — The book that moved the earth, placing the sun at the center of the cosmos. It quietly began the revolution that would unseat humanity from the middle of creation. Few single ideas have so completely changed our place in the universe.
+- **Johannes Kepler — Astronomia Nova; Harmonices Mundi** — The mystic-mathematician who found the planets move in ellipses, not perfect circles, and sang of the harmony of their orbits. He fused rigorous calculation with a Pythagorean faith that the cosmos is music made visible. He is the bridge from Copernicus's dream to Newton's proof.
+- **G.H. Hardy — A Mathematician's Apology** — A great pure mathematician's elegant defense of his art as the creation of beauty. Mathematics, he insists, is judged like poetry, by elegance and depth, not use. It is the most charming statement ever written of why the abstract is beautiful.
+- **Primo Levi — The Periodic Table** — A chemist and Auschwitz survivor's memoir told through the elements, one per chapter. Each substance becomes a meditation on life, matter, and human nature. It is the supreme proof that science can be literature of the highest order.
 
 ### 23. The Buddhist Canon — Zen, the Warrior's Mind & Beyond
 
@@ -728,6 +738,12 @@ A map of the collection. Each book gathers works of one vein; every entry within
 - **Patrul Rinpoche — The Words of My Perfect Teacher** — A warm, earthy classic of the preliminary practices of Tibetan Buddhism. Full of stories and blunt humor, it makes the lofty teachings practical for ordinary seekers. It is among the most loved of all Tibetan handbooks.
 - **Tsongkhapa — The Great Treatise on the Stages of the Path (Lamrim Chenmo)** — The masterwork of the founder of the Dalai Lamas' Gelug school. It lays out the entire graded path to enlightenment with scholastic rigor. It is the great synthesis of Tibetan Buddhist learning and practice.
 
+**V. Further sutras & masters:**
+- **Ashvaghosha — Buddhacarita (The Life of the Buddha)** — The earliest complete poetic life of the Buddha, in polished Sanskrit epic verse. It follows the prince from his sheltered palace to enlightenment and teaching. It is the classical literary telling of the founder's story.
+- **The Avatamsaka (Flower Garland) Sutra** — A vast, visionary Mahayana scripture of an infinitely interpenetrating cosmos. Every speck of dust mirrors the whole, "like jewels in Indra's net." It is the grandest cosmic poetry in all of Buddhism.
+- **The Surangama Sutra** — A profound scripture on the nature of mind, perception, and meditative power, central to Chan. It exposes the illusions that bind the mind and the path to its awakening. It was a favorite of the Zen masters for its psychological depth.
+- **The Record of Linji (Rinzai Roku)** — The fierce, electric sayings of the Tang master who founded the Rinzai line. "If you meet the Buddha, kill the Buddha": he smashes every idol that blocks direct awakening. It is Zen at its most uncompromising and alive.
+
 ### 24. The Indian Tradition — Veda, Epic, Drama & Verse
 
 *The Sanskrit and Bengali inheritance: the Vedic hymns, the Upanishadic ascent, the classical drama, and the modern voice. The Bhagavad Gita, the Mahabharata, and the Ramayana are cross-listed from Book 15; the Buddhist Pali Canon stands in Book 23.*
@@ -743,6 +759,10 @@ A map of the collection. Each book gathers works of one vein; every entry within
 - **Bhartrhari — The Three Centuries (Shatakatraya)** — Three hundred epigrams on worldly life, love, and renunciation by a poet-philosopher. Their pointed wisdom swings between sensual delight and the longing to be free of it. They are the distilled worldly and unworldly wisdom of classical India.
 - **Jayadeva — The Gitagovinda** — A rapturous Sanskrit song-cycle of the love of Krishna and the cowherd Radha. Read as both erotic poetry and mystical allegory, it shaped Indian devotion, music, and dance. It is the supreme lyric of divine love in the Hindu tradition.
 - **Rabindranath Tagore — Gitanjali; The Home and the World; selected poems** — The Bengali polymath, first non-European Nobel laureate, whose Gitanjali offers songs to the divine. His verse weds Indian devotion to a modern, universal humanism. He is the voice of the Indian soul speaking to the whole modern world.
+- **Tiruvalluvar — Tirukkural** — The revered Tamil classic of couplets on virtue, wealth, and love. Non-sectarian and universal, it distills a whole ethics of right living into pointed verse. It is the moral conscience of the Tamil people, treasured for two millennia.
+- **Sudraka — The Little Clay Cart (Mrcchakatika)** — A warm, earthy Sanskrit drama of a poor merchant, a courtesan, and a city in revolt. Far from the courtly mode, it teems with rogues, gamblers, and real human life. It is the most lifelike and beloved of the classical Indian plays.
+- **Tulsidas — Ramcharitmanas** — The great Hindi retelling of the Ramayana, the most beloved devotional book of northern India. It turns the epic of Rama into an outpouring of loving faith. For millions it is the living scripture recited and enacted every year.
+- **Kabir — Poems (the Bijak; the dohas)** — The weaver-mystic who mocked the empty rituals of both Hindu and Muslim and sang of the formless God within. His blunt, paradoxical couplets cut through dogma to direct experience. He is the great voice of India's devotional, boundary-crossing mysticism.
 
 ### 25. The Forbidden Shelf — Dangerous Ideas
 
