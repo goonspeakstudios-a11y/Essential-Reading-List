@@ -40,9 +40,9 @@ For anonymous/collective works: `- **Title** — ...`
 | 8 | Greek Philosophy | DONE | DONE |
 | 9 | History & Biography (Classical) | DONE | DONE |
 | 10 | Roman Prose & Letters | DONE | DONE |
-| 11 | Medieval History & Chronicle | pending | pending |
-| 12 | Germanic, Norse & Anglo-Saxon | pending | pending |
-| 13 | Chivalry & Romance | pending | pending |
+| 11 | Medieval History & Chronicle | DONE | DONE |
+| 12 | Germanic, Norse & Anglo-Saxon | DONE | DONE |
+| 13 | Chivalry & Romance | DONE | DONE |
 | 14 | Statecraft & Political Philosophy | pending | pending |
 | 15 | The Warrior's Way | pending | pending |
 | 16 | The Moderns | pending | pending |
@@ -57,4 +57,4 @@ For anonymous/collective works: `- **Title** — ...`
 | 25 | The Forbidden Shelf (summaries only) | SEALED | pending |
 
 ## Next action
-Continue with **Book 11** (Medieval History & Chronicle). Cron cancelled — grinding straight through in active turns.
+Continue with **Book 14** (Statecraft & Political Philosophy). Self-paced loop via ScheduleWakeup — continues autonomously until all books done.

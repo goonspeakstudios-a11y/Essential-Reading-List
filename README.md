@@ -247,49 +247,58 @@ The works named at founding, with corrected titles and translators where given.
 - **Vegetius — On Military Matters (De Re Militari)** — The late-Roman summary of the army's training, organization, and tactics, written to revive a fading discipline. "Let him who desires peace prepare for war" is its enduring maxim. It was the bible of European warfare straight through the Middle Ages.
 
 ### 11. Medieval History, Chronicle & Hagiography
-- Gregory of Tours — The History of the Franks
-- Einhard — The Life of Charlemagne
-- Asser — The Life of King Alfred
-- The Anglo-Saxon Chronicle
-- Gildas — On the Ruin of Britain
-- Jordanes — Getica (The Origin and Deeds of the Goths)
-- Paul the Deacon — History of the Lombards
-- Geoffrey of Monmouth — The History of the Kings of Britain
-- Procopius — The Wars; The Secret History
-- William of Malmesbury — Deeds of the Kings of the English
-- Jacobus de Voragine — The Golden Legend
-- Saxo Grammaticus — Gesta Danorum
-- Adam of Bremen — Deeds of the Bishops of Hamburg
+
+*How the Middle Ages remembered itself — the chronicles of kings and peoples and the lives of the saints. Orosius and Bede's Ecclesiastical History head this book from the seed (Book I).*
+
+- **Gregory of Tours — The History of the Franks** — The earliest narrative of the Merovingian kingdom, written by a bishop in the thick of its bloodshed. Vivid, credulous, and indispensable, it shows a brutal age held together by a fragile Christianity. It is our chief window onto Europe in the sixth century.
+- **Einhard — The Life of Charlemagne** — A short, affectionate biography of the emperor by a member of his court, modeled on Suetonius. It humanizes the towering figure of the Carolingian renaissance, down to his swimming and his failed efforts to learn writing. It is the finest piece of biography the early Middle Ages produced.
+- **Asser — The Life of King Alfred** — The contemporary life of the only English king called "the Great," scholar and defender against the Vikings. It portrays a ruler who translated books with his own hand and built a kingdom of learning amid war. It is the portrait of the philosopher-king the canon's whole curriculum imagines.
+- **The Anglo-Saxon Chronicle** — The year-by-year record of England begun under Alfred and kept for centuries. It is the first sustained history written in a European vernacular rather than Latin. Through its terse entries one watches a nation slowly come to consciousness of itself.
+- **Gildas — On the Ruin of Britain** — A furious sixth-century sermon blaming the Saxon conquest on the sins of the British rulers. More jeremiad than history, it is nonetheless our only near-contemporary voice from sub-Roman Britain. It is the agonized cry of a Christian civilization watching itself fall.
+- **Jordanes — Getica** — A condensed history of the Goths, preserving the lost work of Cassiodorus. It gave the Germanic peoples a heroic origin-story to set beside Rome's. It is where the barbarian nations first enter written history as protagonists.
+- **Paul the Deacon — History of the Lombards** — The warm, anecdote-rich chronicle of the last Germanic people to invade Italy. Written at Charlemagne's court, it saves the traditions of a vanishing nation. It blends saga, legend, and history into a single national memory.
+- **Geoffrey of Monmouth — The History of the Kings of Britain** — The wildly inventive "history" that gave Europe King Arthur, Merlin, and Lear. Largely fiction, it became one of the most influential books of the Middle Ages. It proves how a great story, dressed as history, can shape a civilization's dreams.
+- **Procopius — The Wars; The Secret History** — The official historian of Justinian's reconquests, who also wrote a venomous private exposé of the same court. Together they are the public and the scandalous faces of Byzantine power. The Secret History is one of the most startling acts of character assassination ever penned.
+- **William of Malmesbury — Deeds of the Kings of the English** — The most accomplished English historian between Bede and the moderns. He wrote with genuine critical sense, weighing his sources and shaping a real narrative. He marks the revival of serious historical writing in twelfth-century England.
+- **Jacobus de Voragine — The Golden Legend** — The medieval bestseller of saints' lives, read more than any book but the Bible. Its miracles and martyrdoms furnished the imagery of countless paintings and windows. It is the imaginative world of medieval Christendom in a single volume.
+- **Saxo Grammaticus — Gesta Danorum** — A grand Latin history of the Danes, preserving the legend that became Shakespeare's Hamlet. It blends Norse myth and patriotic chronicle into a national epic in prose. It is the bridge by which the pagan north entered Christian Latin letters.
+- **Adam of Bremen — Deeds of the Bishops of Hamburg** — A church history that doubles as our best early description of Scandinavia and the lands of the Baltic. It records the pagan temple at Uppsala and even rumors of Vinland across the sea. It is the medieval north mapped at the very edge of the known world.
 
 ### 12. Germanic, Norse & Anglo-Saxon
-- The Poetic Edda
-- Snorri Sturluson — The Prose Edda; Heimskringla
-- The Nibelungenlied
-- The Saga of the Volsungs
-- Njal's Saga; Egil's Saga; Laxdaela Saga
-- The Anglo-Saxon elegies — The Wanderer; The Seafarer; The Dream of the Rood; The Battle of Maldon
-- Caedmon's Hymn
-- The Kalevala
+
+*The heroic literature of the northern peoples — fate, courage, and the doomed loyalty of the war-band. Beowulf stands here from the seed (Book I).*
+
+- **The Poetic Edda** — The collection of Old Norse mythological and heroic poems, our primary source for the pagan gods of the north. Here are Odin's wisdom, the doom of Ragnarok, and the tragic Volsung legends. It is the raw scripture of Germanic paganism, grand and grim.
+- **Snorri Sturluson — The Prose Edda; Heimskringla** — The Icelandic chieftain who, as a Christian, lovingly systematized the old myths so the poets' craft would not be lost, then wrote the saga-history of Norway's kings. Without him, Norse mythology would be a heap of fragments. He is the great conservator of the pagan imagination of the north.
+- **The Nibelungenlied** — The Middle High German epic of Siegfried, the dragon's hoard, and Kriemhild's terrible revenge. A world of courtly splendor collapses into a hall of slaughter. It is the Germanic Iliad, and the seed of Wagner's Ring.
+- **The Saga of the Volsungs** — The prose telling of the Norse Siegfried legend, of cursed gold, broken oaths, and heroic doom. Tolkien drank from it directly. It is the northern myth of fate at its most concentrated and dark.
+- **Njal's Saga; Egil's Saga; Laxdaela Saga** — The masterpieces of the Icelandic family sagas, realist tales of feud, law, and honor among ordinary farmers. Their flat, understated prose conceals an iron sense of fate and character. They are perhaps the most modern-feeling narratives in all medieval literature.
+- **The Anglo-Saxon Elegies — The Wanderer; The Seafarer; The Dream of the Rood; The Battle of Maldon** — Short Old English poems of exile, the sea, the cross, and a last doomed stand. They fuse pagan stoicism with Christian hope in a tone of grave, autumnal beauty. Maldon's "thought shall be the harder, heart the keener, as our might lessens" is the purest creed of heroic resolve.
+- **Caedmon's Hymn** — The oldest recorded English poem, a herdsman's miraculous song of creation. According to Bede, the unlettered Caedmon received the gift of verse in a dream. It is the very first note of English literature.
+- **The Kalevala** — The Finnish national epic, assembled from oral folk poetry, of the wizard-bard Vainamoinen and the magical Sampo. Its incantatory rhythm shaped both Sibelius and Tolkien. It preserves a whole pagan world-feeling that elsewhere was lost.
 
 ### 13. Chivalry, Romance & High Medieval Epic
-- The Song of Roland
-- The Poem of the Cid (Cantar de mio Cid)
-- Chretien de Troyes — Perceval; Lancelot; Yvain; Erec and Enide
-- Wolfram von Eschenbach — Parzival
-- Gottfried von Strassburg — Tristan
-- Anon. — Sir Gawain and the Green Knight
-- Anon. — The Quest of the Holy Grail
-- The Mabinogion
-- Dante Alighieri — The Divine Comedy; De Monarchia
-- Geoffrey Chaucer — The Canterbury Tales; Troilus and Criseyde
-- Giovanni Boccaccio — The Decameron
-- Guillaume de Lorris & Jean de Meun — The Romance of the Rose
-- Ludovico Ariosto — Orlando Furioso
-- Torquato Tasso — Jerusalem Delivered
-- Edmund Spenser — The Faerie Queene
-- Jean Froissart — Chronicles
-- Petrarch — Canzoniere (Rerum Vulgarium Fragmenta)
-- Francois Villon — The Testament
+
+*The flowering of the vernaculars into knighthood, courtly love, and the quest — the literature that gave the West its ideal of the noble soul. Malory's Le Morte d'Arthur heads this book from the seed (Book I).*
+
+- **The Song of Roland** — The oldest and greatest French epic, of Charlemagne's rearguard betrayed and Roland's defiant death at Roncesvalles. It crystallizes the feudal virtues of loyalty, courage, and faith against the infidel. It is the founding poem of French national and chivalric identity.
+- **The Poem of the Cid** — The Spanish national epic of the exiled knight who wins back his honor by the sword. Unusually grounded and humane, its hero is a real man of measure and loyalty, not a superhuman. It is Castile's portrait of the ideal vassal and warrior.
+- **Chretien de Troyes — Perceval; Lancelot; Yvain; Erec and Enide** — The poet who all but invented Arthurian romance and introduced the Grail and Lancelot's adulterous love. He fused adventure with the new ideology of refined, ennobling love. Every later knight-errant rides in his characters' tracks.
+- **Wolfram von Eschenbach — Parzival** — The German masterpiece of the Grail quest, tracing a naive fool's growth into wisdom and compassion. Its hero learns that the right question is born of pity, not prowess. It is the deepest spiritual romance of the Middle Ages, and the root of Wagner's Parsifal.
+- **Gottfried von Strassburg — Tristan** — The supreme telling of the love-potion legend of Tristan and Isolde. It exalts an overwhelming passion that defies marriage, loyalty, and death itself. It is the West's most exquisite and most dangerous celebration of romantic love.
+- **Anon. — Sir Gawain and the Green Knight** — The jewel of Middle English romance, a beheading game testing one knight's courage and chastity. Its hero fails by a hair and learns the humbling truth of his own frailty. It is chivalry examined with subtlety, irony, and grace.
+- **Anon. — The Quest of the Holy Grail** — The mystical heart of the Arthurian cycle, where earthly chivalry is judged against the spiritual. Only the pure Galahad achieves the Grail; Lancelot's glory avails him nothing. It turns the romance of arms into an allegory of salvation.
+- **The Mabinogion** — The four branches of Welsh myth and the earliest Arthurian tales, full of shape-shifting and otherworldly wonder. They preserve a Celtic imagination older and stranger than the French romances. They are the wellspring from which much of the Arthurian legend first flowed.
+- **Dante Alighieri — The Divine Comedy; De Monarchia** — The supreme poem of the Middle Ages, a journey through Hell, Purgatory, and Paradise to the vision of God. It gathers all of medieval theology, politics, and passion into one architecture of perfect order. To read it is to ascend, with Dante, from despair to "the Love that moves the sun and the other stars."
+- **Geoffrey Chaucer — The Canterbury Tales; Troilus and Criseyde** — The father of English poetry, whose pilgrims span every rank and folly of his world. His humane irony and ear for real speech created English literature as a living art. Troilus is, besides, one of the great tragic love poems in the language.
+- **Giovanni Boccaccio — The Decameron** — A hundred tales told by young Florentines fleeing the Black Death, ranging from the bawdy to the noble. Its earthy delight in human appetite announces a new, worldly sensibility. It is the prose counterpart to the dawning Renaissance.
+- **Guillaume de Lorris & Jean de Meun — The Romance of the Rose** — The most influential allegory of courtly love in the Middle Ages, begun as idealism and finished as worldly encyclopedia. Its dream-vision of the quest for the Rose shaped centuries of love poetry. It is medieval Eros turned into a vast philosophical garden.
+- **Ludovico Ariosto — Orlando Furioso** — The dazzling Renaissance epic of Charlemagne's knights, Saracen wars, and Orlando driven mad by love. Its endless invention and ironic sparkle make it the most purely delightful of the chivalric poems. It is the genre at its most exuberant, just before it laughs at itself.
+- **Torquato Tasso — Jerusalem Delivered** — The great epic of the First Crusade and the taking of Jerusalem, shadowed by enchantment and doomed love. It weds heroic grandeur to a melancholy, almost modern sensibility. It is the last serious flowering of the Christian epic of arms.
+- **Edmund Spenser — The Faerie Queene** — The vast English allegory in which each knight embodies a virtue in the service of Gloriana. It fuses Arthurian romance, Protestant zeal, and Renaissance art into a deliberately archaic music. It is a whole moral world built as an enchanted forest.
+- **Jean Froissart — Chronicles** — The brilliant eyewitness narrative of the Hundred Years' War and the age of chivalry at its height. Froissart loved the pageantry of knighthood and recorded it in glittering detail. It is how the late Middle Ages saw, and romanticized, its own warfare.
+- **Petrarch — Canzoniere** — The sonnet-sequence to Laura that founded the European lyric of love and inner conflict. Petrarch turned poetry inward to the divided, yearning self. His form and his psychology ruled love poetry for three hundred years.
+- **Francois Villon — The Testament** — The mock-will of a Parisian thief and poet, by turns ribald, repentant, and haunted by death. "Where are the snows of yesteryear?" sounds the note of mortality beneath all his bravado. He is the first great voice of the outcast in European poetry.
 
 ### 14. Statecraft, Political Philosophy & Law
 - Plato — Republic; Laws
