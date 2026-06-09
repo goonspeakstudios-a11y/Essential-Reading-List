@@ -410,57 +410,57 @@ The works named at founding, with corrected titles and translators where given.
 
 *The line the seed left implicit: from the rebirth of doubt through German Idealism to the descent into the unconscious. This is the explicit charge — Schopenhauer, Hegel, Jung, and their company.*
 
-- Michel de Montaigne — Essays
-- Francis Bacon — Novum Organum; Essays
-- Rene Descartes — Meditations on First Philosophy; Discourse on Method
-- Blaise Pascal — Pensees
-- Baruch Spinoza — Ethics
-- Gottfried Wilhelm Leibniz — Monadology
-- John Locke — An Essay Concerning Human Understanding; Two Treatises of Government
-- George Berkeley — Principles of Human Knowledge
-- David Hume — A Treatise of Human Nature; Enquiry Concerning Human Understanding
-- Jean-Jacques Rousseau — The Social Contract; Emile; Confessions
-- Immanuel Kant — Critique of Pure Reason; Critique of Practical Reason; Critique of Judgment; Groundwork of the Metaphysics of Morals
-- Johann Gottlieb Fichte — The Science of Knowledge
-- Friedrich Schelling — System of Transcendental Idealism
-- Georg Wilhelm Friedrich Hegel — The Phenomenology of Spirit; The Science of Logic; The Philosophy of Right; Lectures on the Philosophy of History
-- Arthur Schopenhauer — The World as Will and Representation; On the Suffering of the World; Essays and Aphorisms
-- Soren Kierkegaard — Fear and Trembling; Either/Or; The Sickness Unto Death
-- Friedrich Nietzsche — The Birth of Tragedy; On the Genealogy of Morals; The Gay Science (Zarathustra & Beyond Good and Evil cross-listed in Book 16)
-- Karl Marx — Capital; Economic and Philosophic Manuscripts
-- Henri Bergson — Creative Evolution
-- William James — The Principles of Psychology; The Varieties of Religious Experience
-- Edmund Husserl — Cartesian Meditations
-- Martin Heidegger — Being and Time
-- Ludwig Wittgenstein — Tractatus Logico-Philosophicus; Philosophical Investigations
-- Jean-Paul Sartre — Being and Nothingness
+- **Michel de Montaigne — Essays** — The Frenchman who invented the essay as a form, turning his own mind into the subject of study. "What do I know?" is his motto, and honest self-examination his method against all dogmatism. He teaches the wisdom of doubt, moderation, and frank acquaintance with oneself.
+- **Francis Bacon — Novum Organum; Essays** — The herald of modern science, who urged that knowledge be built on experiment rather than ancient authority. He catalogs the "idols" — the mental habits that distort our seeing. "Knowledge is power": his program remade the human relationship to nature.
+- **Rene Descartes — Meditations on First Philosophy; Discourse on Method** — The father of modern philosophy, who doubted everything until he reached the one certainty, "I think, therefore I am." From that fixed point he rebuilt knowledge on reason alone. His split of mind from matter set the agenda, and the problems, of all that followed.
+- **Blaise Pascal — Pensees** — The mathematician-mystic's fragmentary defense of Christianity to a skeptical age. Man is a "thinking reed," wretched and great, lost between the infinite and the void. His wager and his sense of the heart's reasons still pierce the modern unbeliever.
+- **Baruch Spinoza — Ethics** — The lens-grinder's austere system, proved like geometry, in which God and Nature are one infinite substance. Freedom is understanding necessity and loving the whole intellectually. Excommunicated and serene, he is the West's model of the philosopher who lives his thought.
+- **Gottfried Wilhelm Leibniz — Monadology** — The universal genius who built reality from "monads," windowless points of perception in pre-established harmony. Ours is "the best of all possible worlds," a claim Voltaire would mock forever. He is rationalism at its most ingenious and optimistic.
+- **John Locke — An Essay Concerning Human Understanding; Two Treatises of Government** — The founder of empiricism, who held the mind a blank slate written on by experience. His Treatises grounded government in consent and the natural rights to life, liberty, and property. He is the philosophical father of liberal democracy and the American founding.
+- **George Berkeley — Principles of Human Knowledge** — The bishop who argued that to be is to be perceived, and that matter without mind is a fiction. The world's continued existence rests in the perceiving of God. His brilliant idealism is the hardest of all positions to refute and to believe.
+- **David Hume — A Treatise of Human Nature; Enquiry Concerning Human Understanding** — The great skeptic who showed that cause, the self, and even induction rest on habit, not proof. Reason, he says, is and ought to be the slave of the passions. He woke Kant from his "dogmatic slumber" and set the limits of what we can claim to know.
+- **Jean-Jacques Rousseau — The Social Contract; Emile; Confessions** — The prophet of nature, feeling, and the sovereign people against a corrupting civilization. "Man is born free, and everywhere he is in chains." His ideas lit the French Revolution, modern education, and the Romantic cult of the authentic self.
+- **Immanuel Kant — Critique of Pure Reason; of Practical Reason; of Judgment; Groundwork** — The hinge of modern philosophy, who showed the mind actively shapes experience through its own forms. Morality rests on the categorical imperative: act only as you could will all to act. "Two things fill the mind with awe: the starry heavens above and the moral law within."
+- **Johann Gottlieb Fichte — The Science of Knowledge** — The idealist who made the active, striving "I" the ground of all reality. The self posits itself and the world in one creative act of freedom. He turned Kant's philosophy into a summons to moral self-creation.
+- **Friedrich Schelling — System of Transcendental Idealism** — The philosopher of nature as visible spirit and spirit as invisible nature. Art, for him, is where the conscious and unconscious meet and the absolute shows itself. He gave Romanticism its deepest philosophy of nature and creativity.
+- **Georg Wilhelm Friedrich Hegel — The Phenomenology of Spirit; Science of Logic; Philosophy of Right** — The most ambitious of all systems, in which Spirit comes to know itself through the dialectical unfolding of history. Thesis meets contradiction and is resolved at a higher level, again and again, toward freedom. "The real is the rational": he tried to think the whole of reality as one self-developing idea.
+- **Arthur Schopenhauer — The World as Will and Representation; Essays and Aphorisms** — The great pessimist, who saw behind all appearance a blind, striving Will that dooms us to ceaseless craving and pain. Release comes only through art, compassion, and the denial of the will. His honesty about suffering and his debt to Indian thought shaped Wagner, Nietzsche, and Freud.
+- **Soren Kierkegaard — Fear and Trembling; Either/Or; The Sickness Unto Death** — The melancholy Dane and father of existentialism, who insisted that truth is subjectivity and faith a leap beyond reason. Abraham's readiness to sacrifice Isaac shows faith suspending the ethical. He maps the despair of the self and the terrifying freedom of becoming an individual before God.
+- **Friedrich Nietzsche — The Birth of Tragedy; On the Genealogy of Morals; The Gay Science** — The diagnostician of nihilism, who traced our values to their hidden, often ignoble origins. Slave morality, the death of God, the will to power: he exposes the wound and dares us to heal it by creating anew. (Zarathustra and Beyond Good and Evil are cross-listed in Book 16.)
+- **Karl Marx — Capital; Economic and Philosophic Manuscripts** — The philosopher who turned Hegel "right side up" and read history as the struggle over material production. Capital anatomizes how labor is exploited and workers estranged from their own lives. Right or wrong, no thinker did more to shape the politics of the modern world.
+- **Henri Bergson — Creative Evolution** — The philosopher of time as lived duration, irreducible to the clock and the spatial measurements of science. Life is a creative surge, the elan vital, ever bringing forth the new. He restored intuition and real becoming against a mechanized picture of the world.
+- **William James — The Principles of Psychology; The Varieties of Religious Experience** — The American pragmatist who judged ideas by their fruits in lived experience. The Varieties takes religious experience seriously as data about reality. He defends the right to believe where evidence runs out and life demands a choice.
+- **Edmund Husserl — Cartesian Meditations** — The founder of phenomenology, who called philosophy "back to the things themselves." By bracketing assumptions, he sought to describe the structures of consciousness exactly as they appear. He gave twentieth-century thought a rigorous new method for the life of the mind.
+- **Martin Heidegger — Being and Time** — The dark, difficult masterwork reopening the forgotten question of Being itself. We are "thrown" into existence, fallen into distraction, and authentic only when we face our being-toward-death. However shadowed by his politics, he reshaped how the century thought about existence.
+- **Ludwig Wittgenstein — Tractatus Logico-Philosophicus; Philosophical Investigations** — The genius who twice transformed philosophy, first reducing it to logic, then dissolving its problems into the muddles of language. "Whereof one cannot speak, thereof one must be silent." His later work shows meaning living in the public games we play with words.
+- **Jean-Paul Sartre — Being and Nothingness** — The high priest of existentialism, who declared that existence precedes essence and we are "condemned to be free." We invent ourselves by our choices and flee that burden through "bad faith." He makes radical freedom and total responsibility the inescapable human condition.
 
 **Depth Psychology — the descent into the soul:**
-- Sigmund Freud — The Interpretation of Dreams; Civilization and Its Discontents; Beyond the Pleasure Principle
-- Carl Gustav Jung — Psychological Types; The Archetypes and the Collective Unconscious; Aion; Answer to Job; Man and His Symbols; Memories, Dreams, Reflections
-- Alfred Adler — Understanding Human Nature
+- **Sigmund Freud — The Interpretation of Dreams; Civilization and Its Discontents** — The founder of psychoanalysis, who mapped the unconscious and made dreams the royal road to it. Civilization, he argues, is built on the repression of our deepest drives, at the cost of a permanent discontent. Whatever its errors, his picture of the divided mind reshaped how the modern West understands itself.
+- **Carl Gustav Jung — The Archetypes and the Collective Unconscious; Aion; Answer to Job; Memories, Dreams, Reflections** — Freud's heir and rival, who found beneath the personal unconscious a collective layer of universal archetypes. The self is realized through "individuation," the lifelong integration of the shadow and the soul's hidden figures. He reconnected psychology with myth, religion, and alchemy, and the search for meaning.
+- **Alfred Adler — Understanding Human Nature** — The third pioneer, who rooted the psyche in the striving to overcome inferiority and find belonging. Health lies in social interest and useful contribution, neurosis in the retreat into self. He gave us the "inferiority complex" and a humane, practical psychology of encouragement.
 
 ### 18. The Hermetic, the Esoteric & the Mysteries
 
 *The hidden curriculum — the thrice-great wisdom, the Neoplatonic theurgists, the alchemists, and the Renaissance magi who read God in the cosmos. Cross-links to Jung's alchemical works (Book 17) and Plotinus (Book 8).*
 
-- Hermes Trismegistus — The Corpus Hermeticum; The Emerald Tablet; Asclepius
-- The Chaldean Oracles
-- The Orphic Hymns
-- Iamblichus — On the Mysteries (De Mysteriis)
-- Proclus — The Elements of Theology; Platonic Theology
-- Porphyry — On the Cave of the Nymphs; Letter to Anebo
-- The Nag Hammadi Library (the Gnostic scriptures) — incl. The Gospel of Thomas; Pistis Sophia
-- Zosimos of Panopolis — On the Apparatus and Furnaces (alchemy)
-- Sefer Yetzirah (The Book of Formation)
-- The Zohar (The Book of Splendor)
-- The Picatrix (Ghayat al-Hakim)
-- Marsilio Ficino — Three Books on Life; the Hermetica translations
-- Pico della Mirandola — Oration on the Dignity of Man; the 900 Theses
-- Heinrich Cornelius Agrippa — Three Books of Occult Philosophy
-- Paracelsus — Selected Writings
-- Giordano Bruno — On the Infinite Universe and Worlds; The Ash Wednesday Supper
-- Robert Fludd — Utriusque Cosmi Historia
+- **Hermes Trismegistus — The Corpus Hermeticum; The Emerald Tablet; Asclepius** — The writings attributed to the "thrice-great" sage, fusing Egyptian and Greek wisdom on God, mind, and the cosmos. "As above, so below" teaches the correspondence of the heavens and the human soul. Mistaken for primordial revelation, they fired the Renaissance dream of a hidden, universal wisdom.
+- **The Chaldean Oracles** — Fragmentary verse-revelations of the late-antique theurgists, a sacred text for the Neoplatonists. They chart the soul's ascent through fiery spheres back to the divine Father. They are the scripture of pagan mysticism in its last, most esoteric phase.
+- **The Orphic Hymns** — Ritual invocations of the gods ascribed to the mythic singer Orpheus. They preserve a strand of Greek mystery religion promising the soul's purification and rebirth. They are the liturgy of the oldest Western mysteries of death and renewal.
+- **Iamblichus — On the Mysteries** — The Neoplatonist's defense of theurgy, the sacred rites by which the soul unites with the gods. Against mere philosophy, he insists that ritual and the divine, not reason alone, save us. He is the philosophical architect of late-pagan sacramental magic.
+- **Proclus — The Elements of Theology; Platonic Theology** — The last great systematizer of Neoplatonism, who mapped all reality as a hierarchy descending from and returning to the One. His geometric rigor shaped Christian, Islamic, and Jewish mysticism alike. He is the summa of the whole Platonic-mystical tradition.
+- **Porphyry — On the Cave of the Nymphs; Letter to Anebo** — Plotinus's disciple, here in his esoteric mode, reading Homer's cave as an allegory of the soul's descent into matter. His questions to an Egyptian priest probe the truth of oracles and rites. He is the bridge between rational philosophy and the mysteries.
+- **The Nag Hammadi Library — incl. The Gospel of Thomas; Pistis Sophia** — The Gnostic scriptures unearthed in Egypt in 1945, a lost world of secret knowledge. They teach that salvation comes through gnosis, an inner spark recalling its divine origin in a flawed creation. They are the great heresy the Church suppressed, recovered at last.
+- **Zosimos of Panopolis — On the Apparatus and Furnaces** — The earliest named alchemist, whose visions read the transmutation of metals as the purification of the soul. His dream-allegories make the laboratory a temple of inner transformation. He is the fountainhead of the long marriage of chemistry and the spirit.
+- **Sefer Yetzirah (The Book of Formation)** — The oldest Kabbalistic text, deriving creation from the ten sefirot and the twenty-two Hebrew letters. God speaks the world into being through number and language. It is the seed from which the whole Jewish mystical tradition grew. (Cross-listed in Book 20.)
+- **The Zohar (The Book of Splendor)** — The masterwork of Kabbalah, a mystical commentary on the Torah revealing the hidden life of God. It maps the sefirot, the divine emanations, and the soul's part in repairing the world. It is the central scripture of Jewish mysticism. (Cross-listed in Book 20.)
+- **The Picatrix (Ghayat al-Hakim)** — The most famous medieval handbook of astral magic, translated from the Arabic. It teaches how to draw down the powers of the planets through talismans and ritual. It carried the Hermetic sciences from Islam into the Latin imagination.
+- **Marsilio Ficino — Three Books on Life; the Hermetica translations** — The Florentine who translated Plato and the Hermetica and founded Renaissance Neoplatonism. His Three Books on Life weds medicine, magic, and astrology for the scholar's wellbeing. He made the recovery of ancient wisdom the soul of the Renaissance.
+- **Pico della Mirandola — Oration on the Dignity of Man; the 900 Theses** — The dazzling young prince who proclaimed man free to make himself anything, from beast to angel. He sought one hidden harmony beneath all philosophies and faiths, Kabbalah included. His Oration is the very manifesto of Renaissance humanism.
+- **Heinrich Cornelius Agrippa — Three Books of Occult Philosophy** — The grand summa of Renaissance magic, organizing the natural, celestial, and divine worlds. It systematized everything from herbs to angelic names into one operative science. It became the indispensable sourcebook of Western occultism.
+- **Paracelsus — Selected Writings** — The rebel physician-alchemist who overthrew ancient medicine for observation, chemistry, and the doctrine of correspondences. Man is a microcosm, and healing means aligning him with the powers of nature. He is the stormy father of both modern pharmacology and Hermetic medicine.
+- **Giordano Bruno — On the Infinite Universe and Worlds; The Ash Wednesday Supper** — The Hermetic visionary who proclaimed an infinite cosmos of countless worlds and an immanent divine soul. His daring fused the new astronomy with magical religion. Burned by the Inquisition, he became the martyr of free, infinite thought.
+- **Robert Fludd — Utriusque Cosmi Historia** — The Rosicrucian physician's vast, illustrated mapping of the macrocosm and the human microcosm. He saw all of nature as a play of divine light and darkness, music and number. His engravings are the most beautiful images the Hermetic tradition produced.
 
 ### 19. The Arabic & Persian World — Epic, Verse & Philosophy
 

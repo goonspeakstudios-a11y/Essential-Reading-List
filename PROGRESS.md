@@ -46,8 +46,8 @@ For anonymous/collective works: `- **Title** — ...`
 | 14 | Statecraft & Political Philosophy | DONE | DONE |
 | 15 | The Warrior's Way | DONE | DONE |
 | 16 | The Moderns | DONE | DONE |
-| 17 | Modern Philosophy & Depth Psychology | pending | pending |
-| 18 | The Hermetic & Esoteric | pending | pending |
+| 17 | Modern Philosophy & Depth Psychology | DONE | DONE |
+| 18 | The Hermetic & Esoteric | DONE | DONE |
 | 19 | The Arabic & Persian World | pending | pending |
 | 20 | The Rabbinic & Kabbalistic Tradition | pending | pending |
 | 21 | The Celtic World | pending | pending |
@@ -57,4 +57,4 @@ For anonymous/collective works: `- **Title** — ...`
 | 25 | The Forbidden Shelf (summaries only) | SEALED | pending |
 
 ## Next action
-Continue with **Book 17** (Modern Philosophy & Depth Psychology). Fast self-paced loop active; 2h cron 7c44b64d is a harmless backstop (will find all DONE).
+Continue with **Book 19** (Arabic & Persian World). Fast self-paced loop active; 2h cron 7c44b64d is a harmless backstop.
