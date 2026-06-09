@@ -229,6 +229,8 @@ The works named at founding, with corrected titles and translators where given.
 - Torquato Tasso — Jerusalem Delivered
 - Edmund Spenser — The Faerie Queene
 - Jean Froissart — Chronicles
+- Petrarch — Canzoniere (Rerum Vulgarium Fragmenta)
+- Francois Villon — The Testament
 
 ### 14. Statecraft, Political Philosophy & Law
 - Plato — Republic; Laws
@@ -260,6 +262,15 @@ The works named at founding, with corrected titles and translators where given.
 - Valmiki — The Ramayana
 - Omar Khayyam — The Rubaiyat
 - Anon. — The Thousand and One Nights
+
+**The poets of the East:**
+- The Shijing (The Book of Songs)
+- Qu Yuan — The Songs of Chu (Li Sao)
+- Tao Yuanming — Collected Poems
+- Li Bai (Li Po) — Poems
+- Du Fu (Tu Fu) — Poems
+- Wang Wei — Poems
+- Matsuo Basho — The Narrow Road to the Deep North
 
 ### 16. The Moderns — the Novel, the Drama & the Examined Soul
 - Kafka — The Trial; The Castle; The Metamorphosis; Diaries
@@ -302,6 +313,21 @@ The works named at founding, with corrected titles and translators where given.
 - Charles Baudelaire — Les Fleurs du Mal
 - Walt Whitman — Leaves of Grass
 - Friedrich Holderlin — Hymns and Fragments
+- Jaroslav Hasek — The Good Soldier Svejk
+
+**The legends of poetry (Western):**
+- William Blake — Songs of Innocence and of Experience; The Marriage of Heaven and Hell
+- William Wordsworth — The Prelude; Lyrical Ballads
+- Samuel Taylor Coleridge — The Rime of the Ancient Mariner
+- Lord Byron — Don Juan; Childe Harold's Pilgrimage
+- Percy Bysshe Shelley — Prometheus Unbound
+- John Keats — The Great Odes; Hyperion
+- Alfred, Lord Tennyson — Idylls of the King; In Memoriam
+- Emily Dickinson — The Complete Poems
+- William Butler Yeats — The Tower; Collected Poems
+- Fernando Pessoa — The Book of Disquiet; the heteronym poems
+- Federico Garcia Lorca — Gypsy Ballads (Romancero Gitano)
+- Pablo Neruda — Canto General
 
 ### 17. Modern Philosophy & the Depths of the Mind
 
@@ -376,6 +402,13 @@ The works named at founding, with corrected titles and translators where given.
 - Ibn Tufayl — Hayy ibn Yaqzan
 - Ibn Khaldun — The Muqaddimah
 
+**Hadith, Sirah & Islamic tradition:**
+- Sahih al-Bukhari (a selection)
+- Sahih Muslim
+- Al-Nawawi — Forty Hadith
+- Ibn Ishaq / Ibn Hisham — The Life of Muhammad (Sirat Rasul Allah)
+- Al-Tabari — History of the Prophets and Kings (Tarikh al-Rusul wa al-Muluk)
+
 **Persian — epic & verse:**
 - Ferdowsi — The Shahnameh (The Book of Kings)
 - Rudaki — Diwan
@@ -397,6 +430,77 @@ The works named at founding, with corrected titles and translators where given.
 - Ibn Arabi — The Bezels of Wisdom (Fusus al-Hikam); The Meccan Revelations
 - Moses Maimonides — The Guide for the Perplexed
 - Omar Khayyam — Treatise on Algebra
+
+### 20. The Rabbinic & Kabbalistic Tradition
+
+*The Jewish textual world beneath the Tanakh: the Oral Torah set to writing — its law, its lore, and the mystical ascent. Sefer Yetzirah and the Zohar are cross-listed from Book 18; the Guide for the Perplexed from Book 19.*
+
+- The Mishnah
+- The Tosefta
+- The Babylonian Talmud (Talmud Bavli)
+- The Jerusalem Talmud (Talmud Yerushalmi)
+- Pirkei Avot (The Ethics of the Fathers)
+- The Midrash — Midrash Rabbah; Pirkei de-Rabbi Eliezer; Tanhuma
+- The Targums — Onkelos; Jonathan
+- Rashi — Commentary on the Torah and Talmud
+- Moses Maimonides — The Mishneh Torah; the Thirteen Principles of Faith
+- Joseph Karo — The Shulchan Aruch
+- Saadia Gaon — The Book of Beliefs and Opinions
+- Judah Halevi — The Kuzari
+- Bahya ibn Paquda — Duties of the Heart
+
+**Kabbalah — the mystical ascent:**
+- Sefer ha-Bahir (The Book of Brightness)
+- Abraham Abulafia — The Light of the Intellect
+- Joseph Gikatilla — Gates of Light (Shaare Ora)
+- Moses Cordovero — Pardes Rimonim (The Orchard of Pomegranates)
+- Isaac Luria & Chaim Vital — Etz Chaim (The Tree of Life)
+- Moses Chaim Luzzatto — The Path of the Just (Mesillat Yesharim)
+- Sefer Raziel HaMalakh
+
+### 21. The Celtic World — Myth, Epic, Law & History
+
+*The matter of the western isles, in Irish and Welsh: the invasions, the cattle-raids, the saints' sea-voyages, and the brehon law. The Mabinogion is cross-listed from Book 13, Gildas and Geoffrey of Monmouth from Book 11.*
+
+**Irish:**
+- Lebor Gabala Erenn (The Book of Invasions)
+- Tain Bo Cuailnge (The Cattle Raid of Cooley)
+- The Ulster Cycle — Bricriu's Feast; The Destruction of Da Derga's Hostel; The Wooing of Etain
+- The Mythological Cycle — Cath Maige Tuired (The Second Battle of Mag Tuired)
+- The Fenian Cycle — Acallam na Senorach (The Colloquy of the Ancients); The Pursuit of Diarmuid and Grainne
+- The Immrama — The Voyage of Bran; The Voyage of Mael Duin
+- The Annals of the Four Masters; The Annals of Ulster
+- Senchas Mar (the Brehon law tracts)
+- Lebor na hUidre (The Book of the Dun Cow); The Book of Leinster
+
+**Welsh:**
+- The Welsh Triads (Trioedd Ynys Prydein)
+- Aneirin — Y Gododdin
+- The Book of Taliesin
+- The Black Book of Carmarthen
+- The Red Book of Hergest
+
+**Celtic Christianity & history:**
+- St. Patrick — Confessio; Letter to Coroticus
+- Adomnan of Iona — The Life of St. Columba
+- The Voyage of St. Brendan (Navigatio Sancti Brendani)
+- Nennius — Historia Brittonum
+
+### 22. Mathematics, Nature & the Physical Order
+
+*The scientific seam, entered by its most literary door — works that narrate the physical and mathematical order rather than merely compute it. The thread Mandelbrot opened: the geometry of the irregular and the wild.*
+
+- Benoit Mandelbrot — The Fractal Geometry of Nature; The (Mis)Behavior of Markets
+- Henri Poincare — Science and Hypothesis; The Value of Science
+- D'Arcy Wentworth Thompson — On Growth and Form
+- Galileo Galilei — Dialogue Concerning the Two Chief World Systems
+- Isaac Newton — The Principia (Mathematical Principles of Natural Philosophy)
+- Charles Darwin — On the Origin of Species; The Voyage of the Beagle
+- Albert Einstein — Relativity: The Special and the General Theory
+- Werner Heisenberg — Physics and Philosophy
+- Erwin Schrodinger — What Is Life?
+- Richard Feynman — The Character of Physical Law; QED
+- James Gleick — Chaos: Making a New Science
 
 ---
 
