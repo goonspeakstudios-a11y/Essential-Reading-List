@@ -34,7 +34,8 @@ A map of the collection. Each book gathers works of one vein; every entry within
 | 22 | Mathematics, Nature & the Physical Order | The sciences by their literary door, Mandelbrot to Darwin. |
 | 23 | The Buddhist Canon | Zen and the warrior's mind, the sutras, and the Tibetan way. |
 | 24 | The Indian Tradition | Veda, Upanishad, epic, drama, and the modern voice. |
-| 25 | 
+| 25 | The Forbidden Shelf | Dangerous ideas — the canon's serious-but-toxic dark mirror. |
+
 ---
 
 ## II. The Books
