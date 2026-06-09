@@ -301,44 +301,50 @@ The works named at founding, with corrected titles and translators where given.
 - **Francois Villon — The Testament** — The mock-will of a Parisian thief and poet, by turns ribald, repentant, and haunted by death. "Where are the snows of yesteryear?" sounds the note of mortality beneath all his bravado. He is the first great voice of the outcast in European poetry.
 
 ### 14. Statecraft, Political Philosophy & Law
-- Plato — Republic; Laws
-- Aristotle — Politics; The Constitution of Athens
-- Cicero — On the Republic; On the Laws
-- Augustine — The City of God
-- Justinian — The Institutes (Corpus Juris Civilis)
-- John of Salisbury — Policraticus
-- Marsilius of Padua — Defensor Pacis
-- Niccolo Machiavelli — The Prince; Discourses on Livy
-- Thomas More — Utopia
-- Thomas Hobbes — Leviathan
-- Edmund Burke — Reflections on the Revolution in France
+
+*The perennial questions of who should rule, by what right, and toward what end — the West arguing with itself about power and justice. (Several works are cross-listed from Books 2 and 8, read here in their political key.)*
+
+- **Plato — Republic; Laws** — The founding work of political philosophy, building the just city as a mirror of the just soul, ruled by philosopher-kings. The Laws is his sober second thought, where law itself, not the wise man, must govern. Together they pose the question every later thinker answers: should we be ruled by the best person or the best rules?
+- **Aristotle — Politics; The Constitution of Athens** — The first empirical political science, classifying constitutions by who rules and for whose benefit. Man is "a political animal," and the polis exists not merely to live but to live well. His preference for a broad middle class and mixed government still anchors moderate politics.
+- **Cicero — On the Republic; On the Laws** — The Roman statesman's adaptation of Greek theory to the ideal of a mixed republic under natural law. He argues that true law is right reason, eternal and universal, above any decree of kings. This idea of a higher law binding even rulers flows straight into the Western constitutional tradition.
+- **Augustine — The City of God** — Written as Rome fell, it sets the eternal City of God against the earthly city built on self-love. It frees Christianity from the fate of any empire and founds the philosophy of history. Its realism about power and sin underlies all later Christian political thought.
+- **Justinian — The Institutes (Corpus Juris Civilis)** — The emperor's codification that gathered and ordered the whole inheritance of Roman law. Rediscovered in the Middle Ages, it became the foundation of the legal systems of continental Europe. It is the reason "Roman law" still governs much of the world.
+- **John of Salisbury — Policraticus** — The first full medieval treatise on politics, picturing the commonwealth as a body with the prince as its head. Strikingly, it defends the right to resist and even kill a tyrant who breaks the law of God. It is medieval Christendom thinking hard about the limits of obedience.
+- **Marsilius of Padua — Defensor Pacis** — A radical argument that political authority rises from the people, not the priesthood, and that the Church holds no coercive power. It struck at the medieval papacy's claims at their root. It is a startling anticipation of secular and popular sovereignty.
+- **Niccolo Machiavelli — The Prince; Discourses on Livy** — The book that severed politics from Christian ethics, asking not how rulers should act but how they keep power. The Prince teaches the cold arts of survival; the Discourses, often overlooked, makes him a passionate republican. He is the founder of realism, feared and misread for five centuries.
+- **Thomas More — Utopia** — The lawyer-saint's portrait of an imaginary island commonwealth without private property or poverty. Part satire, part dream, it holds up an ideal to shame the cruelty of real Europe. It gave the language the very word for the perfect, perhaps impossible, society.
+- **Thomas Hobbes — Leviathan** — The grim, brilliant argument that without an absolute sovereign, life is "solitary, poor, nasty, brutish, and short." Out of fear, men contract to surrender their freedom for security and order. It is the iron foundation on which all later social-contract theory was built or against which it rebelled.
+- **Edmund Burke — Reflections on the Revolution in France** — The founding text of modern conservatism, defending tradition, prejudice, and slow growth against revolutionary abstraction. Burke warns that tearing up a society's inherited fabric invites tyranny, not freedom. It is the great argument that liberty is the child of custom, not theory.
 
 ### 15. The Warrior's Way — Eastern Wisdom & the Martial Code
-- Sun Tzu — The Art of War
-- Confucius — The Analects
-- Mencius — The Mencius
-- Laozi — Tao Te Ching
-- Zhuangzi — The Zhuangzi
-- The I Ching (Book of Changes)
-- The Bhagavad Gita
-- The Dhammapada
-- Inazo Nitobe — Bushido: The Soul of Japan
-- Anon. — The Tale of the Heike
-- Murasaki Shikibu — The Tale of Genji
-- The Kojiki
-- Vyasa (attrib.) — The Mahabharata
-- Valmiki — The Ramayana
-- Omar Khayyam — The Rubaiyat
-- Anon. — The Thousand and One Nights
+
+*The wisdom of the East and the ethic of the warrior — strategy, self-mastery, and the acceptance of death. The Hagakure and the Book of Five Rings stand at the head from the seed (Book I); the Zen that forged this code is detailed in Book 23.*
+
+- **Sun Tzu — The Art of War** — The oldest and most influential treatise on strategy, prizing victory won without battle. Know yourself and your enemy, strike at weakness, and shape the situation before the fighting starts. Its lessons reach far beyond war, into business, politics, and the conduct of life.
+- **Confucius — The Analects** — The recorded sayings of the sage who made ethics, ritual, and the cultivated gentleman the center of Chinese civilization. Virtue begins at home in filial respect and ripples outward into a well-ordered society. Its quiet maxim, do not do to others what you would not want done to you, predates the Golden Rule's Western form.
+- **Mencius — The Mencius** — Confucius's great successor, who argued that human nature is fundamentally good, like water flowing downhill. The ruler holds a mandate that the people may withdraw if he governs cruelly. It is the humane and democratic conscience of the Confucian tradition.
+- **Laozi — Tao Te Ching** — The slender, paradoxical classic of the Way, counseling action through non-action and strength through yielding. The soft overcomes the hard, the empty proves more useful than the full. It is the deepest and most quoted book of Chinese mysticism.
+- **Zhuangzi — The Zhuangzi** — The playful, profound Taoist who dreamed he was a butterfly and woke unsure which was real. Through parable and paradox he mocks rigid certainty and celebrates spontaneous freedom. He is the laughing philosopher who frees the mind from its own cages.
+- **The I Ching (Book of Changes)** — The ancient oracle and book of wisdom built on sixty-four hexagrams of broken and unbroken lines. It maps the endless interplay of yin and yang through every situation of change. Consulted for three thousand years, it is a mirror for meditating on the moment one stands in.
+- **The Bhagavad Gita** — On the eve of battle, the god Krishna teaches the warrior Arjuna to act with full commitment yet without attachment to the fruits. Do your duty, surrender the outcome, and so find freedom even in action. It is the supreme synthesis of Hindu spirituality and the warrior's dilemma.
+- **The Dhammapada** — The most beloved distillation of the Buddha's teaching, in pithy verses on the mind, craving, and peace. "All that we are is the result of what we have thought." It is the pocket-companion of the Buddhist path, wisdom filed to an edge.
+- **Inazo Nitobe — Bushido: The Soul of Japan** — The book that explained the samurai code of honor, loyalty, and courage to the modern West. Written in English, it frames bushido as Japan's answer to Western chivalry and ethics. It is the classic self-portrait of the warrior spirit of old Japan.
+- **Anon. — The Tale of the Heike** — The great Japanese war epic of the rise and ruin of the Taira clan. Its famous opening, that the proud do not endure, "like a dream on a spring night," sounds the Buddhist note of impermanence over all glory. It is the Iliad of medieval Japan, sung by blind monks for centuries.
+- **Murasaki Shikibu — The Tale of Genji** — Often called the world's first novel, a vast, exquisite chronicle of court love and the passing of beauty. Written by a lady of the Heian court, it captures the bittersweet refinement of a vanished world. Its melancholy awareness of impermanence is the soul of the Japanese aesthetic.
+- **The Kojiki** — The oldest chronicle of Japan, recording the myths of the gods and the descent of the imperial line. It is the foundation of Shinto and of Japanese national identity. Through it Japan tells the sacred story of its own origin.
+- **Vyasa (attrib.) — The Mahabharata** — The colossal Indian epic of a dynastic war that contains, in the Gita, the heart of Hindu philosophy. "Whatever is here is found elsewhere; what is not here is nowhere." It is at once a national epic, a moral encyclopedia, and a meditation on duty and doom.
+- **Valmiki — The Ramayana** — The epic of Rama's exile, the abduction of Sita, and the war to win her back. It holds up Rama and Sita as the ideals of the righteous king and the faithful wife. For millions it is not only literature but living scripture and the model of dharma.
+- **Omar Khayyam — The Rubaiyat** — The Persian astronomer-poet's quatrains on wine, mortality, and the silence of fate. Carpe diem in the face of an inscrutable heaven, savored with a melancholy smile. In Fitzgerald's translation it became one of the most beloved poems in English.
+- **Anon. — The Thousand and One Nights** — The frame-tale of Scheherazade, who stays her execution by spinning stories night after night. From it come Aladdin, Sinbad, and Ali Baba, the West's whole image of the marvelous East. It is the supreme monument to storytelling itself as a way of surviving.
 
 **The poets of the East:**
-- The Shijing (The Book of Songs)
-- Qu Yuan — The Songs of Chu (Li Sao)
-- Tao Yuanming — Collected Poems
-- Li Bai (Li Po) — Poems
-- Du Fu (Tu Fu) — Poems
-- Wang Wei — Poems
-- Matsuo Basho — The Narrow Road to the Deep North
+- **The Shijing (The Book of Songs)** — The oldest anthology of Chinese poetry, folk songs and court hymns that Confucius prized as moral education. Its plain images of love, labor, and longing set the tone of all later Chinese verse. To know it was, for millennia, the mark of the cultivated person.
+- **Qu Yuan — The Songs of Chu (Li Sao)** — The first great named poet of China, a loyal minister who drowned himself in despair at his slander. His "Encountering Sorrow" is a passionate lament of integrity betrayed. His death is still mourned each year at the Dragon Boat Festival.
+- **Tao Yuanming — Collected Poems** — The beloved recluse-poet who left office to farm and drink wine among the chrysanthemums. He made the simple country life into the highest poetic ideal of contentment. He is the patron of everyone who ever longed to quit the rat race for a garden.
+- **Li Bai (Li Po) — Poems** — The immortal, wine-loving wanderer of the Tang, whose verses seem dashed off by a drunken genius. Moon, river, and friendship flash through lines of effortless brilliance. He is the very image of the free, inspired poet in the Chinese imagination.
+- **Du Fu (Tu Fu) — Poems** — Li Bai's friend and opposite, the sober conscience of Chinese poetry amid war and suffering. His compassionate, meticulous verse earned him the title "poet-historian" of a collapsing age. He is widely held to be the greatest poet China ever produced.
+- **Wang Wei — Poems** — The painter-poet of quiet Buddhist contemplation, master of the still mountain scene. His landscapes in words capture emptiness, light, and the dissolving of the self into nature. "I walk to where the water ends, and sit and watch the clouds rise."
+- **Matsuo Basho — The Narrow Road to the Deep North** — The wandering master who raised the haiku to a spiritual art on his journey through old Japan. In seventeen syllables he catches a whole moment of awakening: the frog, the pond, the splash. His travel-sketches fuse poetry and pilgrimage into one path.
 
 ### 16. The Moderns — the Novel, the Drama & the Examined Soul
 - Kafka — The Trial; The Castle; The Metamorphosis; Diaries

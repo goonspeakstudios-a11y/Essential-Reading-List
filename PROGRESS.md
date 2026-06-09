@@ -43,8 +43,8 @@ For anonymous/collective works: `- **Title** — ...`
 | 11 | Medieval History & Chronicle | DONE | DONE |
 | 12 | Germanic, Norse & Anglo-Saxon | DONE | DONE |
 | 13 | Chivalry & Romance | DONE | DONE |
-| 14 | Statecraft & Political Philosophy | pending | pending |
-| 15 | The Warrior's Way | pending | pending |
+| 14 | Statecraft & Political Philosophy | DONE | DONE |
+| 15 | The Warrior's Way | DONE | DONE |
 | 16 | The Moderns | pending | pending |
 | 17 | Modern Philosophy & Depth Psychology | pending | pending |
 | 18 | The Hermetic & Esoteric | pending | pending |
@@ -57,4 +57,4 @@ For anonymous/collective works: `- **Title** — ...`
 | 25 | The Forbidden Shelf (summaries only) | SEALED | pending |
 
 ## Next action
-Continue with **Book 14** (Statecraft & Political Philosophy). Self-paced loop via ScheduleWakeup — continues autonomously until all books done.
+Continue with **Book 16** (The Moderns — the heaviest, ~67 entries; may take its own fire). Loop now on 2h cron (job 7c44b64d). Any pending fast ScheduleWakeup should stand down in favor of the cron.
