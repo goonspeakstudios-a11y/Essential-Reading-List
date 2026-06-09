@@ -105,6 +105,7 @@ The works named at founding, with corrected titles and translators where given.
 - Quintilian — Institutio Oratoria
 - Anon. (Pseudo-Cicero) — Rhetorica ad Herennium
 - Martianus Capella — The Marriage of Philology and Mercury
+- Longinus — On the Sublime
 
 ### 5. The Quadrivium — Arithmetic, Geometry, Music, Astronomy
 - Euclid — Elements
@@ -173,6 +174,9 @@ The works named at founding, with corrected titles and translators where given.
 - Ammianus Marcellinus — The Later Roman Empire
 - Arrian — The Anabasis of Alexander
 - Quintus Curtius Rufus — History of Alexander
+- Diodorus Siculus — Bibliotheca Historica
+- Strabo — Geography
+- Pausanias — Description of Greece
 
 ### 10. Roman Prose, Moral Philosophy & Letters
 - Cicero — On Duties (De Officiis); Tusculan Disputations; On the Nature of the Gods; On Old Age; On Friendship; Letters
@@ -282,6 +286,56 @@ The works named at founding, with corrected titles and translators where given.
 - C.S. Lewis — The Abolition of Man; Till We Have Faces
 - T.S. Eliot — The Waste Land; Four Quartets
 - Rainer Maria Rilke — Duino Elegies
+- Stendhal — The Red and the Black
+- Honore de Balzac — Pere Goriot; Lost Illusions
+- Gustave Flaubert — Madame Bovary; Sentimental Education
+- Victor Hugo — Les Miserables; The Hunchback of Notre-Dame
+- Aleksandr Pushkin — Eugene Onegin
+- Nikolai Gogol — Dead Souls; The Overcoat
+- Anton Chekhov — Selected Stories and Plays
+- Marcel Proust — In Search of Lost Time
+- James Joyce — Ulysses; A Portrait of the Artist as a Young Man
+- Thomas Mann — The Magic Mountain; Death in Venice; Doctor Faustus
+- William Faulkner — The Sound and the Fury; Absalom, Absalom!
+- Moliere — The Misanthrope; Tartuffe
+- Jean Racine — Phedre; Andromache
+- Charles Baudelaire — Les Fleurs du Mal
+- Walt Whitman — Leaves of Grass
+- Friedrich Holderlin — Hymns and Fragments
+
+### 17. Modern Philosophy & the Depths of the Mind
+
+*The line the seed left implicit: from the rebirth of doubt through German Idealism to the descent into the unconscious. This is the explicit charge — Schopenhauer, Hegel, Jung, and their company.*
+
+- Michel de Montaigne — Essays
+- Francis Bacon — Novum Organum; Essays
+- Rene Descartes — Meditations on First Philosophy; Discourse on Method
+- Blaise Pascal — Pensees
+- Baruch Spinoza — Ethics
+- Gottfried Wilhelm Leibniz — Monadology
+- John Locke — An Essay Concerning Human Understanding; Two Treatises of Government
+- George Berkeley — Principles of Human Knowledge
+- David Hume — A Treatise of Human Nature; Enquiry Concerning Human Understanding
+- Jean-Jacques Rousseau — The Social Contract; Emile; Confessions
+- Immanuel Kant — Critique of Pure Reason; Critique of Practical Reason; Critique of Judgment; Groundwork of the Metaphysics of Morals
+- Johann Gottlieb Fichte — The Science of Knowledge
+- Friedrich Schelling — System of Transcendental Idealism
+- Georg Wilhelm Friedrich Hegel — The Phenomenology of Spirit; The Science of Logic; The Philosophy of Right; Lectures on the Philosophy of History
+- Arthur Schopenhauer — The World as Will and Representation; On the Suffering of the World; Essays and Aphorisms
+- Soren Kierkegaard — Fear and Trembling; Either/Or; The Sickness Unto Death
+- Friedrich Nietzsche — The Birth of Tragedy; On the Genealogy of Morals; The Gay Science (Zarathustra & Beyond Good and Evil cross-listed in Book 16)
+- Karl Marx — Capital; Economic and Philosophic Manuscripts
+- Henri Bergson — Creative Evolution
+- William James — The Principles of Psychology; The Varieties of Religious Experience
+- Edmund Husserl — Cartesian Meditations
+- Martin Heidegger — Being and Time
+- Ludwig Wittgenstein — Tractatus Logico-Philosophicus; Philosophical Investigations
+- Jean-Paul Sartre — Being and Nothingness
+
+**Depth Psychology — the descent into the soul:**
+- Sigmund Freud — The Interpretation of Dreams; Civilization and Its Discontents; Beyond the Pleasure Principle
+- Carl Gustav Jung — Psychological Types; The Archetypes and the Collective Unconscious; Aion; Answer to Job; Man and His Symbols; Memories, Dreams, Reflections
+- Alfred Adler — Understanding Human Nature
 
 ---
 
