@@ -73,7 +73,7 @@ to EACH of Books 1-24 (Book 25 sealed), each with a 3-sentence summary in the es
 | 8 Greek Philosophy | DONE |
 | 9 Classical History | DONE |
 | 10 Roman Prose | DONE |
-| 11 Medieval Chronicle | pending |
+| 11 Medieval Chronicle | DONE |
 | 12 Germanic/Norse | pending |
 | 13 Chivalry | pending |
 | 14 Statecraft | pending |
@@ -89,7 +89,17 @@ to EACH of Books 1-24 (Book 25 sealed), each with a 3-sentence summary in the es
 | 24 Indian | pending |
 | 25 Forbidden Shelf | SEALED (no additions) |
 
-R2 next: Book 11.
+R2 next: Book 12.
+
+### Structural change DONE
+Removed the seed table (old Section I); replaced with "Contents — The Twenty-Five Books"
+(abbreviated overview). The 34 seed works were folded into their proper sections as annotated
+entries (Vulgate->1, Confessions/City of God/Pastoral Care/Aldhelm->2, Consolation->3,
+Categories/On Invention/Servius/Priscian/Isidore/Alcuin Disputatio->4, Boethius Arith+Music/
+Bede Reckoning/Pliny/Dream of Scipio/Alcuin Propositiones->5, Aeneid/Pharsalia/Thebaid/
+Fortunatus->6, Orosius/Bede EH->11, Beowulf->12, Malory->13, Hagakure/Five Rings->15;
+Kafka/Mishima/Dostoevsky/Tolkien already in 16, Plato/Aristotle in 8, Plutarch in 9). All
+dangling "(Book I)" / "from the seed" pointers reworded. Nothing lost.
 
 ### Post-completion task (queued)
 After Round 2 is fully DONE: download ToposText (https://topostext.org/texts) to local disk.

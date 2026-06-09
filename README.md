@@ -6,55 +6,47 @@ The ordering principle is the medieval/Carolingian curriculum of the formed mind
 
 ---
 
-## I. The Procured Selection (the seed)
+## I. Contents — The Twenty-Five Books
 
-The works named at founding, with corrected titles and translators where given.
+A map of the collection. Each book gathers works of one vein; every entry within carries a three-sentence summary so the wisdom can be gained even by a reader who never opens the original. The founding works that began this library — the Vulgate, the Aeneid, Boethius, Beowulf, Kafka, Mishima, Plato, the Hagakure, and the rest — are distributed across these books, each set in its proper place.
 
-| # | Author | Work |
-|---|--------|------|
-| 1 | St. Jerome (trans.) | The Vulgate |
-| 2 | St. Augustine | Confessions |
-| 3 | St. Boethius | The Consolation of Philosophy |
-| 4 | St. Gregory the Great | Pastoral Care (Liber Regulae Pastoralis) |
-| 5 | St. Aldhelm | In Praise of Virginity (De Virginitate) |
-| 6 | Vergil | The Aeneid |
-| 7 | Lucan | Pharsalia (De Bello Civili) |
-| 8 | Statius | Thebaid |
-| 9 | St. Venantius Fortunatus | Pange Lingua Gloriosi Proelium Certaminis |
-| 10 | Anon. | Beowulf |
-| 11 | Orosius | History Against the Pagans |
-| 12 | St. Bede | Ecclesiastical History of the English People |
-| 13 | Aristotle | Categories |
-| 14 | Cicero | On Invention (De Inventione) |
-| 15 | Servius the Grammarian | Commentary on Virgil |
-| 16 | Priscian | Institutes of Grammar (Institutiones Grammaticae) |
-| 17 | St. Isidore | Etymologies (Etymologiae) |
-| 18 | Alcuin of York | Disputatio regalis et nobilissimi iuvenis Pippini cum Albino scholastico |
-| 19 | Alcuin of York | Propositiones ad Acuendos Juvenes (Problems to Sharpen the Young) |
-| 20 | Cicero | The Dream of Scipio (Somnium Scipionis) |
-| 21 | Pliny the Elder | Natural History |
-| 22 | St. Boethius | On Arithmetic (De Arithmetica) |
-| 23 | St. Boethius | On Music (De Musica) |
-| 24 | St. Bede | On the Reckoning of Time (De Temporum Ratione) |
-| 25 | Franz Kafka | — |
-| 26 | Aristotle | — |
-| 27 | Yukio Mishima | — |
-| 28 | Plato | — |
-| 29 | J.R.R. Tolkien | — |
-| 30 | Plutarch | — |
-| 31 | Fyodor Dostoevsky | — |
-| 32 | Yamamoto Tsunetomo | Hagakure |
-| 33 | Miyamoto Musashi | The Book of Five Rings |
-| 34 | Sir Thomas Malory | Le Morte d'Arthur |
+| # | Book | What it holds |
+|---|------|---------------|
+| 1 | Sacred Scripture & the Liturgy | The revealed text and the rites that pray it — Scripture, the Septuagint, the Roman and Eastern liturgies. |
+| 2 | The Church Fathers | The patristic minds who made the gospel a civilization, East and West, from Clement to John of Damascus. |
+| 3 | Medieval Theology, Philosophy & Mysticism | The schoolmen and the mystics — Anselm to Aquinas, the hesychasts to the Rhineland. |
+| 4 | The Trivium | The three arts of the word: grammar, logic, rhetoric. |
+| 5 | The Quadrivium | The four arts of number: arithmetic, geometry, music, astronomy. |
+| 6 | Classical Latin Epic, Poetry & Drama | Rome's verse and stage, Ennius and Virgil to Seneca. |
+| 7 | Greek Epic, Tragedy & Lyric | The fountainhead — Homer, the tragedians, the lyric poets. |
+| 8 | Greek Philosophy | The invention of philosophy: Plato and Aristotle to the Stoics and Neoplatonists. |
+| 9 | History & Biography (Classical) | The Greek and Roman historians and biographers, Herodotus to Pausanias. |
+| 10 | Roman Prose, Moral Philosophy & Letters | Rome's practical wisdom — Cicero, Seneca, the letter-writers. |
+| 11 | Medieval History, Chronicle & Hagiography | How the Middle Ages remembered itself, in chronicle and saint's life. |
+| 12 | Germanic, Norse & Anglo-Saxon | The heroic literature of the north: eddas, sagas, Old English verse. |
+| 13 | Chivalry, Romance & High Medieval Epic | Knighthood, courtly love, and the quest, Roland to Dante. |
+| 14 | Statecraft, Political Philosophy & Law | Who should rule, and by what right — Plato to Burke. |
+| 15 | The Warrior's Way | Eastern wisdom and the martial code, Sun Tzu and the samurai to the Sufi poets. |
+| 16 | The Moderns | The modern soul in novel, drama, and verse, Cervantes to the present. |
+| 17 | Modern Philosophy & the Depths of the Mind | Descartes through German Idealism to depth psychology. |
+| 18 | The Hermetic, the Esoteric & the Mysteries | The hidden curriculum — Hermes Trismegistus, the theurgists, the magi. |
+| 19 | The Arabic & Persian World | The Qur'an, the Shahnameh, the Sufi poets, and the philosophers who carried Aristotle west. |
+| 20 | The Rabbinic & Kabbalistic Tradition | The Oral Torah and the mystical ascent: Talmud, Midrash, Kabbalah. |
+| 21 | The Celtic World | Irish and Welsh myth, epic, law, and the saints. |
+| 22 | Mathematics, Nature & the Physical Order | The sciences by their literary door, Mandelbrot to Darwin. |
+| 23 | The Buddhist Canon | Zen and the warrior's mind, the sutras, and the Tibetan way. |
+| 24 | The Indian Tradition | Veda, Upanishad, epic, drama, and the modern voice. |
+| 25 | The Forbidden Shelf | Dangerous ideas — the canon's serious-but-toxic dark mirror. |
 
 ---
 
-## II. Of a Similar Vein — the Exhaustive Enumeration
+## II. The Books
 
 ### 1. Sacred Scripture & the Liturgy
 
-*The ground of everything that follows: the revealed text and the rites by which the Church prays it day and night. The Vulgate stands at the head from the seed (Book I).*
+*The ground of everything that follows: the revealed text and the rites by which the Church prays it day and night.*
 
+- **St. Jerome (trans.) — The Vulgate** — Jerome's Latin translation of the whole Bible from the original tongues, the scripture of the Western Church for a thousand years. Its phrasing shaped the theology, liturgy, and very language of Latin Christendom. It is the single most influential book in the history of the West.
 - **The Pentateuch (the Torah) — Genesis to Deuteronomy** — The five books of Moses narrate creation, the fall, the call of Abraham, the exodus, and the giving of the Law at Sinai. They establish the Western idea of one moral God who acts in history and binds a people to himself by promise and commandment. Nearly every Western category — law, sin, covenant, deliverance — is born in these pages.
 - **The Psalms** — A hundred and fifty poems of praise, lament, penitence, and thanksgiving that became the prayer-book of Synagogue and Church alike. They give voice to the whole range of the soul before God, from the abyss of "why hast thou forsaken me?" to unguarded joy. To learn them is to be handed words for every interior weather.
 - **The Book of Job** — A blameless man loses everything and demands of God an account of innocent suffering. His friends offer tidy theodicies; God answers not with reasons but with the whirlwind and the vastness of creation. Its wisdom is that the deepest questions may be met by an enlargement of vision rather than an argument.
@@ -76,8 +68,12 @@ The works named at founding, with corrected titles and translators where given.
 
 ### 2. The Church Fathers (Patristics)
 
-*The minds that turned the gospel into a civilization — defending it, defining it, and handing on the ancient learning. Augustine's Confessions stands at the head from the seed (Book I).*
+*The minds that turned the gospel into a civilization — defending it, defining it, and handing on the ancient learning.*
 
+- **St. Augustine — Confessions** — The first true autobiography, the prayer-history of a restless soul's road from sin and philosophy to God. "Our heart is restless until it rests in thee" is its keynote and its discovery. It invented Western introspection and remains the deepest map of a converting heart.
+- **St. Augustine — The City of God; On Christian Doctrine; On the Trinity** — The towering body of his mature thought: a philosophy of history setting the eternal City against the earthly, a charter for Christian learning, and the West's classic account of the triune God. They answer the fall of Rome and the whole problem of time and evil. No Latin thinker shaped Christendom more.
+- **St. Gregory the Great — Pastoral Care (Liber Regulae Pastoralis)** — The pope's handbook on the cure of souls, on how the shepherd must suit his counsel to each kind of person. Wise, humane, and practical, it governed the medieval idea of spiritual leadership. King Alfred thought it so vital he had it translated for England's bishops.
+- **St. Aldhelm — In Praise of Virginity (De Virginitate)** — The Anglo-Latin scholar-bishop's ornate double treatise, in prose and verse, on the glory of consecrated chastity. Its dazzling, difficult Latin shows the learning of the early English Church. It is a monument of the first flowering of letters in Anglo-Saxon England.
 - **St. Clement of Rome — The First Epistle to the Corinthians** — One of the earliest Christian writings outside the New Testament, a letter from Rome to quell a schism at Corinth. It witnesses to apostolic authority and orderly succession within living memory of the apostles. Read it to watch Christianity first organizing itself into a Church.
 - **St. Ignatius of Antioch — The Letters** — Seven letters written on the road to martyrdom, burning with longing for union with Christ. They give the earliest clear testimony to the bishop's office and the Eucharist as the "medicine of immortality." Few documents show faith embraced so fearlessly before the lions.
 - **St. Justin Martyr — The First and Second Apologies** — A philosopher's reasoned defense of Christianity addressed to the Roman emperor himself. Justin argues that the scattered truths of the philosophers were seeds of the Word made whole in Christ. He models the marriage of reason and faith, and the nerve to argue for it on pain of death.
@@ -93,14 +89,14 @@ The works named at founding, with corrected titles and translators where given.
 - **St. Gregory of Nyssa — The Life of Moses; On the Soul and the Resurrection** — The most mystical Cappadocian, who read Moses' ascent of Sinai as the soul's endless journey into God. He coined the idea of epektasis, perpetual progress into an infinite God who is never exhausted. His vision turns heaven from a static reward into eternal adventure.
 - **St. John Chrysostom — On the Priesthood; the Homilies** — The "golden-mouthed" preacher of Antioch and Constantinople, fearless before emperors. His homilies expound Scripture verse by verse with moral urgency and a special fire for the poor. He models the pastor whose eloquence serves conscience, not applause.
 - **St. Ambrose — On the Duties of the Clergy; Hexameron** — The Roman governor turned bishop who baptized Augustine and humbled an emperor to public penance. De Officiis recasts Cicero's ethics of duty in Christian dress, founding Western moral theology. He shows the Church learning to discipline even the powers of this world.
-- **St. Jerome — Letters; On Illustrious Men** — The cantankerous scholar-monk whose Latin Bible (the Vulgate, Book I) shaped the West for a millennium. His letters blend ferocious learning, ascetic counsel, and feuds, while On Illustrious Men catalogs the Christian writers. He is the patron of all who serve God through exact scholarship.
+- **St. Jerome — Letters; On Illustrious Men** — The cantankerous scholar-monk whose Latin Bible (the Vulgate, Book 1) shaped the West for a millennium. His letters blend ferocious learning, ascetic counsel, and feuds, while On Illustrious Men catalogs the Christian writers. He is the patron of all who serve God through exact scholarship.
 - **St. John Cassian — Conferences; Institutes** — The traveler who carried the wisdom of the Egyptian desert fathers to the Latin West. The Conferences record long dialogues on prayer, discernment, and the warfare against the eight vices. They became the handbook that fed Benedict and all Western monasticism.
 - **St. Benedict of Nursia — The Rule** — A short, humane code for monastic common life balancing prayer, work, and study under an abbot. Its genius is moderation and stability, "a school for the Lord's service" rather than heroic extremity. For fifteen centuries it has quietly ordered Western civilization from behind cloister walls.
 - **St. Cyprian — On the Unity of the Church** — The bishop-martyr of Carthage writing amid persecution and schism. He argues that there is no salvation outside the one Church and that the bishops hold its unity in solidarity. His blunt ecclesiology framed every later debate about authority and the keys.
 - **Lactantius — The Divine Institutes** — The "Christian Cicero," who set out the faith in elegant classical Latin for educated pagans. He systematically dismantles polytheism and commends Christianity as the true philosophy and true worship. He proves the new faith could speak the high style of Rome.
 - **St. Leo the Great — The Tome; the Sermons** — The pope whose letter fixed the doctrine of Christ's two natures at Chalcedon and whose nerve turned back Attila. His sermons are models of lapidary Roman gravity in the service of dogma. He embodies the union of doctrinal precision and the authority of the see of Peter.
 - **Pseudo-Dionysius the Areopagite — The Celestial Hierarchy; The Mystical Theology** — The mysterious author who fused Neoplatonism and Christianity into a theology of ascent through symbol to the God beyond being. His "negative theology" insists that God is best approached by unknowing, in a dazzling darkness. He shaped medieval mysticism, angelology, and the very idea of hierarchy.
-- **St. Gregory the Great — Dialogues; Moralia in Job** — The pope who reformed the liturgy, sent monks to convert England, and wrote (in the seed) the Pastoral Care. The Moralia mines the Book of Job for a vast spiritual psychology of temptation and virtue. He is the bridge by which the patristic age passes into the medieval.
+- **St. Gregory the Great — Dialogues; Moralia in Job** — The pope who reformed the liturgy, sent monks to convert England, and wrote the Pastoral Care (above). The Moralia mines the Book of Job for a vast spiritual psychology of temptation and virtue. He is the bridge by which the patristic age passes into the medieval.
 - **Cassiodorus — Institutions of Divine and Secular Learning** — The Roman statesman who, as the old order fell, founded a monastery to copy and preserve the books of antiquity. His Institutions is a curriculum joining sacred study to the liberal arts. To him as much as anyone we owe the survival of the classical inheritance.
 - **St. Maximus the Confessor — The Ambigua; Centuries on Love** — The Byzantine monk who suffered mutilation rather than concede that Christ lacked a human will. His dense theology of cosmic harmony and love crowns the Greek patristic synthesis. He teaches that the whole creation is gathered up and reconciled in Christ.
 - **St. John of Damascus — On the Orthodox Faith** — The last of the Greek Fathers, who summed up the whole tradition into a single system. He defended the holy images against the iconoclasts with the logic of the Incarnation: the invisible God, having taken flesh, may be depicted. His synthesis became the textbook of Eastern Orthodoxy and reached the medieval West.
@@ -111,8 +107,9 @@ The works named at founding, with corrected titles and translators where given.
 
 ### 3. Medieval Theology, Philosophy & Mysticism
 
-*The thousand-year labor of faith seeking understanding — the schoolmen building their cathedrals of argument, and the mystics, East and West, climbing past argument into God. Boethius's Consolation (Book I) is their common ancestor.*
+*The thousand-year labor of faith seeking understanding — the schoolmen building their cathedrals of argument, and the mystics, East and West, climbing past argument into God.*
 
+- **St. Boethius — The Consolation of Philosophy** — Written in prison awaiting execution, a dialogue in which Lady Philosophy heals the condemned man's despair. She teaches that fortune's wheel is treacherous and the true good lies beyond its reach, in God and the eternal order. The most read book of the Middle Ages after the Bible, it is the supreme consolation of the unjustly fallen.
 - **John Scotus Eriugena — Periphyseon (On the Division of Nature)** — The boldest mind of the early Middle Ages, who translated Pseudo-Dionysius and built a vast Neoplatonic system of all reality flowing from and returning to God. It dares to think creation as the self-manifestation of a God who is beyond being. Brilliant and dangerous, it was later condemned, but it kept speculative philosophy alive in a dark age.
 - **St. Anselm — Proslogion; Monologion; Cur Deus Homo** — The father of scholasticism, who sought God by reason alone in the famous "ontological" argument that being than which none greater can be conceived must exist. Cur Deus Homo gives the classic account of why God became man to satisfy justice. His motto, "faith seeking understanding," names the whole medieval project.
 - **Peter Abelard — Sic et Non; Historia Calamitatum** — The brilliant, combative logician whose Sic et Non set contradictory authorities side by side to force the work of reconciliation that became scholastic method. The Historia Calamitatum, with the letters to Heloise, is one of the most searing autobiographies ever written. He shows reason and passion alike at their most dangerous and most human.
@@ -147,8 +144,14 @@ The works named at founding, with corrected titles and translators where given.
 
 ### 4. The Trivium — Grammar, Logic, Rhetoric
 
-*The three arts of the word — how to speak correctly, reason validly, and persuade well — the first half of the liberal-arts curriculum. Priscian, Servius, Cicero's On Invention, and Isidore stand here already from the seed (Book I).*
+*The three arts of the word — how to speak correctly, reason validly, and persuade well — the first half of the liberal-arts curriculum.*
 
+- **Aristotle — Categories** — The opening book of the Organon, classifying the basic kinds of things that can be said of any subject. It is the entryway to all of Aristotle's logic and was the first philosophy the medieval West studied. To grasp it is to learn the very joints at which reality is carved by thought.
+- **Cicero — On Invention (De Inventione)** — The young Cicero's handbook on finding the matter of a speech, the first part of rhetoric. Incomplete but immensely influential, it taught the Middle Ages how to build an argument. It is the seed of the whole Western art of persuasion.
+- **Priscian — Institutes of Grammar (Institutiones Grammaticae)** — The most complete Latin grammar of antiquity, the standard authority for a thousand years. Every educated person in medieval Europe learned their Latin through Priscian. It is the great pillar on which literate Christendom was raised.
+- **Servius the Grammarian — Commentary on Virgil** — The late-antique scholar's line-by-line commentary on the Aeneid, a treasury of Roman lore and learning. It preserves countless facts about antiquity that would otherwise be lost. It is how the Middle Ages read and understood their supreme poet.
+- **St. Isidore — Etymologies (Etymologiae)** — The first encyclopedia of the Middle Ages, deriving all knowledge from the origins of words. It gathered the whole inheritance of antiquity into one indispensable reference. For centuries it was the West's single storehouse of learning.
+- **Alcuin of York — Disputatio with Pippin** — The witty teaching-dialogue in riddles between Charlemagne's son and the great schoolmaster. Each answer defines a thing by metaphor: "What is winter? The exile of summer." It captures the playful heart of Carolingian education.
 - **Donatus — Ars Minor; Ars Maior** — The standard Latin grammar of the entire Middle Ages, so basic that "donat" became a word for a primer. It teaches the parts of speech with a clarity that made literate Europe possible. To master it was the first step out of barbarism into the republic of letters.
 - **Aristotle — the rest of the Organon (On Interpretation, Prior and Posterior Analytics, Topics, Sophistical Refutations)** — The founding works of formal logic, which invented the syllogism and the theory of demonstration. They distinguish valid reasoning from plausible argument and from outright fallacy. For two thousand years they were simply what it meant to think rigorously.
 - **Porphyry — Isagoge** — A short introduction to Aristotle's Categories that became the gateway to all logic. Its question of whether universals are real things or only names launched the great medieval debate. A few pages here set philosophy's agenda for a millennium.
@@ -165,12 +168,17 @@ The works named at founding, with corrected titles and translators where given.
 
 ### 5. The Quadrivium — Arithmetic, Geometry, Music, Astronomy
 
-*The four arts of number and measure — the second half of the liberal-arts ladder, the bridge from the visible cosmos to the divine order behind it. Boethius's On Arithmetic and On Music and Bede's On the Reckoning of Time and Pliny's Natural History stand here from the seed (Book I).*
+*The four arts of number and measure — the second half of the liberal-arts ladder, the bridge from the visible cosmos to the divine order behind it.*
 
+- **St. Boethius — On Arithmetic; On Music** — The treatises that carried Greek number-theory and harmonics into the Latin West, the foundation of two of the four arts. Music, for Boethius, is number heard, and the cosmos itself sounds in proportion. For a thousand years these were the schoolroom of the quadrivium.
+- **St. Bede — On the Reckoning of Time (De Temporum Ratione)** — The Northumbrian monk's masterwork on the calendar, the calculation of Easter, and the ages of the world. It fixed the reckoning of time, including the dating of years from the Incarnation. It is the science of time as the medieval Church practiced it.
+- **Pliny the Elder — Natural History** — The vast encyclopedia of the ancient world's knowledge of nature, from astronomy to animals to art. Pliny died observing the eruption of Vesuvius, curious to the last. For fifteen centuries it was the West's single greatest storehouse of natural fact and fable.
+- **Cicero — The Dream of Scipio (Somnium Scipionis)** — The closing vision of Cicero's Republic, in which the soul beholds the cosmos and the smallness of earthly fame. From the harmony of the spheres, all human glory looks like a point. Through Macrobius's commentary it taught the Middle Ages to despise vanity from the height of the stars.
+- **Alcuin of York — Problems to Sharpen the Young (Propositiones ad Acuendos Juvenes)** — The oldest collection of recreational mathematical puzzles in the Latin West. Its river-crossings and granary problems still delight and instruct. It is the charming proof that the Carolingian school knew learning should be a game.
 - **Euclid — Elements** — The geometry textbook of the human race, deriving a whole world of theorems from a handful of axioms. It is the supreme model of how certain knowledge is built step by demonstrated step. To work through it is to learn what proof itself means.
 - **Nicomachus of Gerasa — Introduction to Arithmetic** — The Greek treatise on the mystical properties of number that Boethius carried into the West. It treats arithmetic as the key to the harmony underlying all things. Here number is not mere counting but the architecture of reality.
 - **Ptolemy — Almagest; Harmonics** — The grand synthesis of ancient astronomy that mapped the heavens for fourteen centuries, paired with his theory of musical harmony. Wrong in its earth-centered model, it was still a triumph of mathematical prediction. It shows how far disciplined reason can reach even from a false premise.
-- **Macrobius — Commentary on the Dream of Scipio** — A Neoplatonic meditation built on Cicero's vision of the soul's heavenly home (Book I). It transmitted to the Middle Ages the music of the spheres and the smallness of earthly glory. It taught the medieval mind to look down on fame from the height of the stars.
+- **Macrobius — Commentary on the Dream of Scipio** — A Neoplatonic meditation built on Cicero's Dream of Scipio (above). It transmitted to the Middle Ages the music of the spheres and the smallness of earthly glory. It taught the medieval mind to look down on fame from the height of the stars.
 - **Aratus — Phaenomena** — A Greek poem setting the constellations and weather-signs to verse, beloved across antiquity. Even St. Paul quotes it: "for we are also his offspring." It is science as memorable song, the night sky turned into literature.
 - **Hyginus — Poeticon Astronomicon** — A handbook gathering the myths attached to each constellation. It preserves the stories by which the ancients read their own legends in the stars. To know it is to see the heavens as the Greeks did, peopled with heroes and beasts.
 - **Bede — On the Nature of Things (De Natura Rerum)** — The Northumbrian monk's compact account of the physical world, drawn from Pliny and Isidore. It shows the early medieval Church carefully conserving and teaching natural knowledge. It is the companion to his great work on time and the calendar.
@@ -183,14 +191,18 @@ The works named at founding, with corrected titles and translators where given.
 
 ### 6. Classical Latin Epic, Poetry & Drama
 
-*The full glory of Latin verse and the stage, of which the seed already holds the summits — Virgil's Aeneid, Lucan's Pharsalia, Statius's Thebaid, and Fortunatus's hymn (Book I).*
+*The full glory of Latin verse and the stage, from Rome's first epics to the Christian hymns of its twilight.*
 
+- **Virgil — The Aeneid** — Rome's national epic, the voyage of Aeneas from burning Troy to found the destined city. It weds Homeric grandeur to a melancholy sense of duty, sacrifice, and the cost of empire. It is the central poem of the Latin West, mourned and revered for two thousand years.
+- **Lucan — Pharsalia (De Bello Civili)** — The unfinished epic of the civil war between Caesar and Pompey, godless and grim. It strips away the gods to show raw power, fortune, and the death of the Republic. Its republican fury makes it the great anti-epic of Roman liberty lost.
+- **Statius — Thebaid** — The dark epic of the brothers' war for Thebes, drenched in fury and doom. Its tortured passions and brilliant surface made it a model for medieval poets. Dante so revered Statius that he made him a guide on the mountain of Purgatory.
+- **St. Venantius Fortunatus — Pange Lingua Gloriosi Proelium Certaminis** — The great Passiontide hymn celebrating the cross as the tree of victory. Its marching Latin rhythm carried the gospel into song for the whole Western Church. It is the bridge from classical meter to Christian liturgy.
 - **Virgil — Eclogues; Georgics** — Before the Aeneid, Virgil sang of shepherds and of farming, and made both into high art. The Georgics is the most perfect poem ever written about work, the land, and the dignity of labor. The Fourth Eclogue's prophecy of a child who would renew the age was read by Christians as foretelling Christ.
 - **Ovid — Metamorphoses; Fasti; Heroides** — The Metamorphoses spins all of myth into one glittering river of transformation, the West's handbook of pagan story. Ovid is wit, eros, and endless inventive surface over real depths of loss and exile. No poet has fed painters and writers more for two thousand years.
 - **Horace — Odes; Satires; Epistles; Ars Poetica** — The poet of balance, who taught the West "carpe diem," the golden mean, and the well-turned phrase. His Odes are jewels of economy; the Ars Poetica became the rulebook of taste. He is the supreme voice of civilized moderation and friendship.
 - **Lucretius — On the Nature of Things (De Rerum Natura)** — A sublime philosophical epic expounding the atomism of Epicurus to free men from fear of the gods and death. Everything is atoms and void; the soul is mortal, so live without dread. It is the most beautiful argument for materialism ever made, and a perennial provocation to faith.
 - **Catullus — Poems** — The fierce, tender lyrics of Rome's most personal poet, lover of Lesbia and master of the obscene jibe. He invented the European love poem of raw, contradictory feeling. To read him is to hear a real voice from two millennia ago, undimmed.
-- **Statius — Silvae; Achilleid** — Beyond his Thebaid (Book I), Statius left occasional poems of remarkable polish and an unfinished epic on Achilles' youth. The Silvae capture Roman domestic life, grief, and patronage with warmth. Dante so loved him that he made Statius a guide in Purgatory.
+- **Statius — Silvae; Achilleid** — Beyond his Thebaid (above), Statius left occasional poems of remarkable polish and an unfinished epic on Achilles' youth. The Silvae capture Roman domestic life, grief, and patronage with warmth. Dante so loved him that he made Statius a guide in Purgatory.
 - **Silius Italicus — Punica** — The longest poem in Latin, an epic of the war with Hannibal. It is Roman patriotism and Stoic virtue cast in Virgilian armor. It preserves the memory of Rome's greatest trial as deliberate myth.
 - **Valerius Flaccus — Argonautica** — A Latin retelling of Jason's quest for the Golden Fleece, darker and more psychological than its Greek model. Its Medea is a study of love turning toward catastrophe. It shows Silver-Age epic probing the inner storms of its heroes.
 - **Juvenal — Satires** — The savage indignation of Rome's greatest satirist, lashing the vice and folly of the imperial city. He gave us "bread and circuses" and "who guards the guards themselves." His fury is the conscience of a civilization disgusted with itself.
@@ -229,7 +241,7 @@ The works named at founding, with corrected titles and translators where given.
 
 ### 8. Greek Philosophy
 
-*The Greek invention of philosophy itself — the asking of what is real, what is good, and how we know. Aristotle and Plato stand here from the seed (Book I); the rest of their works fill out the foundation.*
+*The Greek invention of philosophy itself — the asking of what is real, what is good, and how we know.*
 
 - **Plato — Republic; Symposium; Phaedo; Phaedrus; Timaeus; Gorgias; Laws** — The dialogues that set nearly every later question, dramatizing Socrates in pursuit of justice, love, knowledge, and the soul's immortality. The theory of Forms holds that the visible world is a shadow of an eternal order the mind can ascend toward. It has been said that all philosophy is a series of footnotes to Plato.
 - **Aristotle — Nicomachean Ethics; Politics; Physics; Metaphysics; On the Soul; Poetics; Rhetoric** — The most comprehensive mind of antiquity, who founded logic, biology, and political science and analyzed virtually everything else. His ethics locates happiness in virtuous activity and the mean; his Poetics still governs how we talk about drama. Where Plato points upward, Aristotle patiently anatomizes the world we actually live in.
@@ -246,7 +258,7 @@ The works named at founding, with corrected titles and translators where given.
 
 ### 9. History & Biography (Classical)
 
-*The Greek and Roman invention of history as inquiry and of biography as moral mirror. Plutarch heads this book from the seed (Book I).*
+*The Greek and Roman invention of history as inquiry and of biography as moral mirror.*
 
 - **Herodotus — The Histories** — The "father of history," who set out to record the great deeds of Greeks and barbarians and why they warred. Curious about everything, he weaves ethnography, marvels, and the clash of East and West around the Persian Wars. He teaches that the historian's first duty is to ask, travel, and wonder.
 - **Thucydides — The Peloponnesian War** — The first scientific historian, who stripped out the gods to expose the cold mechanics of power, fear, and self-interest. His Melian Dialogue, where "the strong do what they can and the weak suffer what they must," is the founding text of realism. He wrote a "possession for all time," and it remains a manual for understanding nations.
@@ -271,7 +283,7 @@ The works named at founding, with corrected titles and translators where given.
 
 ### 10. Roman Prose, Moral Philosophy & Letters
 
-*Rome teaching the West how to live, govern, and die well — practical wisdom in the world's most influential prose. Cicero's On Invention and the Dream of Scipio already stand in the seed (Book I).*
+*Rome teaching the West how to live, govern, and die well — practical wisdom in the world's most influential prose.*
 
 - **Cicero — On Duties; Tusculan Disputations; On the Nature of the Gods; On Old Age; On Friendship; Letters** — The fullest expression of the Roman moral ideal, transmitting Greek philosophy in matchless Latin. On Duties was for centuries the West's basic textbook of ethics for public men. His letters, unguarded and alive, let us watch a great mind meet the death of a republic.
 - **Seneca — Letters to Lucilius; On the Shortness of Life; Moral Essays** — The Stoic statesman's intimate letters on how to face fortune, time, and mortality. His theme is that life is long enough if we stop squandering it on trifles and fear. Few writers give more usable counsel for steadying the soul.
@@ -287,8 +299,10 @@ The works named at founding, with corrected titles and translators where given.
 
 ### 11. Medieval History, Chronicle & Hagiography
 
-*How the Middle Ages remembered itself — the chronicles of kings and peoples and the lives of the saints. Orosius and Bede's Ecclesiastical History head this book from the seed (Book I).*
+*How the Middle Ages remembered itself — the chronicles of kings and peoples and the lives of the saints.*
 
+- **Orosius — History Against the Pagans** — The first Christian world-history, written at Augustine's urging to answer those who blamed Christianity for Rome's fall. It argues that the pagan past was no golden age but a chronicle of equal calamity. It became the standard universal history of the entire Middle Ages.
+- **St. Bede — Ecclesiastical History of the English People** — The masterwork that tells how the English were made one Christian people. Careful with its sources and graceful in its Latin, it founded English history. It is the single indispensable book for the birth of England.
 - **Gregory of Tours — The History of the Franks** — The earliest narrative of the Merovingian kingdom, written by a bishop in the thick of its bloodshed. Vivid, credulous, and indispensable, it shows a brutal age held together by a fragile Christianity. It is our chief window onto Europe in the sixth century.
 - **Einhard — The Life of Charlemagne** — A short, affectionate biography of the emperor by a member of his court, modeled on Suetonius. It humanizes the towering figure of the Carolingian renaissance, down to his swimming and his failed efforts to learn writing. It is the finest piece of biography the early Middle Ages produced.
 - **Asser — The Life of King Alfred** — The contemporary life of the only English king called "the Great," scholar and defender against the Vikings. It portrays a ruler who translated books with his own hand and built a kingdom of learning amid war. It is the portrait of the philosopher-king the canon's whole curriculum imagines.
@@ -302,11 +316,16 @@ The works named at founding, with corrected titles and translators where given.
 - **Jacobus de Voragine — The Golden Legend** — The medieval bestseller of saints' lives, read more than any book but the Bible. Its miracles and martyrdoms furnished the imagery of countless paintings and windows. It is the imaginative world of medieval Christendom in a single volume.
 - **Saxo Grammaticus — Gesta Danorum** — A grand Latin history of the Danes, preserving the legend that became Shakespeare's Hamlet. It blends Norse myth and patriotic chronicle into a national epic in prose. It is the bridge by which the pagan north entered Christian Latin letters.
 - **Adam of Bremen — Deeds of the Bishops of Hamburg** — A church history that doubles as our best early description of Scandinavia and the lands of the Baltic. It records the pagan temple at Uppsala and even rumors of Vinland across the sea. It is the medieval north mapped at the very edge of the known world.
+- **Anna Komnene — The Alexiad** — The Byzantine princess's history of her father, Emperor Alexios, and the arrival of the Crusaders. The first great history by a woman, it gives the cultivated Greek view of the rough Latin West. It is a masterpiece of learning, partisanship, and daughterly love.
+- **Otto of Freising — The Two Cities; Deeds of Frederick Barbarossa** — The bishop-historian who wrote history as the unfolding of Augustine's earthly and heavenly cities. He chronicled his own turbulent age and his nephew the emperor. He is the most philosophical of medieval historians.
+- **Geoffroi de Villehardouin — The Conquest of Constantinople** — A knight's firsthand narrative of the Fourth Crusade and its sack of the Christian East. It is among the earliest works of French prose history. It is the crusader's own unflinching, self-justifying record.
+- **Jean de Joinville — The Life of Saint Louis** — The intimate memoir of the crusading king Louis IX by his devoted companion. It blends chivalry, piety, and warm personal anecdote. It is one of the most affectionate portraits of a man the Middle Ages produced.
 
 ### 12. Germanic, Norse & Anglo-Saxon
 
-*The heroic literature of the northern peoples — fate, courage, and the doomed loyalty of the war-band. Beowulf stands here from the seed (Book I).*
+*The heroic literature of the northern peoples — fate, courage, and the doomed loyalty of the war-band.*
 
+- **Anon. — Beowulf** — The great Old English epic of the hero who slays Grendel, Grendel's mother, and at last a dragon that kills him. It fuses pagan courage with a Christian elegy for the passing of all earthly glory. It is the foundation poem of English literature and the noblest portrait of the heroic ideal.
 - **The Poetic Edda** — The collection of Old Norse mythological and heroic poems, our primary source for the pagan gods of the north. Here are Odin's wisdom, the doom of Ragnarok, and the tragic Volsung legends. It is the raw scripture of Germanic paganism, grand and grim.
 - **Snorri Sturluson — The Prose Edda; Heimskringla** — The Icelandic chieftain who, as a Christian, lovingly systematized the old myths so the poets' craft would not be lost, then wrote the saga-history of Norway's kings. Without him, Norse mythology would be a heap of fragments. He is the great conservator of the pagan imagination of the north.
 - **The Nibelungenlied** — The Middle High German epic of Siegfried, the dragon's hoard, and Kriemhild's terrible revenge. A world of courtly splendor collapses into a hall of slaughter. It is the Germanic Iliad, and the seed of Wagner's Ring.
@@ -318,8 +337,9 @@ The works named at founding, with corrected titles and translators where given.
 
 ### 13. Chivalry, Romance & High Medieval Epic
 
-*The flowering of the vernaculars into knighthood, courtly love, and the quest — the literature that gave the West its ideal of the noble soul. Malory's Le Morte d'Arthur heads this book from the seed (Book I).*
+*The flowering of the vernaculars into knighthood, courtly love, and the quest — the literature that gave the West its ideal of the noble soul.*
 
+- **Sir Thomas Malory — Le Morte d'Arthur** — The great English gathering of the Arthurian legends into one tragic whole, written from prison. It tells the rise of the Round Table, the quest for the Grail, and the fall of Camelot through Lancelot and Guinevere's love. It is the fountainhead of Arthur in English and the elegy for an ideal of chivalry.
 - **The Song of Roland** — The oldest and greatest French epic, of Charlemagne's rearguard betrayed and Roland's defiant death at Roncesvalles. It crystallizes the feudal virtues of loyalty, courage, and faith against the infidel. It is the founding poem of French national and chivalric identity.
 - **The Poem of the Cid** — The Spanish national epic of the exiled knight who wins back his honor by the sword. Unusually grounded and humane, its hero is a real man of measure and loyalty, not a superhuman. It is Castile's portrait of the ideal vassal and warrior.
 - **Chretien de Troyes — Perceval; Lancelot; Yvain; Erec and Enide** — The poet who all but invented Arthurian romance and introduced the Grail and Lancelot's adulterous love. He fused adventure with the new ideology of refined, ennobling love. Every later knight-errant rides in his characters' tracks.
@@ -357,8 +377,10 @@ The works named at founding, with corrected titles and translators where given.
 
 ### 15. The Warrior's Way — Eastern Wisdom & the Martial Code
 
-*The wisdom of the East and the ethic of the warrior — strategy, self-mastery, and the acceptance of death. The Hagakure and the Book of Five Rings stand at the head from the seed (Book I); the Zen that forged this code is detailed in Book 23.*
+*The wisdom of the East and the ethic of the warrior — strategy, self-mastery, and the acceptance of death. The Zen that forged this code is detailed in Book 23.*
 
+- **Yamamoto Tsunetomo — Hagakure** — The "hidden leaves," a samurai's collected reflections on the way of the warrior in a time of peace. "The way of the samurai is found in death": readiness to die frees a man to live wholeheartedly. It is the most uncompromising statement of the warrior's loyalty and resolve.
+- **Miyamoto Musashi — The Book of Five Rings** — The strategy of Japan's greatest swordsman, written in a cave near the end of his undefeated life. Across its five scrolls, the art of the sword becomes a whole philosophy of timing, perception, and the void. It is read alike by martial artists and by those who fight in the marketplace.
 - **Sun Tzu — The Art of War** — The oldest and most influential treatise on strategy, prizing victory won without battle. Know yourself and your enemy, strike at weakness, and shape the situation before the fighting starts. Its lessons reach far beyond war, into business, politics, and the conduct of life.
 - **Confucius — The Analects** — The recorded sayings of the sage who made ethics, ritual, and the cultivated gentleman the center of Chinese civilization. Virtue begins at home in filial respect and ripples outward into a well-ordered society. Its quiet maxim, do not do to others what you would not want done to you, predates the Golden Rule's Western form.
 - **Mencius — The Mencius** — Confucius's great successor, who argued that human nature is fundamentally good, like water flowing downhill. The ruler holds a mandate that the people may withdraw if he governs cruelly. It is the humane and democratic conscience of the Confucian tradition.
@@ -387,7 +409,7 @@ The works named at founding, with corrected titles and translators where given.
 
 ### 16. The Moderns — the Novel, the Drama & the Examined Soul
 
-*The literature of the modern soul, still wrestling with God, death, freedom, and honor after the old certainties cracked. Kafka, Mishima, Dostoevsky, and Tolkien stand at the head from the seed (Book I).*
+*The literature of the modern soul, still wrestling with God, death, freedom, and honor after the old certainties cracked.*
 
 - **Kafka — The Trial; The Castle; The Metamorphosis; Diaries** — Nightmarish parables of a man crushed by faceless bureaucracies and unnameable guilt. Joseph K. is arrested for a crime never specified; Gregor wakes as an insect; the Castle never grants admittance. Kafka named the modern condition of alienation so exactly that his name became an adjective for it.
 - **Mishima — The Sea of Fertility; Confessions of a Mask; Sun and Steel; Patriotism** — The Japanese master obsessed with beauty, the body, death, and the lost warrior spirit. Sun and Steel narrates his forging of flesh and will toward a chosen, ritual end. His art and his spectacular suicide together pose the question of whether one can live, and die, as a work of art.
@@ -447,7 +469,7 @@ The works named at founding, with corrected titles and translators where given.
 
 ### 17. Modern Philosophy & the Depths of the Mind
 
-*The line the seed left implicit: from the rebirth of doubt through German Idealism to the descent into the unconscious. This is the explicit charge — Schopenhauer, Hegel, Jung, and their company.*
+*The line from the rebirth of doubt through German Idealism to the descent into the unconscious — Descartes and Kant, Schopenhauer and Hegel, Jung and their company.*
 
 - **Michel de Montaigne — Essays** — The Frenchman who invented the essay as a form, turning his own mind into the subject of study. "What do I know?" is his motto, and honest self-examination his method against all dogmatism. He teaches the wisdom of doubt, moderation, and frank acquaintance with oneself.
 - **Francis Bacon — Novum Organum; Essays** — The herald of modern science, who urged that knowledge be built on experiment rather than ancient authority. He catalogs the "idols" — the mental habits that distort our seeing. "Knowledge is power": his program remade the human relationship to nature.
@@ -503,7 +525,7 @@ The works named at founding, with corrected titles and translators where given.
 
 ### 19. The Arabic & Persian World — Epic, Verse & Philosophy
 
-*The world the seed could not see past Servius and Priscian: the Qur'anic tongue, the great Persian epic, the Sufi poets, and the philosophers who carried Aristotle back to the Latins (the charge from Avicenna, Averroes, Al-Ghazali, Maimonides). The Thousand and One Nights and the Rubaiyat are cross-listed from Book 15.*
+*The world the Latin curriculum could not see past Servius and Priscian: the Qur'anic tongue, the great Persian epic, the Sufi poets, and the philosophers who carried Aristotle back to the Latins (Avicenna, Averroes, Al-Ghazali, Maimonides). The Thousand and One Nights and the Rubaiyat are cross-listed from Book 15.*
 
 **Arabic — epic, verse & prose:**
 - **The Qur'an** — The scripture Muslims hold to be the literal, uncreated word of God revealed to Muhammad. Its rhythmic Arabic, deemed inimitable, is at once law, prayer, and the supreme model of the language. For a fifth of humanity it is the axis of life, and its cadences shaped a civilization.
