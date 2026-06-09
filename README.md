@@ -467,73 +467,73 @@ The works named at founding, with corrected titles and translators where given.
 *The world the seed could not see past Servius and Priscian: the Qur'anic tongue, the great Persian epic, the Sufi poets, and the philosophers who carried Aristotle back to the Latins (the charge from Avicenna, Averroes, Al-Ghazali, Maimonides). The Thousand and One Nights and the Rubaiyat are cross-listed from Book 15.*
 
 **Arabic — epic, verse & prose:**
-- The Qur'an
-- The Mu'allaqat (The Seven Hanging Odes of pre-Islamic Arabia)
-- Antarah ibn Shaddad — Diwan; Sirat Antar (the heroic romance)
-- Abu Nuwas — Diwan
-- Al-Mutanabbi — Diwan
-- Abu al-Ala al-Maarri — The Epistle of Forgiveness (Risalat al-Ghufran); Luzumiyyat
-- Ibn al-Muqaffa — Kalila wa Dimna
-- Al-Hariri — The Maqamat
-- Usama ibn Munqidh — The Book of Contemplation (Kitab al-Itibar)
-- Ibn Tufayl — Hayy ibn Yaqzan
-- Ibn Khaldun — The Muqaddimah
+- **The Qur'an** — The scripture Muslims hold to be the literal, uncreated word of God revealed to Muhammad. Its rhythmic Arabic, deemed inimitable, is at once law, prayer, and the supreme model of the language. For a fifth of humanity it is the axis of life, and its cadences shaped a civilization.
+- **The Mu'allaqat (The Seven Hanging Odes)** — The famed odes of pre-Islamic Arabia, said to have hung in gold on the Kaaba. They sing of the desert, lost love, the camel, the raid, and the fierce honor of the tribe. They are the proud pagan poetry from which all Arabic literature springs.
+- **Antarah ibn Shaddad — Diwan; Sirat Antar** — The poems and legend of the black slave who became a warrior-hero and poet for love of Abla. His Sirat grew into a vast chivalric romance recited for centuries. He is the Arab knight-errant, the very ideal of courage and devotion.
+- **Abu Nuwas — Diwan** — The witty, scandalous genius of the Abbasid court, master of the wine-song and the love-lyric. He flouted piety with brilliant, unrepentant verse on pleasure. He is the great libertine voice of classical Arabic poetry.
+- **Al-Mutanabbi — Diwan** — Widely held the greatest of all Arabic poets, proud to the point of claiming prophecy. His panegyrics and boasts ring with unmatched force and self-assertion. To this day his lines are quoted across the Arab world as the summit of the tongue.
+- **Abu al-Ala al-Maarri — The Epistle of Forgiveness; Luzumiyyat** — The blind, skeptical philosopher-poet who anticipated Dante with a tour of the afterlife. His pessimism, vegetarianism, and doubt of all religions made him a daring freethinker. He is the conscience of reason within the medieval Islamic world.
+- **Ibn al-Muqaffa — Kalila wa Dimna** — The Arabic version of the Indian animal fables, statecraft and morality taught through talking beasts. It became the most widely translated book of secular wisdom in the medieval world. It is the mirror-for-princes of the East, sly and humane.
+- **Al-Hariri — The Maqamat** — Fifty dazzling tales of an eloquent rogue, written in rhymed, pun-laden virtuoso prose. The form exists to display the sheer riches of the Arabic language. It is the supreme showpiece of classical Arabic style.
+- **Usama ibn Munqidh — The Book of Contemplation** — The memoirs of a Syrian noble during the Crusades, full of war, hunting, and the strange Franks. His wry observations give a rare Muslim view of the crusading West. It is one of the most vivid personal documents of the medieval Near East.
+- **Ibn Tufayl — Hayy ibn Yaqzan** — A philosophical novel of a child raised alone on an island who reasons his way to truth and God. It argues that the lone intellect can reach the highest wisdom unaided. This "self-taught philosopher" influenced European thought down to Robinson Crusoe.
+- **Ibn Khaldun — The Muqaddimah** — The astonishing prologue to a universal history that founded the study of society itself. He explains the rise and fall of dynasties through asabiyya, the social solidarity that hardens then decays. He is, centuries early, the father of sociology and the philosophy of history.
 
 **Hadith, Sirah & Islamic tradition:**
-- Sahih al-Bukhari (a selection)
-- Sahih Muslim
-- Al-Nawawi — Forty Hadith
-- Ibn Ishaq / Ibn Hisham — The Life of Muhammad (Sirat Rasul Allah)
-- Al-Tabari — History of the Prophets and Kings (Tarikh al-Rusul wa al-Muluk)
+- **Sahih al-Bukhari (a selection)** — The most revered collection of the sayings and deeds of Muhammad, sifted for authenticity. After the Qur'an it is the chief source of Islamic law and practice. It is the meticulous memory of the Prophet's example, the Sunnah made text.
+- **Sahih Muslim** — The second of the two most trusted hadith collections, companion to al-Bukhari. Its careful chains of transmission model the Islamic science of verifying tradition. Together these two define orthodox Sunni practice.
+- **Al-Nawawi — Forty Hadith** — A short, beloved selection of the sayings that sum up the whole of the religion. Memorized by countless Muslims, it distills the faith to its essentials. It is the pocket catechism of Islamic ethics.
+- **Ibn Ishaq / Ibn Hisham — The Life of Muhammad (Sirat Rasul Allah)** — The earliest biography of the Prophet, the foundation of all later accounts. It narrates the revelation, the persecution, the flight to Medina, and the triumph. It is how Islam remembers the life that changed the world.
+- **Al-Tabari — History of the Prophets and Kings** — The vast universal chronicle from creation to the author's own day, the great storehouse of early Islamic history. It preserves countless traditions that would otherwise be lost. It is the Livy of the Muslim world.
 
 **Persian — epic & verse:**
-- Ferdowsi — The Shahnameh (The Book of Kings)
-- Rudaki — Diwan
-- Sanai — The Walled Garden of Truth (Hadiqat al-Haqiqa)
-- Nizami Ganjavi — The Khamsa (Layla and Majnun; Khosrow and Shirin; The Seven Beauties)
-- Attar — The Conference of the Birds (Mantiq al-Tayr)
-- Rumi — The Masnavi; Diwan-e Shams-e Tabrizi; Fihi Ma Fihi
-- Saadi — The Gulistan (The Rose Garden); The Bustan (The Orchard)
-- Hafiz — The Divan
-- Jami — Yusuf and Zulaikha; Haft Awrang
+- **Ferdowsi — The Shahnameh (The Book of Kings)** — The Persian national epic, fifty thousand couplets tracing Iran from creation to the Arab conquest. By writing in pure Persian, Ferdowsi saved the language and the identity of a people. Its tragic hero Rostam stands beside Achilles among the giants of world epic.
+- **Rudaki — Diwan** — The blind "father of Persian poetry," first master of the new Persian tongue at the Samanid court. The fragments that survive shimmer with grace and feeling. He opened the golden road that Ferdowsi, Rumi, and Hafiz would travel.
+- **Sanai — The Walled Garden of Truth** — The poet who first made the Persian couplet a vehicle for Sufi mysticism. His Walled Garden weds doctrine, parable, and devotion. He prepared the way for Attar and Rumi after him.
+- **Nizami Ganjavi — The Khamsa (Layla and Majnun; Khosrow and Shirin; The Seven Beauties)** — The supreme romantic poet of Persia, whose five poems perfected the verse romance. Majnun, driven mad by love into the desert, became the East's archetype of the lover. His tales of passion and chivalry enchanted the whole Islamic world.
+- **Attar — The Conference of the Birds** — The Sufi allegory in which the birds journey to find their king, the Simurgh, only to discover he is themselves. Each station of the road is a stage of mystical purification. It is one of the most beautiful maps of the soul's path to God.
+- **Rumi — The Masnavi; Diwan-e Shams-e Tabrizi; Fihi Ma Fihi** — The greatest of the Sufi poets, whose verse pours out the soul's longing for union with the divine Beloved. The Masnavi is called "the Qur'an in Persian," a vast ocean of story and ecstasy. His reed-flute, torn from the reed-bed, is the cry of every soul exiled from its source.
+- **Saadi — The Gulistan; The Bustan** — The wise traveler whose Rose Garden and Orchard blend story, verse, and worldly counsel. His lines on the common humanity of all men are inscribed at the United Nations. He is the genial teacher of practical ethics and grace.
+- **Hafiz — The Divan** — The supreme lyric poet of Persia, whose ghazals on wine, love, and the Beloved shimmer with ambiguity. Sacred or profane, his verse is taken for an oracle and opened at random for guidance. He is the most beloved poet of the Persian-speaking world.
+- **Jami — Yusuf and Zulaikha; Haft Awrang** — The last great classical Persian poet, who retold the love of Joseph and Potiphar's wife as a mystical allegory. His Seven Thrones gather romance and Sufi wisdom into a final golden harvest. He seals the classical tradition he so completely mastered.
 
 **Islamic & Jewish philosophy and science — the bridge to the Latin West:**
-- Al-Kindi — On First Philosophy
-- Al-Farabi — The Virtuous City (Al-Madina al-Fadila)
-- Avicenna (Ibn Sina) — The Book of Healing; The Canon of Medicine
-- Al-Ghazali — The Incoherence of the Philosophers; The Revival of the Religious Sciences; Deliverance from Error
-- Averroes (Ibn Rushd) — The Incoherence of the Incoherence; The Decisive Treatise; the Aristotle commentaries
-- Suhrawardi — The Philosophy of Illumination (Hikmat al-Ishraq)
-- Ibn Arabi — The Bezels of Wisdom (Fusus al-Hikam); The Meccan Revelations
-- Moses Maimonides — The Guide for the Perplexed
-- Omar Khayyam — Treatise on Algebra
+- **Al-Kindi — On First Philosophy** — The first Arab philosopher, who began the great project of marrying Greek thought to Islam. He defended philosophy as the pursuit of truth, wherever found. He opened the door through which Aristotle would pass to the medieval world.
+- **Al-Farabi — The Virtuous City** — The "second teacher" after Aristotle, who fused Plato's ideal city with Islamic prophecy. The best ruler unites philosopher and prophet, guiding men to true happiness. He gave Islamic political philosophy its classic form.
+- **Avicenna (Ibn Sina) — The Book of Healing; The Canon of Medicine** — The towering polymath whose Canon was the standard medical textbook in Europe for six centuries. His metaphysics of necessary and contingent being shaped Aquinas himself. He is the summit of medieval philosophy and science in one mind.
+- **Al-Ghazali — The Incoherence of the Philosophers; The Revival of the Religious Sciences; Deliverance from Error** — The theologian who turned the philosophers' own logic against their pretensions, then found certainty in Sufi experience. His spiritual autobiography anticipates Descartes' path through doubt. He reconciled law, reason, and mysticism for orthodox Islam.
+- **Averroes (Ibn Rushd) — The Incoherence of the Incoherence; The Decisive Treatise; the Aristotle commentaries** — Islam's greatest Aristotelian, who answered al-Ghazali and defended philosophy as the ally of faith. His commentaries were so authoritative that the Latins simply called him "the Commentator." He lit the fuse of rationalism in the Christian universities.
+- **Suhrawardi — The Philosophy of Illumination** — The mystic-philosopher who built a metaphysics of light, where being is degrees of radiance from the Light of Lights. He wove Platonic, Zoroastrian, and Islamic strands into a single vision. Executed young, he founded the "Illuminationist" school of Persian thought.
+- **Ibn Arabi — The Bezels of Wisdom; The Meccan Revelations** — The "greatest master" of Sufism, who taught the unity of all being in the one divine Reality. Each prophet, he says, reveals a distinct facet of God's self-disclosure. He is the deepest and most daring metaphysician of Islamic mysticism.
+- **Moses Maimonides — The Guide for the Perplexed** — The Jewish sage of Cairo who reconciled the Torah with Aristotle for minds torn between them. He purifies the idea of God of all crude anthropomorphism. The greatest Jewish philosopher, he shaped Aquinas and the whole medieval debate. (Cross-listed in Book 20.)
+- **Omar Khayyam — Treatise on Algebra** — Beyond his famous quatrains, Khayyam was a first-rank mathematician who classified and solved the cubic equations. He reformed the Persian calendar to remarkable accuracy. He embodies the union of poet and scientist in the medieval Persian genius.
 
 ### 20. The Rabbinic & Kabbalistic Tradition
 
 *The Jewish textual world beneath the Tanakh: the Oral Torah set to writing — its law, its lore, and the mystical ascent. Sefer Yetzirah and the Zohar are cross-listed from Book 18; the Guide for the Perplexed from Book 19.*
 
-- The Mishnah
-- The Tosefta
-- The Babylonian Talmud (Talmud Bavli)
-- The Jerusalem Talmud (Talmud Yerushalmi)
-- Pirkei Avot (The Ethics of the Fathers)
-- The Midrash — Midrash Rabbah; Pirkei de-Rabbi Eliezer; Tanhuma
-- The Targums — Onkelos; Jonathan
-- Rashi — Commentary on the Torah and Talmud
-- Moses Maimonides — The Mishneh Torah; the Thirteen Principles of Faith
-- Joseph Karo — The Shulchan Aruch
-- Saadia Gaon — The Book of Beliefs and Opinions
-- Judah Halevi — The Kuzari
-- Bahya ibn Paquda — Duties of the Heart
+- **The Mishnah** — The first great code of the Oral Torah, compiled around 200 AD, organizing Jewish law into six orders. It records the debates of the rabbis on everything from agriculture to ritual purity. It is the foundation stone on which all later rabbinic Judaism is built.
+- **The Tosefta** — A companion compilation of rabbinic teachings that supplements and expands the Mishnah. It preserves alternative rulings and fuller discussions left out of the code. It is the indispensable shadow-text of the early law.
+- **The Babylonian Talmud (Talmud Bavli)** — The vast sea of rabbinic discussion built on the Mishnah, the central text of Judaism after the Bible. Its dialectic of question and counter-question models a whole way of thinking. To "learn Talmud" is to enter a two-thousand-year conversation that never closes.
+- **The Jerusalem Talmud (Talmud Yerushalmi)** — The earlier, terser Talmud produced in the Land of Israel. Less polished than its Babylonian cousin, it preserves distinct traditions and rulings. It is the other great witness to the formation of rabbinic law.
+- **Pirkei Avot (The Ethics of the Fathers)** — The beloved tractate of moral maxims from the sages, recited on Sabbath afternoons. "If I am not for myself, who will be for me? But if I am only for myself, what am I?" It is the distilled wisdom of the rabbis on how to live.
+- **The Midrash — Midrash Rabbah; Pirkei de-Rabbi Eliezer; Tanhuma** — The vast body of rabbinic interpretation that fills the silences of Scripture with story and meaning. It reads the Bible imaginatively, drawing out law, legend, and moral lesson. It is the endlessly creative heart of the Jewish encounter with the text.
+- **The Targums — Onkelos; Jonathan** — The Aramaic translations of the Hebrew Bible read alongside it in the synagogue. More than translation, they interpret and gloss as they render. They show how the Scripture was understood when its first language had faded.
+- **Rashi — Commentary on the Torah and Talmud** — The eleventh-century French sage whose lucid commentary is the indispensable companion to both Bible and Talmud. No Jewish child has studied the text without him at their side. He is simply "the commentator," the gateway to the whole tradition.
+- **Moses Maimonides — The Mishneh Torah; the Thirteen Principles of Faith** — The supreme codifier, whose Mishneh Torah organized all of Jewish law into clear, systematic form. His Thirteen Principles are the nearest thing Judaism has to a creed. "From Moses to Moses there arose none like Moses," the saying goes.
+- **Joseph Karo — The Shulchan Aruch** — The "Set Table," the authoritative code of Jewish law that governs observance to this day. Its rulings made a practical, portable Judaism for a scattered people. It remains the working handbook of traditional Jewish life.
+- **Saadia Gaon — The Book of Beliefs and Opinions** — The first major work of Jewish philosophy, defending the faith with the tools of reason. He argued that revelation and rational inquiry reach the same truths. He set Judaism on the path of philosophical self-understanding.
+- **Judah Halevi — The Kuzari** — A dialogue in which a pagan king seeks the true religion and is won by Judaism. Halevi exalts the living experience and history of Israel above mere philosophy. It is the great defense of faith as a people's lived covenant.
+- **Bahya ibn Paquda — Duties of the Heart** — A classic of Jewish ethics distinguishing outward observance from the inner duties of the soul. True religion lies in humility, trust, and the love of God within. It is among the most cherished guides to the spiritual life in Judaism.
 
 **Kabbalah — the mystical ascent:**
-- Sefer ha-Bahir (The Book of Brightness)
-- Abraham Abulafia — The Light of the Intellect
-- Joseph Gikatilla — Gates of Light (Shaare Ora)
-- Moses Cordovero — Pardes Rimonim (The Orchard of Pomegranates)
-- Isaac Luria & Chaim Vital — Etz Chaim (The Tree of Life)
-- Moses Chaim Luzzatto — The Path of the Just (Mesillat Yesharim)
-- Sefer Raziel HaMalakh
+- **Sefer ha-Bahir (The Book of Brightness)** — One of the earliest Kabbalistic works, introducing the sefirot and the transmigration of souls. Its cryptic, symbolic style set the tone for all later mysticism. It is the first dawn of the Kabbalah proper.
+- **Abraham Abulafia — The Light of the Intellect** — The founder of "ecstatic" Kabbalah, who sought union with God through the combination of Hebrew letters and divine names. His meditative techniques aim to untie the knots of the ordinary mind. He is the great practitioner of the prophetic, experiential path.
+- **Joseph Gikatilla — Gates of Light** — The clearest classical map of the ten sefirot and the names of God. It explains how the divine emanations structure both heaven and the soul. It is the standard key to the symbolic language of Kabbalah.
+- **Moses Cordovero — Pardes Rimonim** — The great systematizer who brought the sprawling Kabbalah into rational order before Luria. His Orchard of Pomegranates organizes its doctrines into a coherent theology. He is the philosopher of the mystical tradition.
+- **Isaac Luria & Chaim Vital — Etz Chaim (The Tree of Life)** — The revolutionary Kabbalah of the Safed master, recorded by his disciple. Creation begins with God's self-contraction; the cosmic vessels shatter, and humanity's task is to gather the scattered sparks. This drama of exile and repair (tikkun) reshaped all later Jewish mysticism.
+- **Moses Chaim Luzzatto — The Path of the Just (Mesillat Yesharim)** — A ladder of moral and spiritual ascent, from watchfulness to holiness. Beloved across all Jewish movements, it makes the mystic's path into daily ethical discipline. It is the most practical of the great Kabbalistic-ethical works.
+- **Sefer Raziel HaMalakh** — A medieval grimoire of angelic and cosmological lore, ascribed to the angel Raziel teaching Adam. It gathers names, amulets, and secrets of creation. It is the folk-magical fringe of the Kabbalistic tradition.
 
 ### 21. The Celtic World — Myth, Epic, Law & History
 
