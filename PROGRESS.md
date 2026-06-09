@@ -33,10 +33,10 @@ For anonymous/collective works: `- **Title** — ...`
 | 1 | Sacred Scripture & the Liturgy | DONE | DONE |
 | 2 | The Church Fathers | DONE | DONE |
 | 3 | Medieval Theology & Mysticism | DONE | DONE |
-| 4 | The Trivium | pending | pending |
-| 5 | The Quadrivium | pending | pending |
-| 6 | Classical Latin Epic & Poetry | pending | pending |
-| 7 | Greek Epic, Tragedy & Lyric | pending | pending |
+| 4 | The Trivium | DONE | DONE |
+| 5 | The Quadrivium | DONE | DONE |
+| 6 | Classical Latin Epic & Poetry | DONE | DONE |
+| 7 | Greek Epic, Tragedy & Lyric | DONE | DONE |
 | 8 | Greek Philosophy | pending | pending |
 | 9 | History & Biography (Classical) | pending | pending |
 | 10 | Roman Prose & Letters | pending | pending |
@@ -57,4 +57,4 @@ For anonymous/collective works: `- **Title** — ...`
 | 25 | The Forbidden Shelf (summaries only) | SEALED | pending |
 
 ## Next action
-Continue with **Book 4** (The Trivium).
+Continue with **Book 8** (Greek Philosophy). Cron cancelled — grinding straight through in active turns.

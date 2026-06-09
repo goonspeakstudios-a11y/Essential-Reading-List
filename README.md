@@ -134,58 +134,70 @@ The works named at founding, with corrected titles and translators where given.
 - **Thomas a Kempis — The Imitation of Christ** — After the Bible, the most widely read Christian book ever written, a quiet manual of interior devotion. It counsels self-knowledge, humility, and the following of Christ over the vanities of learning and esteem. Its plain, piercing sentences have formed saints and skeptics alike.
 
 ### 4. The Trivium — Grammar, Logic, Rhetoric
-- Donatus — Ars Minor; Ars Maior
-- Aristotle — On Interpretation; Prior Analytics; Posterior Analytics; Topics; Sophistical Refutations (the rest of the Organon)
-- Porphyry — Isagoge
-- Boethius — On Topical Differences; the logical commentaries
-- Cicero — De Oratore; Orator; Topica; Brutus
-- Quintilian — Institutio Oratoria
-- Anon. (Pseudo-Cicero) — Rhetorica ad Herennium
-- Martianus Capella — The Marriage of Philology and Mercury
-- Longinus — On the Sublime
+
+*The three arts of the word — how to speak correctly, reason validly, and persuade well — the first half of the liberal-arts curriculum. Priscian, Servius, Cicero's On Invention, and Isidore stand here already from the seed (Book I).*
+
+- **Donatus — Ars Minor; Ars Maior** — The standard Latin grammar of the entire Middle Ages, so basic that "donat" became a word for a primer. It teaches the parts of speech with a clarity that made literate Europe possible. To master it was the first step out of barbarism into the republic of letters.
+- **Aristotle — the rest of the Organon (On Interpretation, Prior and Posterior Analytics, Topics, Sophistical Refutations)** — The founding works of formal logic, which invented the syllogism and the theory of demonstration. They distinguish valid reasoning from plausible argument and from outright fallacy. For two thousand years they were simply what it meant to think rigorously.
+- **Porphyry — Isagoge** — A short introduction to Aristotle's Categories that became the gateway to all logic. Its question of whether universals are real things or only names launched the great medieval debate. A few pages here set philosophy's agenda for a millennium.
+- **Boethius — On Topical Differences; the logical commentaries** — The translations and commentaries through which the Latin West knew Aristotle's logic until the twelfth century. Boethius single-handedly kept the lamp of ancient reasoning lit through the dark centuries. Without him the schoolmen would have had nothing to build on.
+- **Cicero — De Oratore; Orator; Topica; Brutus** — The mature reflections of Rome's greatest orator on the ideal speaker, who must unite wisdom, learning, and eloquence. Cicero insists that true rhetoric is inseparable from philosophy and good character. He defines the educated public man the West would imitate for centuries.
+- **Quintilian — Institutio Oratoria** — A complete program for forming the orator from the cradle, the most humane educational treatise of antiquity. Its ideal is "the good man skilled in speaking," for eloquence without virtue is mere danger. It shaped Renaissance schooling and still rebukes any training that forgets character.
+- **Anon. (Pseudo-Cicero) — Rhetorica ad Herennium** — The oldest surviving Latin handbook of rhetoric, terse and systematic. It preserves the classical art of memory through its famous method of imagined places and images. For centuries it was mistaken for Cicero's own, and taught as the rulebook of persuasion.
+- **Martianus Capella — The Marriage of Philology and Mercury** — A strange allegory in which the seven liberal arts appear as bridesmaids at a heavenly wedding. This odd frame became the standard medieval map of all secular knowledge. It is the curriculum of the trivium and quadrivium dressed as myth.
+- **Longinus — On the Sublime** — A Greek treatise on the heights that great writing can reach, where language overwhelms rather than merely persuades. It locates sublimity in grandeur of soul, not just technique. It remains the most inspiring short book ever written about why some words shake us.
 
 ### 5. The Quadrivium — Arithmetic, Geometry, Music, Astronomy
-- Euclid — Elements
-- Nicomachus of Gerasa — Introduction to Arithmetic
-- Ptolemy — Almagest; Harmonics
-- Macrobius — Commentary on the Dream of Scipio
-- Aratus — Phaenomena
-- Hyginus — Poeticon Astronomicon
-- Bede — On the Nature of Things (De Natura Rerum)
-- Archimedes — The Works
-- Vitruvius — On Architecture
+
+*The four arts of number and measure — the second half of the liberal-arts ladder, the bridge from the visible cosmos to the divine order behind it. Boethius's On Arithmetic and On Music and Bede's On the Reckoning of Time and Pliny's Natural History stand here from the seed (Book I).*
+
+- **Euclid — Elements** — The geometry textbook of the human race, deriving a whole world of theorems from a handful of axioms. It is the supreme model of how certain knowledge is built step by demonstrated step. To work through it is to learn what proof itself means.
+- **Nicomachus of Gerasa — Introduction to Arithmetic** — The Greek treatise on the mystical properties of number that Boethius carried into the West. It treats arithmetic as the key to the harmony underlying all things. Here number is not mere counting but the architecture of reality.
+- **Ptolemy — Almagest; Harmonics** — The grand synthesis of ancient astronomy that mapped the heavens for fourteen centuries, paired with his theory of musical harmony. Wrong in its earth-centered model, it was still a triumph of mathematical prediction. It shows how far disciplined reason can reach even from a false premise.
+- **Macrobius — Commentary on the Dream of Scipio** — A Neoplatonic meditation built on Cicero's vision of the soul's heavenly home (Book I). It transmitted to the Middle Ages the music of the spheres and the smallness of earthly glory. It taught the medieval mind to look down on fame from the height of the stars.
+- **Aratus — Phaenomena** — A Greek poem setting the constellations and weather-signs to verse, beloved across antiquity. Even St. Paul quotes it: "for we are also his offspring." It is science as memorable song, the night sky turned into literature.
+- **Hyginus — Poeticon Astronomicon** — A handbook gathering the myths attached to each constellation. It preserves the stories by which the ancients read their own legends in the stars. To know it is to see the heavens as the Greeks did, peopled with heroes and beasts.
+- **Bede — On the Nature of Things (De Natura Rerum)** — The Northumbrian monk's compact account of the physical world, drawn from Pliny and Isidore. It shows the early medieval Church carefully conserving and teaching natural knowledge. It is the companion to his great work on time and the calendar.
+- **Archimedes — The Works** — The writings of antiquity's greatest mathematician, on levers, floating bodies, the measurement of the circle, and the sand-reckoner. He came within a hair of the integral calculus two thousand years early. He embodies genius pressing the tools of its age to their absolute limit.
+- **Vitruvius — On Architecture** — The only complete treatise on building to survive from antiquity, on proportion, materials, machines, and the well-formed city. Its ideal of firmness, utility, and beauty still defines good architecture. Its image of "Vitruvian man" inscribed in circle and square became the emblem of human proportion itself.
 
 ### 6. Classical Latin Epic, Poetry & Drama
-- Virgil — Eclogues; Georgics
-- Ovid — Metamorphoses; Fasti; Heroides
-- Horace — Odes; Satires; Epistles; Ars Poetica
-- Lucretius — On the Nature of Things (De Rerum Natura)
-- Catullus — Poems
-- Statius — Silvae; Achilleid
-- Silius Italicus — Punica
-- Valerius Flaccus — Argonautica
-- Juvenal — Satires
-- Persius — Satires
-- Martial — Epigrams
-- Claudian — Poems
-- Prudentius — Psychomachia
-- Sedulius — Carmen Paschale
-- Juvencus — Evangeliorum Libri
-- Plautus & Terence — Comedies
-- Seneca — Tragedies
+
+*The full glory of Latin verse and the stage, of which the seed already holds the summits — Virgil's Aeneid, Lucan's Pharsalia, Statius's Thebaid, and Fortunatus's hymn (Book I).*
+
+- **Virgil — Eclogues; Georgics** — Before the Aeneid, Virgil sang of shepherds and of farming, and made both into high art. The Georgics is the most perfect poem ever written about work, the land, and the dignity of labor. The Fourth Eclogue's prophecy of a child who would renew the age was read by Christians as foretelling Christ.
+- **Ovid — Metamorphoses; Fasti; Heroides** — The Metamorphoses spins all of myth into one glittering river of transformation, the West's handbook of pagan story. Ovid is wit, eros, and endless inventive surface over real depths of loss and exile. No poet has fed painters and writers more for two thousand years.
+- **Horace — Odes; Satires; Epistles; Ars Poetica** — The poet of balance, who taught the West "carpe diem," the golden mean, and the well-turned phrase. His Odes are jewels of economy; the Ars Poetica became the rulebook of taste. He is the supreme voice of civilized moderation and friendship.
+- **Lucretius — On the Nature of Things (De Rerum Natura)** — A sublime philosophical epic expounding the atomism of Epicurus to free men from fear of the gods and death. Everything is atoms and void; the soul is mortal, so live without dread. It is the most beautiful argument for materialism ever made, and a perennial provocation to faith.
+- **Catullus — Poems** — The fierce, tender lyrics of Rome's most personal poet, lover of Lesbia and master of the obscene jibe. He invented the European love poem of raw, contradictory feeling. To read him is to hear a real voice from two millennia ago, undimmed.
+- **Statius — Silvae; Achilleid** — Beyond his Thebaid (Book I), Statius left occasional poems of remarkable polish and an unfinished epic on Achilles' youth. The Silvae capture Roman domestic life, grief, and patronage with warmth. Dante so loved him that he made Statius a guide in Purgatory.
+- **Silius Italicus — Punica** — The longest poem in Latin, an epic of the war with Hannibal. It is Roman patriotism and Stoic virtue cast in Virgilian armor. It preserves the memory of Rome's greatest trial as deliberate myth.
+- **Valerius Flaccus — Argonautica** — A Latin retelling of Jason's quest for the Golden Fleece, darker and more psychological than its Greek model. Its Medea is a study of love turning toward catastrophe. It shows Silver-Age epic probing the inner storms of its heroes.
+- **Juvenal — Satires** — The savage indignation of Rome's greatest satirist, lashing the vice and folly of the imperial city. He gave us "bread and circuses" and "who guards the guards themselves." His fury is the conscience of a civilization disgusted with itself.
+- **Persius — Satires** — A young Stoic's dense, difficult satires turning the lash inward against moral hypocrisy. Harder than Juvenal but more earnest, he prizes self-examination over mere mockery. He is satire as a tool of the philosophic life.
+- **Martial — Epigrams** — The master of the short, stinging poem, who painted the whole human comedy of Rome in miniature. By turns filthy, funny, and suddenly tender, he invented the epigram as we know it. He proves that the smallest form can hold a complete world.
+- **Claudian — Poems** — The last great poet of pagan Rome, court panegyrist and author of the unfinished Rape of Proserpina. His verse gives the dying classical world a final blaze of color. He stands on the very threshold between antiquity and the Middle Ages.
+- **Prudentius — Psychomachia** — The first fully Christian allegory, staging the battle of the Virtues and Vices for the human soul. It invented a form that would dominate medieval art and literature. Every later morality play descends from this combat in the heart.
+- **Sedulius — Carmen Paschale** — An epic retelling of the Gospel miracles in Virgilian verse. It shows the Church claiming the high style of pagan epic for the story of Christ. It was a school text that taught Europe to read Scripture as poetry.
+- **Juvencus — Evangeliorum Libri** — The earliest Latin epic on the life of Christ, turning the Gospels into Virgilian hexameters. It proved Christian content could wear the full dress of classical art. With it the long marriage of the gospel and the Latin Muse begins.
+- **Plautus & Terence — The Comedies** — The two masters of Roman comedy, Plautus boisterous and farcical, Terence refined and humane. Their plots of mistaken identity and clever slaves became the DNA of all later comedy from Shakespeare to the sitcom. Terence's "I am human, and nothing human is alien to me" is one of antiquity's noblest lines.
+- **Seneca — The Tragedies** — Blood-soaked dramas of rage, tyranny, and fate, written by the Stoic philosopher of Nero's court. Their rhetorical intensity and horror shaped Renaissance tragedy directly, Shakespeare included. They are Stoicism's dark mirror: portraits of what the passions do when reason abdicates.
 
 ### 7. Greek Epic, Tragedy & Lyric
-- Homer — The Iliad; The Odyssey
-- Hesiod — Theogony; Works and Days
-- The Homeric Hymns
-- Apollonius of Rhodes — Argonautica
-- Pindar — Odes
-- Sappho — Fragments
-- Aeschylus — The Oresteia; Prometheus Bound
-- Sophocles — The Theban Plays; Ajax
-- Euripides — The Tragedies
-- Aristophanes — The Comedies
-- Aesop — Fables
+
+*The fountainhead of all Western literature — the poems and plays of the Greeks, where the forms themselves were first invented.*
+
+- **Homer — The Iliad; The Odyssey** — The two epics at the root of Western literature: the wrath of Achilles before Troy, and the long homecoming of Odysseus. The Iliad is the tragic glory and waste of war; the Odyssey is cunning, endurance, and the longing for home. To read them is to meet the West's first and perhaps still its greatest poet.
+- **Hesiod — Theogony; Works and Days** — The other voice of early Greece: the genealogy of the gods, and a farmer's almanac of honest toil and justice. Where Homer sings of heroes, Hesiod sings of labor, the seasons, and the moral order of Zeus. He is the first European poet to speak in his own named, ordinary voice.
+- **The Homeric Hymns** — A collection of preludes to the gods in Homeric style, vivid with myth. They preserve some of the loveliest tellings of Demeter's grief and Hermes's mischief. They are the worship and storytelling of archaic Greece in its purest form.
+- **Apollonius of Rhodes — Argonautica** — The Hellenistic epic of Jason, the Argonauts, and the love-struck sorceress Medea. Its psychological portrait of Medea's awakening passion was something new in poetry. It is the bridge between Homer's heroes and the inward turn of later literature.
+- **Pindar — Odes** — The towering choral poet who celebrated the victors of the Greek games in dense, soaring verse. Beneath the praise runs a constant meditation on glory, mortality, and the gulf between gods and men. He is the supreme poet of the fleeting, blazing human achievement.
+- **Sappho — Fragments** — The "tenth Muse," whose lyrics of desire survive mostly in heartbreaking fragments. Even broken, her lines capture the physical reality of love more exactly than whole volumes by others. She is the first and still one of the truest voices of the personal lyric.
+- **Aeschylus — The Oresteia; Prometheus Bound** — The eldest of the tragedians, who turned ritual into drama on the grandest scale. The Oresteia traces the passage from the blood-feud to the rule of law and the birth of the jury. He shows justice itself painfully evolving out of vengeance.
+- **Sophocles — The Theban Plays; Ajax** — The most perfect of the tragedians, whose Oedipus is the model of the hero destroyed by his own greatness and the gods' design. His characters meet unbearable fate with a terrible nobility. Antigone's clash of conscience and law has never stopped being argued.
+- **Euripides — The Tragedies** — The most modern and unsettling of the three, sympathetic to women, slaves, and the mad. He drags the gods into the dock and lets ordinary passion shatter the heroic frame. The Bacchae remains the most frightening play about what happens when reason denies the irrational.
+- **Aristophanes — The Comedies** — The master of Old Comedy, whose bawdy, brilliant satires skewered politicians, philosophers, and the war itself. Lysistrata's sex-strike for peace and the mockery of Socrates still land. He proves that comedy can be the freest and most fearless form of political speech.
+- **Aesop — The Fables** — The slave whose brief animal tales each carry a hard kernel of practical wisdom. The tortoise and the hare, the fox and the grapes: these have taught morals to every generation since. They are the simplest and most universal school of worldly prudence.
 
 ### 8. Greek Philosophy
 - Plato — Republic; Symposium; Phaedo; Phaedrus; Timaeus; Gorgias; Laws
