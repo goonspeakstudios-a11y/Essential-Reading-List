@@ -57,4 +57,36 @@ For anonymous/collective works: `- **Title** — ...`
 | 25 | The Forbidden Shelf (summaries only) | SEALED | DONE |
 
 ## Next action
-COMPLETE. All 25 books expanded (1-24) and every work across all 25 books carries a 3-sentence wisdom-summary. Loop finished; cron 7c44b64d cancelled.
+ROUND 1 COMPLETE. Now in ROUND 2 (relevance expansion): add further same-vein authors/works
+to EACH of Books 1-24 (Book 25 sealed), each with a 3-sentence summary in the established format.
+
+### Round 2 status
+| Book | R2 expanded |
+|------|-------------|
+| 1 Scripture | DONE |
+| 2 Fathers | DONE |
+| 3 Medieval Theology | DONE |
+| 4 Trivium | DONE |
+| 5 Quadrivium | DONE |
+| 6 Latin Poetry | pending |
+| 7 Greek Epic | pending |
+| 8 Greek Philosophy | pending |
+| 9 Classical History | pending |
+| 10 Roman Prose | pending |
+| 11 Medieval Chronicle | pending |
+| 12 Germanic/Norse | pending |
+| 13 Chivalry | pending |
+| 14 Statecraft | pending |
+| 15 Warrior's Way | pending |
+| 16 Moderns | pending |
+| 17 Modern Philosophy | pending |
+| 18 Hermetic | pending |
+| 19 Arabic/Persian | pending |
+| 20 Rabbinic | pending |
+| 21 Celtic | pending |
+| 22 Science | pending |
+| 23 Buddhist | pending |
+| 24 Indian | pending |
+| 25 Forbidden Shelf | SEALED (no additions) |
+
+R2 next: Book 6.
