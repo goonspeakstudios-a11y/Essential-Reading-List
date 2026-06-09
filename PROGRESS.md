@@ -68,11 +68,11 @@ to EACH of Books 1-24 (Book 25 sealed), each with a 3-sentence summary in the es
 | 3 Medieval Theology | DONE |
 | 4 Trivium | DONE |
 | 5 Quadrivium | DONE |
-| 6 Latin Poetry | pending |
-| 7 Greek Epic | pending |
-| 8 Greek Philosophy | pending |
-| 9 Classical History | pending |
-| 10 Roman Prose | pending |
+| 6 Latin Poetry | DONE |
+| 7 Greek Epic | DONE |
+| 8 Greek Philosophy | DONE |
+| 9 Classical History | DONE |
+| 10 Roman Prose | DONE |
 | 11 Medieval Chronicle | pending |
 | 12 Germanic/Norse | pending |
 | 13 Chivalry | pending |
@@ -89,4 +89,8 @@ to EACH of Books 1-24 (Book 25 sealed), each with a 3-sentence summary in the es
 | 24 Indian | pending |
 | 25 Forbidden Shelf | SEALED (no additions) |
 
-R2 next: Book 6.
+R2 next: Book 11.
+
+### Post-completion task (queued)
+After Round 2 is fully DONE: download ToposText (https://topostext.org/texts) to local disk.
+Must first check robots.txt + ToS, prefer official bulk/data export, throttle politely. See chat.

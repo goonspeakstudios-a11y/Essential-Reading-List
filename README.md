@@ -202,6 +202,10 @@ The works named at founding, with corrected titles and translators where given.
 - **Juvencus — Evangeliorum Libri** — The earliest Latin epic on the life of Christ, turning the Gospels into Virgilian hexameters. It proved Christian content could wear the full dress of classical art. With it the long marriage of the gospel and the Latin Muse begins.
 - **Plautus & Terence — The Comedies** — The two masters of Roman comedy, Plautus boisterous and farcical, Terence refined and humane. Their plots of mistaken identity and clever slaves became the DNA of all later comedy from Shakespeare to the sitcom. Terence's "I am human, and nothing human is alien to me" is one of antiquity's noblest lines.
 - **Seneca — The Tragedies** — Blood-soaked dramas of rage, tyranny, and fate, written by the Stoic philosopher of Nero's court. Their rhetorical intensity and horror shaped Renaissance tragedy directly, Shakespeare included. They are Stoicism's dark mirror: portraits of what the passions do when reason abdicates.
+- **Ennius — Annales (fragments)** — The father of Latin poetry, who first gave Rome a national epic in Greek hexameters before Virgil. Only fragments survive, but they founded the tradition and the meter. He is the root from which all Roman verse grew.
+- **Tibullus & Propertius — The Elegies** — The great love-elegists beside Ovid, singing of mistresses, jealousy, and the lure of the countryside. Propertius is intense and learned, Tibullus tender and pastoral. Together they perfected the Roman elegy of the heart.
+- **Manilius — Astronomica** — A didactic poem on the stars and the astrology of a fated cosmos. It versifies the Stoic vision of a universe bound by destiny and sympathy. It is the most ambitious Latin poem ever written on the heavens.
+- **Ausonius — Mosella; Poems** — The late-antique Gallo-Roman poet whose Moselle river-poem glows with love of the land. He bridges the dying classical world and the Christian one. He is the cultivated twilight of Latin verse.
 
 ### 7. Greek Epic, Tragedy & Lyric
 
@@ -218,6 +222,10 @@ The works named at founding, with corrected titles and translators where given.
 - **Euripides — The Tragedies** — The most modern and unsettling of the three, sympathetic to women, slaves, and the mad. He drags the gods into the dock and lets ordinary passion shatter the heroic frame. The Bacchae remains the most frightening play about what happens when reason denies the irrational.
 - **Aristophanes — The Comedies** — The master of Old Comedy, whose bawdy, brilliant satires skewered politicians, philosophers, and the war itself. Lysistrata's sex-strike for peace and the mockery of Socrates still land. He proves that comedy can be the freest and most fearless form of political speech.
 - **Aesop — The Fables** — The slave whose brief animal tales each carry a hard kernel of practical wisdom. The tortoise and the hare, the fox and the grapes: these have taught morals to every generation since. They are the simplest and most universal school of worldly prudence.
+- **Theocritus — Idylls** — The inventor of pastoral poetry, whose songs of Sicilian shepherds founded a genre running to Virgil and Milton. He turned rustic life into refined, knowing art. He is the father of the whole pastoral imagination.
+- **Callimachus — Hymns; Aetia** — The Alexandrian master of learned, polished short verse, who declared that "a big book is a big evil." He set the ideal of refinement and wit against the long epic. He is the patron of the small, perfect poem.
+- **Menander — The Grouch; the comedies** — The master of New Comedy, of everyday households, young lovers, and comic mix-ups. Through his Roman imitators he became the ancestor of all comedy of manners. He is the bridge from Aristophanes to the modern stage.
+- **The Greek Anthology** — The vast gathering of epigrams across a thousand years of Greek life, on love, death, art, and the trivial. In a few lines each, it holds the whole spectrum of Greek feeling. It is the treasury of the short Greek poem.
 
 ### 8. Greek Philosophy
 
@@ -232,6 +240,9 @@ The works named at founding, with corrected titles and translators where given.
 - **Sextus Empiricus — Outlines of Pyrrhonism** — The fullest surviving account of ancient skepticism, suspending judgment on every dogma to attain tranquility. By balancing each argument with its opposite, the skeptic frees himself from anxious certainty. Rediscovered in the Renaissance, it lit the fuse of modern doubt from Montaigne to Descartes.
 - **Diogenes Laertius — Lives of the Eminent Philosophers** — A gossipy, invaluable compilation of the lives, sayings, and doctrines of the Greek thinkers. For many schools it is our only source for what they taught and how they lived. It is antiquity's own affectionate biography of philosophy.
 - **Xenophon — Memorabilia; Cyropaedia** — Socrates' other pupil, who gives us a plainer, more practical teacher than Plato's, and a portrait of the ideal ruler in Cyrus. Soldier as well as writer, he prizes usefulness, leadership, and good sense. He shows philosophy in service of action and command.
+- **Epicurus — Letters and Principal Doctrines** — The founder of the Garden, who taught that the goal of life is tranquility — pleasure rightly understood as the absence of pain and fear. His maxims free men from dread of the gods and of death. He is the gentle, liberating counterweight to Stoic severity. (His poet is Lucretius, Book 6.)
+- **Theophrastus — Characters; the botanical works** — Aristotle's successor, who founded botany and sketched the comic human types in his Characters. His portraits of the flatterer, the miser, and the boor are as fresh as ever. He is the father of both plant science and the art of the character sketch.
+- **Philo of Alexandria — On the Creation; Allegorical Interpretation** — The Hellenistic Jew who fused the Torah with Plato and founded the allegorical reading of scripture. He bridged Jerusalem and Athens and deeply shaped the Christian Fathers. He is the great forerunner of all marriage of revelation and philosophy.
 
 ### 9. History & Biography (Classical)
 
@@ -253,6 +264,10 @@ The works named at founding, with corrected titles and translators where given.
 - **Diodorus Siculus — Bibliotheca Historica** — An ambitious universal history attempting to gather all known peoples into one narrative. Much of what we know of lost historians survives only through him. He is antiquity's encyclopedist of the human past.
 - **Strabo — Geography** — A vast description of the known world, its peoples, cities, and customs, region by region. It fuses geography with history and is a treasure-house of ancient knowledge of the earth. It is how the Greco-Roman world saw the shape of its own home.
 - **Pausanias — Description of Greece** — A traveler's meticulous guidebook to the temples, statues, and legends of old Greece. Without it, much of the topography and art of the classical world would be lost to us. It is the first great work of cultural tourism and antiquarian devotion.
+- **Xenophon — Anabasis (The Persian Expedition)** — The eyewitness march of the Ten Thousand Greek mercenaries fighting their way home from the heart of Persia. Their cry "The sea! The sea!" is one of the great moments in all history. It is a soldier's timeless classic of leadership, endurance, and command.
+- **Cassius Dio — Roman History** — The senator's vast Greek history of Rome from its founding to his own third century. It is a principal source for the fall of the Republic and the early emperors. It is Rome seen through Greek and senatorial eyes.
+- **Velleius Paterculus — Compendium of Roman History** — A brisk, vivid outline of Roman history by an officer of Tiberius's day. It preserves judgments and details recorded nowhere else. It is the handy short memory of the Roman past.
+- **Herodian — History of the Empire** — A readable Greek narrative of the turbulent emperors after Marcus Aurelius. It chronicles the slide of the third century into chaos. It is a lively witness to Rome's long time of troubles.
 
 ### 10. Roman Prose, Moral Philosophy & Letters
 
@@ -265,6 +280,10 @@ The works named at founding, with corrected titles and translators where given.
 - **Petronius — Satyricon** — A scandalous, fragmentary novel of low life under Nero, centered on the vulgar millionaire's feast of Trimalchio. Its satire of new-money excess is mordant and astonishingly modern. It is the funniest and most cynical window we have onto the Roman underworld.
 - **Frontinus — Stratagems** — A general's catalog of military ruses drawn from Greek and Roman history. Practical and dry, it distills the cunning side of the art of war into examples. It is the companion on the battlefield to the canon's books of martial wisdom.
 - **Vegetius — On Military Matters (De Re Militari)** — The late-Roman summary of the army's training, organization, and tactics, written to revive a fading discipline. "Let him who desires peace prepare for war" is its enduring maxim. It was the bible of European warfare straight through the Middle Ages.
+- **Pliny the Younger — Letters** — The polished correspondence of a Roman gentleman, including the eyewitness account of Vesuvius and the famous exchange with Trajan on the Christians. They paint the daily life, values, and self-image of the senatorial class. They are the most charming letters Rome has left us.
+- **Varro — On the Latin Language; On Agriculture** — The most learned of all the Romans, antiquarian of language, religion, and the farm. Cicero said that Varro showed the Romans their own home. He is the great polymath-scholar of the Republic.
+- **Columella — On Agriculture (De Re Rustica)** — The fullest and most humane Roman treatise on farming and the country estate. It carries forward the Roman reverence for the land and its labor. It is the practical prose companion to Virgil's Georgics.
+- **Macrobius — Saturnalia** — A learned holiday symposium of Roman antiquarian lore and reverent Virgil criticism. It preserves a treasury of customs, jokes, and scholarship from the cultivated late-antique elite. It is the table-talk of a civilization conserving its own memory. (His Dream commentary is Book 5.)
 
 ### 11. Medieval History, Chronicle & Hagiography
 
