@@ -337,6 +337,67 @@ The works named at founding, with corrected titles and translators where given.
 - Carl Gustav Jung — Psychological Types; The Archetypes and the Collective Unconscious; Aion; Answer to Job; Man and His Symbols; Memories, Dreams, Reflections
 - Alfred Adler — Understanding Human Nature
 
+### 18. The Hermetic, the Esoteric & the Mysteries
+
+*The hidden curriculum — the thrice-great wisdom, the Neoplatonic theurgists, the alchemists, and the Renaissance magi who read God in the cosmos. Cross-links to Jung's alchemical works (Book 17) and Plotinus (Book 8).*
+
+- Hermes Trismegistus — The Corpus Hermeticum; The Emerald Tablet; Asclepius
+- The Chaldean Oracles
+- The Orphic Hymns
+- Iamblichus — On the Mysteries (De Mysteriis)
+- Proclus — The Elements of Theology; Platonic Theology
+- Porphyry — On the Cave of the Nymphs; Letter to Anebo
+- The Nag Hammadi Library (the Gnostic scriptures) — incl. The Gospel of Thomas; Pistis Sophia
+- Zosimos of Panopolis — On the Apparatus and Furnaces (alchemy)
+- Sefer Yetzirah (The Book of Formation)
+- The Zohar (The Book of Splendor)
+- The Picatrix (Ghayat al-Hakim)
+- Marsilio Ficino — Three Books on Life; the Hermetica translations
+- Pico della Mirandola — Oration on the Dignity of Man; the 900 Theses
+- Heinrich Cornelius Agrippa — Three Books of Occult Philosophy
+- Paracelsus — Selected Writings
+- Giordano Bruno — On the Infinite Universe and Worlds; The Ash Wednesday Supper
+- Robert Fludd — Utriusque Cosmi Historia
+
+### 19. The Arabic & Persian World — Epic, Verse & Philosophy
+
+*The world the seed could not see past Servius and Priscian: the Qur'anic tongue, the great Persian epic, the Sufi poets, and the philosophers who carried Aristotle back to the Latins (the charge from Avicenna, Averroes, Al-Ghazali, Maimonides). The Thousand and One Nights and the Rubaiyat are cross-listed from Book 15.*
+
+**Arabic — epic, verse & prose:**
+- The Qur'an
+- The Mu'allaqat (The Seven Hanging Odes of pre-Islamic Arabia)
+- Antarah ibn Shaddad — Diwan; Sirat Antar (the heroic romance)
+- Abu Nuwas — Diwan
+- Al-Mutanabbi — Diwan
+- Abu al-Ala al-Maarri — The Epistle of Forgiveness (Risalat al-Ghufran); Luzumiyyat
+- Ibn al-Muqaffa — Kalila wa Dimna
+- Al-Hariri — The Maqamat
+- Usama ibn Munqidh — The Book of Contemplation (Kitab al-Itibar)
+- Ibn Tufayl — Hayy ibn Yaqzan
+- Ibn Khaldun — The Muqaddimah
+
+**Persian — epic & verse:**
+- Ferdowsi — The Shahnameh (The Book of Kings)
+- Rudaki — Diwan
+- Sanai — The Walled Garden of Truth (Hadiqat al-Haqiqa)
+- Nizami Ganjavi — The Khamsa (Layla and Majnun; Khosrow and Shirin; The Seven Beauties)
+- Attar — The Conference of the Birds (Mantiq al-Tayr)
+- Rumi — The Masnavi; Diwan-e Shams-e Tabrizi; Fihi Ma Fihi
+- Saadi — The Gulistan (The Rose Garden); The Bustan (The Orchard)
+- Hafiz — The Divan
+- Jami — Yusuf and Zulaikha; Haft Awrang
+
+**Islamic & Jewish philosophy and science — the bridge to the Latin West:**
+- Al-Kindi — On First Philosophy
+- Al-Farabi — The Virtuous City (Al-Madina al-Fadila)
+- Avicenna (Ibn Sina) — The Book of Healing; The Canon of Medicine
+- Al-Ghazali — The Incoherence of the Philosophers; The Revival of the Religious Sciences; Deliverance from Error
+- Averroes (Ibn Rushd) — The Incoherence of the Incoherence; The Decisive Treatise; the Aristotle commentaries
+- Suhrawardi — The Philosophy of Illumination (Hikmat al-Ishraq)
+- Ibn Arabi — The Bezels of Wisdom (Fusus al-Hikam); The Meccan Revelations
+- Moses Maimonides — The Guide for the Perplexed
+- Omar Khayyam — Treatise on Algebra
+
 ---
 
 *The list is living. Additions are made by procurement, not by accident.*
