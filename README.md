@@ -1,40 +1,38 @@
 # The Great Works and the Holiest Mind
 
-The ordering principle is the **human question being formed in the reader** — not any one tradition, age, or creed. The most integral and foundational questions come first; nuance and expansion grow outward from them. No tradition owns a section: Scripture, Plato, the Upanishads, the Hagakure, and the Tao stand side by side wherever they answer the same question of the formed man. Every entry carries a three-sentence summary, so the wisdom can be gained even by a reader who never opens the original.
-
-> **Note on the structure (2026-06-09):** this canon was first assembled in tradition-blocks that, by an accident of initial ordering, read as rooted in Christianity. It is not, and never was meant to be. The collection is being re-filed under the nine questions below — the durable ordering law. The tradition-sections that follow in Part II are the source pool being drained into these questions; see `PROGRESS.md` for the migration in progress.
+No single tradition owns this shelf. Scripture, Plato, the Upanishads, the Hagakure, and the Tao stand side by side, gathered here into one continuous course of reading, work by work. Every entry carries a three-sentence summary, so the wisdom can be gained even by a reader who never opens the original.
 
 ---
 
-## I. Contents — The Nine Movements
+## I. Contents
 
-The order runs from the most integral and foundational formation of a man to the nuance and expansion that grows from it, and ends with the test.
-
-**The Core — the questions that form a man**
-
-| # | Movement | The question it forms | Voices that answer it |
-|---|----------|-----------------------|-----------------------|
-| 1 | The Word & Reason | How to think and speak truly | The trivium, the Organon, the rhetoricians and grammarians of every tongue |
-| 2 | The Good & the Just | How to live, what is right, who may rule | Greek and Roman moral philosophy, statecraft and law, the ethical core of every tradition |
-| 3 | Suffering, Fate & Death | How to bear being mortal | Job, Boethius, the Stoics, the Hagakure, the tragedians, the sutras on impermanence |
-| 4 | The Divine & the Transcendent | The vision beyond the self | Scripture and the Fathers, the mystics East and West, the Qur'an and the Sufis, the Upanishads, Kabbalah, the Hermetica, Plotinus |
-| 5 | Honor, Courage & the Warrior | How to act and stake the self | Chivalry and romance, the Norse and Germanic heroic, the Five Rings, the Bhagavad Gita |
-
-**The Expansion — nuance grown outward from the core**
-
-| # | Movement | The question it forms | Voices that answer it |
-|---|----------|-----------------------|-----------------------|
-| 6 | The Story & the Beautiful | How meaning lives in form | Epic, lyric, drama, the romance and the modern novel |
-| 7 | The Order of Nature & Number | How the world is built | The quadrivium, mathematics, the natural philosophers and the sciences |
-| 8 | The Record of the Real | What happened, and what it teaches | The classical historians and biographers, the medieval chronicle and hagiography |
-
-**The Test — read to be tested, not persuaded**
-
-| # | Movement | The question it forms | Voices that answer it |
-|---|----------|-----------------------|-----------------------|
-| 9 | The Forbidden Shelf | What the canon can produce and cannot disown | Sealed at eight; the dark mirror of Movements 2, 4, and 5 |
-
-*Crosswalk from the old tradition-books (for the migration): Trivium -> 1; Greek Philosophy / Roman Moral Philosophy / Statecraft -> 2 (with Stoic consolation to 3, Neoplatonism to 4); Scripture / Fathers / Medieval Theology & Mysticism / Hermetic / Arabic-Persian sacred / Rabbinic-Kabbalistic / Buddhist / Indian sacred -> 4 (their ethics to 2, their suffering-wisdom to 3); Chivalry / Germanic-Norse / Warrior's Way -> 5; Latin & Greek Epic-Tragedy-Lyric / Moderns / Celtic myth -> 6; Quadrivium / Mathematics & Nature -> 7; Classical History / Medieval Chronicle -> 8; Forbidden Shelf -> 9. Works that span questions are split to the question each entry most forms, never duplicated.*
+| # | Section | What it gathers |
+|---|---------|------------------|
+| 1 | The Trivium — Grammar, Logic, Rhetoric | The three arts of the word: speaking correctly, reasoning validly, persuading well. |
+| 2 | Mathematics, Nature & the Physical Order | The physical and mathematical order of things, told rather than merely computed. |
+| 3 | The Quadrivium — Arithmetic, Geometry, Music, Astronomy | The four arts of number and measure, from the visible cosmos to the order behind it. |
+| 4 | Germanic, Norse & Anglo-Saxon | The heroic literature of the northern peoples — fate, courage, the war-band. |
+| 5 | Greek Epic, Tragedy & Lyric | The fountainhead of Western literature, where its forms were first invented. |
+| 6 | Classical Latin Epic, Poetry & Drama | The full glory of Latin verse and the stage. |
+| 7 | Chivalry, Romance & High Medieval Epic | Knighthood, courtly love, and the quest — the West's ideal of the noble soul. |
+| 8 | The Celtic World — Myth, Epic, Law & History | The matter of the western isles: invasions, voyages, and the brehon law. |
+| 9 | History & Biography (Classical) | The Greek and Roman invention of history as inquiry and biography as moral mirror. |
+| 10 | Medieval History, Chronicle & Hagiography | How the Middle Ages remembered itself — chronicles of kings and lives of saints. |
+| 11 | Roman Prose, Moral Philosophy & Letters | Rome teaching the West how to live, govern, and die well. |
+| 12 | Greek Philosophy | The Greek invention of philosophy — what is real, what is good, how we know. |
+| 13 | Statecraft, Political Philosophy & Law | Who should rule, by what right, toward what end. |
+| 14 | The Warrior's Way — Eastern Wisdom & the Martial Code | Strategy, self-mastery, and the acceptance of death. |
+| 15 | Sacred Scripture & the Liturgy | The revealed text and the rites by which it is prayed day and night. |
+| 16 | The Church Fathers (Patristics) | The minds that turned the gospel into a civilization. |
+| 17 | Medieval Theology, Philosophy & Mysticism | Faith seeking understanding — the schoolmen and the mystics, East and West. |
+| 18 | The Rabbinic & Kabbalistic Tradition | The Jewish textual world beneath the Tanakh — law, lore, and mystical ascent. |
+| 19 | The Arabic & Persian World — Epic, Verse & Philosophy | The Qur'anic tongue, the great Persian epic, the Sufi poets, and the philosophers. |
+| 20 | The Indian Tradition — Veda, Epic, Drama & Verse | The Sanskrit and Bengali inheritance, from the Vedic hymns to the modern voice. |
+| 21 | The Buddhist Canon — Zen, the Warrior's Mind & Beyond | Zen, the Mahayana sutras, the Pali teaching, and the Tibetan and devotional material. |
+| 22 | The Hermetic, the Esoteric & the Mysteries | The thrice-great wisdom, the theurgists, the alchemists, the Renaissance magi. |
+| 23 | Modern Philosophy & the Depths of the Mind | From the rebirth of doubt through Idealism to the descent into the unconscious. |
+| 24 | The Moderns — the Novel, the Drama & the Examined Soul | The literature of the modern soul, still wrestling with God, death, and freedom. |
+| 25 | The Forbidden Shelf — Dangerous Ideas | Serious philosophy the canon's own traditions can produce and cannot disown. Read to be tested, not persuaded. |
 
 ---
 
