@@ -20,7 +20,16 @@ Part II's section order, and do not treat any earlier commit's Movement scheme a
   each fire and record both numbers in the commit message. Currently 571.
 - Do not add, remove, or rename any entry without being asked. Do not reorder the 25
   sections without being asked — their current order is intentional.
-- Each section keeps its existing italic header note describing what it gathers.
+- **No italic section-header blurbs.** Sections go straight from `### N. Title` to the
+  bullet list. Do not reintroduce an italic intro line under any heading.
+- **Entry tone (fixed as of this rewrite): plain, neutral, encyclopedia/Wikipedia style.**
+  State verifiable facts only — form/genre, approximate date or century, author or
+  attribution, and basic subject matter. No superlatives or value judgments (greatest,
+  noblest, most important/profound, foundational-as-praise, timeless, chilling,
+  exhilarating, etc.), no rhetorical or emotional language, no quoted "inspirational"
+  lines used as a summary hook, no claims about how a reader will feel, no exclamation
+  points, and no meta-commentary about the canon/collection itself. If same-vein
+  expansion resumes, new entries must match this tone, not the older evocative style.
 - If same-vein expansion resumes, it happens strictly within a section (more works
   answering that section's question), never by re-rooting sections into a new scheme.
 
@@ -36,6 +45,10 @@ in progress. Nothing is queued.
   Part I never actually diverged from Part II's entries during that attempt.
 - The 25 sections were then put into their current reading order; internal cross-reference
   numbers ("Book N") were updated to match. Entry count held at 571 throughout.
+- All 25 italic section-intro blurbs and the closing "the list is living" note were
+  deleted, and all 571 entry descriptions plus the Part I contents table were rewritten
+  from evocative prose into plain, neutral, encyclopedic descriptions (see Entry tone
+  rule above). Entry count held at 571 throughout.
 
 ### Post-completion task (queued)
 Download ToposText (https://topostext.org/texts) to local disk. Must first check
