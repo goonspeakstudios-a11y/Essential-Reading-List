@@ -8,7 +8,7 @@ A study app and two downloadable reading plans built from the reading list in `.
 | `full-course.md` | Full course reading plan (about 2,500 h) | Read on GitHub or in any Markdown viewer. Checklists, assigned sections, editions, and links. |
 | `essentials.md` | Essentials reading plan (about 250 h) | Same format, for the short track. |
 
-Ready-to-open versions for people without any tools (PDFs, Windows `.exe`, macOS app, Linux program, single-file HTML) are in [`../downloads/`](../downloads/README.md).
+Ready-to-open versions for people without any tools (PDFs, desktop apps for Windows, macOS and Linux that save progress on the computer, single-file HTML) are in [`../downloads/`](../downloads/README.md).
 
 Inside the app, **Plan → Downloads** exports either plan with your own progress ticked, the offline app with your progress built in, or a JSON progress backup.
 
@@ -82,7 +82,7 @@ python3 learn/build.py --artifact /path/page.html   # also write the unwrapped b
 
 Requires Python 3.9 or later and nothing else.
 
-`python3 learn/package.py` then rebuilds everything in `downloads/`: both PDFs (via `learn/pdf.cjs` and Playwright's Chromium), the launcher programs for Windows, macOS and Linux (Go source in `launcher/`), and the single-file HTML. The version number comes from `learn/VERSION`.
+`python3 learn/package.py` then rebuilds `downloads/`: both PDFs (via `learn/pdf.cjs` and Playwright's Chromium), the single-file HTML, and the native desktop apps (Go source in `launcher/`: WebView2 on Windows, WebKit on macOS and Linux, progress saved to `progress.json` on disk). The Windows app builds anywhere. The macOS and Linux apps are built by `.github/workflows/desktop.yml` and published as a GitHub Release. The version number comes from `learn/VERSION`.
 
 | Source | Contents |
 |---|---|

@@ -1,24 +1,32 @@
 #!/usr/bin/env python3
 """Package The Great Works Course into downloads/ for people without any tools.
 
-Produces, in <repo>/downloads/:
-  GreatWorksCourse-Windows.exe            Windows 10/11, 64-bit
-  GreatWorksCourse-macOS-AppleSilicon.zip macOS .app for M-series Macs
-  GreatWorksCourse-macOS-Intel.zip        macOS .app for Intel Macs
-  GreatWorksCourse-Linux.zip              Linux x86-64 executable
-  great-works-course.html                 the app as a single file for any browser
-  Full-Course-Reading-Plan.pdf / .md      the full course plan
-  Essentials-Reading-Plan.pdf / .md       the 250-hour plan
+Produces, in <repo>/downloads/ (or --out DIR):
+  GreatWorksCourse-Windows.exe      Windows 10/11 desktop app (WebView2), pure Go, builds anywhere
+  GreatWorksCourse-macOS.zip        macOS desktop app (universal: Apple Silicon + Intel); needs a Mac
+  GreatWorksCourse-Linux.zip        Linux x86-64 desktop app (WebKitGTK 4.0); needs Linux with
+                                    libgtk-3-dev and libwebkit2gtk-4.0-dev
+  great-works-course.html           the app as a single file for any browser
+  Full-Course-Reading-Plan.pdf/.md  the full course plan
+  Essentials-Reading-Plan.pdf/.md   the 250-hour plan
 
-Requires: Python 3.9+, Go 1.21+, Node 18+ with the `playwright` package and a
-Chromium it can launch (set CHROMIUM_PATH to use a specific binary).
+The desktop apps open in their own window, with no browser and no local
+server, and save progress to progress.json in the user's app-data folder.
+Apps that cannot be built on this host are skipped with a message; the
+GitHub Actions workflow .github/workflows/desktop.yml builds all three
+natively and publishes them as a GitHub Release.
+
+Requires: Python 3.9+, Go 1.21+; for PDFs, Node 18+ with the `playwright`
+package and a Chromium it can launch (CHROMIUM_PATH to choose one).
 
 Usage: python3 learn/package.py [--skip-pdf] [--skip-binaries]
+                                [--only windows,darwin,linux] [--out DIR]
 """
 
 import html
 import logging
 import os
+import platform
 import re
 import shutil
 import stat
@@ -156,7 +164,7 @@ def build_site():
     run([sys.executable, str(HERE / "build.py")])
 
 
-def make_pdfs(tmp):
+def make_pdfs(tmp, out):
     jobs = [("full-course.md", "Full-Course-Reading-Plan", "The Great Works Course: Full reading plan"),
             ("essentials.md", "Essentials-Reading-Plan", "The Great Works Course: Essentials")]
     args = []
@@ -169,8 +177,8 @@ def make_pdfs(tmp):
                         "From the Essential Reading List. Tick the boxes as you go; links open in your browser.")
         page = tmp / f"{stem}.html"
         page.write_text(md_to_html(md, title), encoding="utf-8")
-        shutil.copyfile(HERE / src, OUT / f"{stem}.md")
-        args += [str(page), str(OUT / f"{stem}.pdf")]
+        shutil.copyfile(HERE / src, out / f"{stem}.md")
+        args += [str(page), str(out / f"{stem}.pdf")]
     env = dict(os.environ)
     if "NODE_PATH" not in env:
         try:
@@ -180,8 +188,11 @@ def make_pdfs(tmp):
     run(["node", str(HERE / "pdf.cjs"), *args], env=env, retries=1)
 
 
-def go_build(goos, goarch, out, version, gui=False):
-    env = dict(os.environ, GOOS=goos, GOARCH=goarch, CGO_ENABLED="0")
+def go_build(goos, goarch, out, version, gui=False, cgo=False, cc=None):
+    env = dict(os.environ, GOOS=goos, GOARCH=goarch, CGO_ENABLED="1" if cgo else "0")
+    if cc:
+        env["CC"] = cc
+        env["CXX"] = cc.replace("clang", "clang++")
     ldflags = f"-s -w -X main.version={version}" + (" -H windowsgui" if gui else "")
     run(["go", "build", "-trimpath", "-ldflags", ldflags, "-o", str(out), "."], cwd=LAUNCHER, env=env, retries=1)
 
@@ -211,46 +222,89 @@ def info_plist(version):
   <key>CFBundleExecutable</key><string>{APP_NAME}</string>
   <key>CFBundlePackageType</key><string>APPL</string>
   <key>LSMinimumSystemVersion</key><string>11.0</string>
-  <key>LSUIElement</key><true/>
+  <key>NSHighResolutionCapable</key><true/>
 </dict>
 </plist>
 """.encode()
 
 
-def make_binaries(tmp, version):
+LINUX_README = b"""The Great Works Course for Linux (x86-64)
+
+Run:  ./GreatWorksCourse
+Needs WebKitGTK 4.0 and GTK 3, present on most desktops. If it will not start:
+  Debian/Ubuntu 22.04:  sudo apt install libwebkit2gtk-4.0-37
+  Fedora:               sudo dnf install webkit2gtk4.0
+Progress is saved in ~/.config/GreatWorksCourse/progress.json.
+"""
+
+
+def make_binaries(tmp, version, out, only):
     app_dir = LAUNCHER / "app"
     app_dir.mkdir(exist_ok=True)
     shutil.copyfile(HERE / "index.html", app_dir / "index.html")
+    host = platform.system().lower()
 
-    go_build("windows", "amd64", OUT / f"{APP_NAME}-Windows.exe", version, gui=True)
+    if "windows" in only:
+        go_build("windows", "amd64", out / f"{APP_NAME}-Windows.exe", version, gui=True)
 
-    for arch, label in (("arm64", "AppleSilicon"), ("amd64", "Intel")):
-        binary = tmp / f"{APP_NAME}-darwin-{arch}"
-        go_build("darwin", arch, binary, version)
-        zip_with_modes(OUT / f"{APP_NAME}-macOS-{label}.zip", [
-            (f"Great Works Course.app/Contents/Info.plist", info_plist(version), False),
-            (f"Great Works Course.app/Contents/MacOS/{APP_NAME}", binary, True),
-        ])
+    if "darwin" in only:
+        if host != "darwin":
+            log.warning("skipping macOS app: it must be built on a Mac (the GitHub workflow does this)")
+        else:
+            parts = []
+            for arch, target in (("arm64", "arm64"), ("amd64", "x86_64")):
+                binary = tmp / f"{APP_NAME}-{arch}"
+                go_build("darwin", arch, binary, version, cgo=True, cc=f"clang -arch {target}")
+                parts.append(str(binary))
+            universal = tmp / APP_NAME
+            run(["lipo", "-create", "-output", str(universal), *parts])
+            zip_with_modes(out / f"{APP_NAME}-macOS.zip", [
+                ("Great Works Course.app/Contents/Info.plist", info_plist(version), False),
+                (f"Great Works Course.app/Contents/MacOS/{APP_NAME}", universal, True),
+            ])
 
-    binary = tmp / f"{APP_NAME}-linux"
-    go_build("linux", "amd64", binary, version)
-    zip_with_modes(OUT / f"{APP_NAME}-Linux.zip", [(f"{APP_NAME}/{APP_NAME}", binary, True)])
+    if "linux" in only:
+        if host != "linux" or shutil.which("pkg-config") is None or subprocess.run(
+                ["pkg-config", "--exists", "webkit2gtk-4.0", "gtk+-3.0"]).returncode != 0:
+            log.warning("skipping Linux app: needs Linux with libgtk-3-dev and libwebkit2gtk-4.0-dev (the GitHub workflow does this)")
+        else:
+            binary = tmp / f"{APP_NAME}-linux"
+            go_build("linux", "amd64", binary, version, cgo=True)
+            zip_with_modes(out / f"{APP_NAME}-Linux.zip", [
+                (f"{APP_NAME}/{APP_NAME}", binary, True),
+                (f"{APP_NAME}/README.txt", LINUX_README, False),
+            ])
 
 
 def main(argv):
     logging.basicConfig(level=logging.INFO, format="%(levelname)s %(message)s")
     try:
         version = VERSION_FILE.read_text(encoding="utf-8").strip() if VERSION_FILE.exists() else "1.0.0"
-        OUT.mkdir(exist_ok=True)
+        out = OUT
+        if "--out" in argv:
+            i = argv.index("--out")
+            if i + 1 >= len(argv):
+                raise PackageError("--out needs a directory")
+            out = Path(argv[i + 1]).resolve()
+        only = {"windows", "darwin", "linux"}
+        if "--only" in argv:
+            i = argv.index("--only")
+            if i + 1 >= len(argv):
+                raise PackageError("--only needs a list such as windows,darwin")
+            only = {x.strip() for x in argv[i + 1].split(",") if x.strip()}
+            bad = only - {"windows", "darwin", "linux"}
+            if bad:
+                raise PackageError(f"unknown platform(s) for --only: {sorted(bad)}")
+        out.mkdir(parents=True, exist_ok=True)
         build_site()
-        shutil.copyfile(HERE / "index.html", OUT / "great-works-course.html")
+        shutil.copyfile(HERE / "index.html", out / "great-works-course.html")
         with tempfile.TemporaryDirectory() as t:
             tmp = Path(t)
             if "--skip-pdf" not in argv:
-                make_pdfs(tmp)
+                make_pdfs(tmp, out)
             if "--skip-binaries" not in argv:
-                make_binaries(tmp, version)
-        for f in sorted(OUT.iterdir()):
+                make_binaries(tmp, version, out, only)
+        for f in sorted(out.iterdir()):
             log.info("%-42s %8.1f KB", f.name, f.stat().st_size / 1024)
         return 0
     except PackageError as exc:

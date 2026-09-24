@@ -77,9 +77,14 @@
     return st;
   }
 
+  // Desktop app: the native host saves state to a file and hands it back at startup.
+  var NATIVE = typeof window.gwcSave === "function";
+  var NATIVE_SAVED = NATIVE && window.__GWC_SAVED__ && typeof window.__GWC_SAVED__ === "object" ? window.__GWC_SAVED__ : null;
+
   // An offline copy downloaded from the app carries a progress snapshot.
   var SEED = (function () { var el = document.getElementById("seed-state"); if (!el) return null; try { return JSON.parse(el.textContent); } catch (e) { return null; } })();
   var state = (function () {
+    if (NATIVE_SAVED) return adoptState(NATIVE_SAVED);
     var raw = lsGet(LS_KEY);
     if (raw) { try { return adoptState(JSON.parse(raw)); } catch (e) { /* corrupt local copy */ } }
     return adoptState(SEED);
@@ -105,9 +110,49 @@
   var syncEl = document.getElementById("sync");
   function setSync(s) {
     syncEl.dataset.state = s;
+    if (NATIVE) {
+      syncEl.textContent = s === "error" ? "Could not save to this computer" : s === "saving" ? "Saving" : "Saved on this computer";
+      if (window.__GWC_NATIVE__ && window.__GWC_NATIVE__.dataFile) syncEl.title = window.__GWC_NATIVE__.dataFile;
+      return;
+    }
     syncEl.textContent = s === "synced" ? "Synced to your account" : s === "saving" ? "Saving" : s === "error" ? "Saved in this browser only" : "Saved in this browser";
   }
-  function persistLocal() { lsSet(LS_KEY, JSON.stringify(state)); }
+
+  var nativeTimer = null, nativeBusy = false, nativeDirty = false;
+  function nativeFlush() {
+    clearTimeout(nativeTimer); nativeTimer = null;
+    if (nativeBusy) { nativeDirty = true; return; }
+    nativeBusy = true; nativeDirty = false;
+    var payload = JSON.stringify(state);
+    Promise.resolve(window.gwcSave(payload)).then(function () {
+      nativeBusy = false;
+      if (nativeDirty) nativeFlush(); else setSync("synced");
+    }, function (err) {
+      nativeBusy = false;
+      console.warn("[gwc] native save failed", err);
+      setSync("error");
+      nativeTimer = setTimeout(nativeFlush, 3000);
+    });
+  }
+  function persistLocal() {
+    lsSet(LS_KEY, JSON.stringify(state));
+    if (NATIVE) { setSync("saving"); clearTimeout(nativeTimer); nativeTimer = setTimeout(nativeFlush, 250); }
+  }
+  if (NATIVE) {
+    var flushNow = function () { if (nativeTimer) nativeFlush(); };
+    window.addEventListener("pagehide", flushNow);
+    window.addEventListener("beforeunload", flushNow);
+    document.addEventListener("visibilitychange", function () { if (document.hidden) flushNow(); });
+    // Web links open in the computer's browser instead of replacing the app.
+    document.addEventListener("click", function (e) {
+      var a = e.target.closest && e.target.closest("a[href]");
+      if (!a) return;
+      var href = a.getAttribute("href");
+      if (!/^https?:\/\//i.test(href)) return;
+      e.preventDefault(); e.stopPropagation();
+      Promise.resolve(window.gwcOpenURL(href)).catch(function (err) { console.warn("[gwc] open link failed", err); });
+    }, true);
+  }
 
   function docFor(key) {
     if (key === "settings") return Object.assign({ kind: "settings" }, state.set);
@@ -624,6 +669,16 @@
 
   function download(kind) {
     var f = FILES[kind]();
+    if (NATIVE) {
+      dlMsg.textContent = "Saving\u2026";
+      Promise.resolve(window.gwcSaveFile(f.filename, f.data)).then(function (path) {
+        dlMsg.textContent = "Saved to " + path;
+      }, function (err) {
+        console.warn("[gwc] save file failed", err);
+        dlMsg.textContent = "Could not save the file: " + (err && err.message ? err.message : err);
+      });
+      return;
+    }
     if (downloadsNS) {
       dlMsg.textContent = "Confirm the download in the prompt.";
       downloadsNS.save({ filename: f.filename, data: f.data }).then(function () {
@@ -770,5 +825,5 @@
   initLibraryFilters();
   renderMeter();
   route();
-  connectRemote();
+  if (NATIVE) { setSync("synced"); if (!NATIVE_SAVED) persistLocal(); } else connectRemote();
 })();

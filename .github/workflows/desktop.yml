@@ -1,0 +1,126 @@
+name: Desktop apps
+
+# Builds The Great Works Course desktop app natively for Windows, macOS and
+# Linux, and publishes the builds, the PDFs and the single-file HTML as a
+# GitHub Release tagged desktop-v<learn/VERSION>.
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - claude/learning-environment-reading-list-a1rvec
+      - master
+      - main
+    paths:
+      - "launcher/**"
+      - "learn/**"
+      - "README.md"
+      - ".github/workflows/desktop.yml"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: desktop-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - name: windows
+            os: ubuntu-latest
+          - name: darwin
+            os: macos-latest
+          - name: linux
+            os: ubuntu-22.04
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-go@v7
+        with:
+          go-version-file: launcher/go.mod
+          cache-dependency-path: launcher/go.sum
+
+      - name: Install WebKitGTK (Linux)
+        if: matrix.name == 'linux'
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends libgtk-3-dev libwebkit2gtk-4.0-dev pkg-config
+
+      - name: Unit tests
+        working-directory: launcher
+        run: |
+          mkdir -p app && cp ../learn/index.html app/index.html
+          CGO_ENABLED=0 go test -count=1 ./...
+
+      - name: Build
+        run: python3 learn/package.py --skip-pdf --only ${{ matrix.name }} --out dist
+
+      - name: Check output
+        shell: bash
+        run: |
+          ls -la dist
+          case "${{ matrix.name }}" in
+            windows) test -s dist/GreatWorksCourse-Windows.exe ;;
+            darwin)  test -s dist/GreatWorksCourse-macOS.zip ;;
+            linux)   test -s dist/GreatWorksCourse-Linux.zip ;;
+          esac
+
+      - uses: actions/upload-artifact@v7
+        with:
+          name: app-${{ matrix.name }}
+          path: |
+            dist/GreatWorksCourse-*
+          if-no-files-found: error
+
+  release:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/download-artifact@v8
+        with:
+          path: dist
+          pattern: app-*
+          merge-multiple: true
+
+      - name: Add plans and single-file app
+        run: |
+          cp downloads/*.pdf downloads/*.md downloads/great-works-course.html dist/
+          rm -f dist/README.md
+          ls -la dist
+
+      - name: Publish release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          version="$(cat learn/VERSION)"
+          tag="desktop-v${version}"
+          notes="$(cat <<'EOF'
+          The Great Works Course: desktop apps and reading plans.
+
+          | File | For |
+          |---|---|
+          | GreatWorksCourse-Windows.exe | Windows 10/11 (uses the Edge WebView2 runtime built into Windows) |
+          | GreatWorksCourse-macOS.zip | macOS 11+, Apple Silicon and Intel. Unzip, move to Applications, right-click and choose Open the first time. |
+          | GreatWorksCourse-Linux.zip | Linux x86-64 with WebKitGTK 4.0 |
+          | great-works-course.html | Any web browser |
+          | *-Reading-Plan.pdf / .md | The Essentials (about 250 h) and full course plans |
+
+          The apps open in their own window and save progress to progress.json in your app-data folder, so it survives restarts.
+          EOF
+          )"
+          if gh release view "$tag" >/dev/null 2>&1; then
+            gh release upload "$tag" dist/* --clobber
+          else
+            gh release create "$tag" dist/* --target "$GITHUB_SHA" --title "Great Works Course ${version}" --notes "$notes"
+          fi
