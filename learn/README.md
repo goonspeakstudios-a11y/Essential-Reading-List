@@ -8,6 +8,8 @@ A study app and two downloadable reading plans built from the reading list in `.
 | `full-course.md` | Full course reading plan (about 2,500 h) | Read on GitHub or in any Markdown viewer. Checklists, assigned sections, editions, and links. |
 | `essentials.md` | Essentials reading plan (about 250 h) | Same format, for the short track. |
 
+Ready-to-open versions for people without any tools (PDFs, Windows `.exe`, macOS app, Linux program, single-file HTML) are in [`../downloads/`](../downloads/README.md).
+
 Inside the app, **Plan → Downloads** exports either plan with your own progress ticked, the offline app with your progress built in, or a JSON progress backup.
 
 ## The two tracks
@@ -79,6 +81,8 @@ python3 learn/build.py --artifact /path/page.html   # also write the unwrapped b
 ```
 
 Requires Python 3.9 or later and nothing else.
+
+`python3 learn/package.py` then rebuilds everything in `downloads/`: both PDFs (via `learn/pdf.cjs` and Playwright's Chromium), the launcher programs for Windows, macOS and Linux (Go source in `launcher/`), and the single-file HTML. The version number comes from `learn/VERSION`.
 
 | Source | Contents |
 |---|---|
