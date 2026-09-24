@@ -3,7 +3,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,500;0,700;1,400;1,500&family=Alegreya+Sans:ital,wght@0,400;0,500;0,700;1,400&display=swap">
-<style>
+<style id="app-style">
 :root {
   color-scheme: light;
   --bg: #edefea;
@@ -75,6 +75,24 @@ h1, h2, h3 { font-family: var(--serif); font-weight: 500; text-wrap: balance; ma
 .eyebrow { font-size: 12px; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); font-weight: 500; }
 .num { font-variant-numeric: tabular-nums; }
 .muted { color: var(--muted); }
+
+/* Track switch, editions, links */
+.track { display: inline-flex; border: 1px solid var(--line); border-radius: 999px; padding: 3px; background: var(--surface); }
+.track button { border: 0; background: transparent; border-radius: 999px; padding: 5px 12px; font-size: 14px; color: var(--muted); white-space: nowrap; }
+.track button[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); }
+.wed { font-size: 13px; color: var(--muted); margin: 4px 0 0; max-width: 70ch; }
+.wed b { font-weight: 500; color: var(--ink); }
+.links { display: flex; flex-wrap: wrap; gap: 6px; }
+.links a { font-size: 13px; border: 1px solid var(--line); border-radius: 999px; padding: 3px 10px; color: var(--accent); text-decoration: none; }
+.links a:hover { border-color: var(--accent); }
+.links a.pd { background: var(--accent-soft); border-color: transparent; }
+.sv { width: 26px; height: 26px; border-radius: 6px; border: 1.5px solid var(--line); background: var(--surface); display: grid; place-items: center; padding: 0; margin-top: 4px; }
+.sv[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+.sv svg { width: 14px; height: 14px; }
+.dl-list { display: grid; gap: 10px; }
+.dl { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 12px; align-items: center; border-top: 1px solid var(--line); padding-top: 10px; }
+.dl b { font-weight: 500; }
+.dl span { display: block; font-size: 13px; color: var(--muted); }
 
 /* Header */
 .masthead {
@@ -288,6 +306,10 @@ dialog.detail::backdrop { background: rgba(10, 14, 12, .45); }
 <header class="masthead">
   <div class="wrap">
     <div class="brand"><h1>The Great Works <em>Course</em></h1></div>
+    <div class="track" role="group" aria-label="Track">
+      <button data-track="full" aria-pressed="true">Full course</button>
+      <button data-track="ess" aria-pressed="false">Essentials</button>
+    </div>
     <div class="meter" title="Core sequence progress">
       <div class="bar" aria-hidden="true"><i class="d" id="meter-d"></i><i class="r" id="meter-r"></i></div>
       <span class="num" id="meter-label"></span>
@@ -313,7 +335,7 @@ dialog.detail::backdrop { background: rgba(10, 14, 12, .45); }
   <section class="view" id="view-library" hidden>
     <div class="filters">
       <label class="field q"><span>Search</span><input type="search" id="f-q" placeholder="Author, title, or subject"></label>
-      <label class="field"><span>Phase</span><select id="f-phase"></select></label>
+      <label class="field"><span id="f-phase-label">Phase</span><select id="f-phase"></select></label>
       <label class="field"><span>Section</span><select id="f-sec"></select></label>
       <label class="field"><span>Status</span>
         <select id="f-status">
@@ -345,11 +367,22 @@ dialog.detail::backdrop { background: rgba(10, 14, 12, .45); }
           <label class="field"><span>Course start date</span><input type="date" id="p-start"></label>
         </div>
         <div class="figures" id="p-figures"></div>
-        <p class="muted" style="margin:0;font-size:14px">Projections use the core sequence only and the hour estimate on each work. Works marked finished or skipped are subtracted.</p>
+        <p class="muted" id="p-note" style="margin:0;font-size:14px"></p>
       </div>
       <div class="panel">
-        <h3>Phase schedule</h3>
+        <h3 id="p-sched-title">Phase schedule</h3>
         <div class="table-wrap"><table id="p-table"></table></div>
+      </div>
+      <div class="panel">
+        <h3>Downloads</h3>
+        <p class="muted" style="margin:0;font-size:14px">Take either track with you. The reading plans are Markdown checklists with editions and links, with your progress ticked. The app file opens in any browser without an internet connection and saves progress in that browser.</p>
+        <div class="dl-list">
+          <div class="dl"><div><b>Full course reading plan</b><span>full-course.md · 11 phases, 571 works</span></div><button class="btn" data-dl="full">Download</button></div>
+          <div class="dl"><div><b>Essentials reading plan</b><span>essentials.md · 13 modules, about 250 hours</span></div><button class="btn" data-dl="ess">Download</button></div>
+          <div class="dl"><div><b>Offline app, both tracks</b><span>great-works-course.html · includes a copy of your progress</span></div><button class="btn" data-dl="app">Download</button></div>
+          <div class="dl"><div><b>Progress backup</b><span>great-works-progress.json</span></div><button class="btn" data-dl="json">Download</button></div>
+        </div>
+        <p class="muted" id="dl-msg" style="margin:0;font-size:14px" role="status"></p>
       </div>
       <div class="panel">
         <h3>Backup</h3>
@@ -370,7 +403,7 @@ dialog.detail::backdrop { background: rgba(10, 14, 12, .45); }
       <div class="panel">
         <h3>How the course is built</h3>
         <p style="margin:0" id="about"></p>
-        <p style="margin:0" class="muted">Core works are ordered so that each one prepares for the next. The deeper shelf in every phase holds the remaining works from that phase's sections of the reading list, in list order.</p>
+        <p style="margin:0" class="muted" id="about-2"></p>
       </div>
     </div>
   </section>
@@ -379,523 +412,6 @@ dialog.detail::backdrop { background: rgba(10, 14, 12, .45); }
 <dialog class="detail" id="detail" aria-labelledby="d-title"></dialog>
 
 <script type="application/json" id="course-data">__COURSE_DATA__</script>
-<script>
-(function () {
-  "use strict";
-
-  var COURSE = JSON.parse(document.getElementById("course-data").textContent);
-  var LS_KEY = "gwc-state-v1";
-  var LS_UI = "gwc-ui-v1";
-  var ROMAN = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XI", "XII", "XIII", "XIV", "XV"];
-  var STATUS_LABEL = { "": "Not started", reading: "Reading", done: "Finished", skip: "Skipped" };
-  var NEXT_STATUS = { "": "reading", reading: "done", done: "", skip: "" };
-
-  // ---------- Indexes ----------
-  var WORK = {}, SECTION = {}, PHASE_OF = {}, CORE_INFO = {}, PHASE_BY_ID = {};
-  COURSE.works.forEach(function (w) { WORK[w.id] = w; });
-  COURSE.sections.forEach(function (s) { SECTION[s.n] = s; });
-  COURSE.phases.forEach(function (p, i) {
-    p.num = ROMAN[i];
-    p.index = i;
-    PHASE_BY_ID[p.id] = p;
-    p.coreHours = 0;
-    p.core.forEach(function (c, j) {
-      PHASE_OF[c.id] = p.id;
-      CORE_INFO[c.id] = { hours: c.hours, focus: c.focus, pos: j + 1, phase: p.id };
-      p.coreHours += c.hours;
-    });
-    p.deeper.forEach(function (id) { PHASE_OF[id] = p.id; });
-  });
-  var CORE_ORDER = [];
-  COURSE.phases.forEach(function (p) { p.core.forEach(function (c) { CORE_ORDER.push(c.id); }); });
-
-  // ---------- State ----------
-  function blankState() { return { w: {}, ph: {}, set: { hpw: 7, start: todayISO() } }; }
-  function todayISO() { var d = new Date(); return new Date(d.getTime() - d.getTimezoneOffset() * 60000).toISOString().slice(0, 10); }
-  function lsGet(key) { try { return window.localStorage.getItem(key); } catch (e) { return null; } }
-  function lsSet(key, val) { try { window.localStorage.setItem(key, val); } catch (e) { /* storage unavailable */ } }
-
-  var state = blankState();
-  (function loadLocal() {
-    var raw = lsGet(LS_KEY);
-    if (!raw) return;
-    try {
-      var parsed = JSON.parse(raw);
-      if (parsed && typeof parsed === "object") {
-        state.w = parsed.w || {};
-        state.ph = parsed.ph || {};
-        state.set = Object.assign(state.set, parsed.set || {});
-      }
-    } catch (e) { /* corrupt local copy; start fresh */ }
-  })();
-
-  var ui = { view: "course", phase: COURSE.phases[0].id, open: false };
-  try { Object.assign(ui, JSON.parse(lsGet(LS_UI) || "{}")); } catch (e) { /* ignore */ }
-  if (!PHASE_BY_ID[ui.phase]) ui.phase = COURSE.phases[0].id;
-  function saveUI() { lsSet(LS_UI, JSON.stringify({ phase: ui.phase })); }
-
-  function ws(id) { return state.w[id] || {}; }
-  function statusOf(id) { return ws(id).s || ""; }
-  function hasNotes(id) { var r = ws(id); return !!((r.notes && r.notes.trim()) || (r.sum && r.sum.trim())); }
-
-  // ---------- Sync (db capability when available, localStorage always) ----------
-  var remote = null; // { db, uid }
-  var pending = {};  // docId -> timer
-  var inflight = {}; // docId -> promise
-  var syncEl = document.getElementById("sync");
-
-  function setSync(s) {
-    syncEl.dataset.state = s;
-    syncEl.textContent = s === "synced" ? "Synced to your account" : s === "saving" ? "Saving" : s === "error" ? "Saved in this browser only" : "Saved in this browser";
-  }
-
-  function persistLocal() { lsSet(LS_KEY, JSON.stringify(state)); }
-
-  function docFor(key) {
-    if (key === "settings") return { id: "settings", body: Object.assign({ kind: "settings", upd: state.set.upd || 0 }, state.set) };
-    if (key.indexOf("p-") === 0) return { id: key, body: Object.assign({ kind: "phase", pid: key.slice(2) }, state.ph[key.slice(2)] || {}) };
-    return { id: key, body: Object.assign({ kind: "work" }, state.w[key] || {}) };
-  }
-
-  function queueRemote(key, delay) {
-    if (!remote) return;
-    clearTimeout(pending[key]);
-    setSync("saving");
-    pending[key] = setTimeout(function () { flush(key); }, delay == null ? 700 : delay);
-  }
-
-  function flush(key) {
-    delete pending[key];
-    var prev = inflight[key] || Promise.resolve();
-    var p = prev.then(function () {
-      var d = docFor(key);
-      return remote.db.collection("data/users/" + remote.uid).doc(d.id).set(d.body);
-    }).then(function () {
-      if (inflight[key] === p) delete inflight[key];
-      if (!Object.keys(pending).length && !Object.keys(inflight).length) setSync("synced");
-    }, function (err) {
-      if (inflight[key] === p) delete inflight[key];
-      if (err && err.code === "unavailable") { queueRemote(key, 1500 + Math.random() * 1500); return; }
-      console.warn("[gwc] remote save failed", key, err && err.code, err && err.message);
-      if (err && (err.code === "revoked" || err.code === "not_granted" || err.code === "invalid_argument")) remote = null;
-      setSync("error");
-    });
-    inflight[key] = p;
-  }
-
-  function touchWork(id, patch) {
-    var rec = Object.assign({}, state.w[id] || {}, patch, { upd: Date.now() });
-    if (patch.s === "reading" && !rec.start) rec.start = todayISO();
-    if (patch.s === "done" && !rec.end) rec.end = todayISO();
-    state.w[id] = rec;
-    persistLocal();
-    queueRemote(id, patch.notes != null || patch.sum != null ? 900 : 200);
-  }
-  function touchPhase(pid, patch) {
-    state.ph[pid] = Object.assign({}, state.ph[pid] || {}, patch, { upd: Date.now() });
-    persistLocal();
-    queueRemote("p-" + pid, 900);
-  }
-  function touchSettings(patch) {
-    state.set = Object.assign({}, state.set, patch, { upd: Date.now() });
-    persistLocal();
-    queueRemote("settings", 600);
-  }
-
-  function connectRemote() {
-    if (!window.claude || typeof window.claude.use !== "function") return;
-    Promise.all([window.claude.use("db"), window.claude.use("user")]).then(function (res) {
-      var db = res[0], user = res[1];
-      if (!db || !user || typeof user.id !== "function") return null;
-      return user.id().then(function (uid) {
-        if (!uid) return null;
-        return db.collection("data/users/" + uid).limit(1000).get().then(function (snap) {
-          remote = { db: db, uid: uid };
-          var toPush = {};
-          var seen = {};
-          snap.docs.forEach(function (doc) {
-            var d = doc.data() || {};
-            seen[doc.id] = true;
-            if (d.kind === "settings") {
-              if ((d.upd || 0) > (state.set.upd || 0)) { state.set = { hpw: d.hpw || 7, start: d.start || todayISO(), upd: d.upd }; }
-              else if ((state.set.upd || 0) > (d.upd || 0)) toPush.settings = true;
-            } else if (d.kind === "phase" && d.pid) {
-              var lp = state.ph[d.pid] || {};
-              if ((d.upd || 0) > (lp.upd || 0)) state.ph[d.pid] = { synth: d.synth || "", upd: d.upd };
-              else if ((lp.upd || 0) > (d.upd || 0)) toPush["p-" + d.pid] = true;
-            } else if (d.kind === "work" && WORK[doc.id]) {
-              var lw = state.w[doc.id] || {};
-              if ((d.upd || 0) > (lw.upd || 0)) { var copy = Object.assign({}, d); delete copy.kind; state.w[doc.id] = copy; }
-              else if ((lw.upd || 0) > (d.upd || 0)) toPush[doc.id] = true;
-            }
-          });
-          Object.keys(state.w).forEach(function (id) { if (!seen[id] && WORK[id]) toPush[id] = true; });
-          Object.keys(state.ph).forEach(function (pid) { if (!seen["p-" + pid]) toPush["p-" + pid] = true; });
-          if (!seen.settings && state.set.upd) toPush.settings = true;
-          persistLocal();
-          var keys = Object.keys(toPush);
-          setSync("synced");
-          keys.forEach(function (k, i) { queueRemote(k, 150 * i); });
-          renderAll();
-          return true;
-        });
-      });
-    }).catch(function (err) {
-      console.warn("[gwc] account sync unavailable", err && err.code, err && err.message);
-      remote = null;
-      setSync("local");
-    });
-  }
-
-  // ---------- Helpers ----------
-  function esc(s) {
-    return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
-      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
-    });
-  }
-  function fmtDate(d) { return d.toLocaleDateString(undefined, { year: "numeric", month: "short", day: "numeric" }); }
-  function addWeeks(iso, weeks) { var d = new Date(iso + "T12:00:00"); if (isNaN(d)) d = new Date(); d.setDate(d.getDate() + Math.ceil(weeks * 7)); return d; }
-  function hpw() { var n = Number(state.set.hpw); return n > 0 ? n : 7; }
-
-  var ICON = {
-    "": "",
-    reading: '<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M2 3.5h4.5c.8 0 1.5.7 1.5 1.5v8c0-.8-.7-1.3-1.5-1.3H2zM14 3.5H9.5C8.7 3.5 8 4.2 8 5v8c0-.8.7-1.3 1.5-1.3H14z" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/></svg>',
-    done: '<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3.5 8.5l3 3 6-7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>',
-    skip: '<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M4 8h8" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>'
-  };
-
-  function phaseProgress(p) {
-    var done = 0, reading = 0, hoursLeft = 0;
-    p.core.forEach(function (c) {
-      var s = statusOf(c.id);
-      if (s === "done" || s === "skip") done++;
-      else { hoursLeft += c.hours; if (s === "reading") reading++; }
-    });
-    return { done: done, reading: reading, total: p.core.length, hoursLeft: hoursLeft, frac: p.core.length ? done / p.core.length : 0 };
-  }
-
-  function ring(frac) {
-    var r = 8.5, c = 2 * Math.PI * r;
-    return '<svg class="ring" viewBox="0 0 22 22" aria-hidden="true"><circle class="bg" cx="11" cy="11" r="' + r + '"/><circle class="fg" cx="11" cy="11" r="' + r + '" stroke-dasharray="' + (c * frac).toFixed(2) + " " + c.toFixed(2) + '"' + (frac === 0 ? ' stroke-opacity="0"' : "") + "/></svg>";
-  }
-
-  function workRow(id, opts) {
-    opts = opts || {};
-    var w = WORK[id], s = statusOf(id), core = CORE_INFO[id];
-    var tags = [];
-    if (opts.showPhase) tags.push('<span class="tag' + (core ? " core" : "") + '">' + PHASE_BY_ID[PHASE_OF[id]].num + (core ? " core" : " deeper") + "</span>");
-    if (hasNotes(id)) tags.push('<span class="tag note">notes</span>');
-    var hours = core ? '<span class="num">~' + core.hours + " h</span>" : "";
-    var focus = opts.focus && core && core.focus ? '<p class="wf">' + esc(core.focus) + "</p>" : (opts.desc ? '<p class="wf">' + esc(w.desc) + "</p>" : "");
-    return '<li class="work" data-id="' + esc(id) + '" data-s="' + s + '">' +
-      (opts.index != null ? '<span class="idx num">' + opts.index + "</span>" : "") +
-      '<button class="status" data-act="cycle" data-s="' + s + '" aria-label="Status: ' + STATUS_LABEL[s] + '. Change status of ' + esc(w.title) + '">' + ICON[s] + "</button>" +
-      '<div class="body" data-act="open" role="button" tabindex="0">' +
-        (w.author ? '<div class="wa">' + esc(w.author) + "</div>" : "") +
-        '<div class="wt">' + esc(w.work) + "</div>" + focus +
-      "</div>" +
-      '<div class="meta">' + hours + tags.join("") + "</div>" +
-    "</li>";
-  }
-
-  // ---------- Header ----------
-  function renderMeter() {
-    var done = 0, reading = 0;
-    CORE_ORDER.forEach(function (id) { var s = statusOf(id); if (s === "done" || s === "skip") done++; else if (s === "reading") reading++; });
-    var t = CORE_ORDER.length;
-    document.getElementById("meter-d").style.width = (100 * done / t) + "%";
-    document.getElementById("meter-r").style.width = (100 * reading / t) + "%";
-    var all = COURSE.works.filter(function (w) { return statusOf(w.id) === "done"; }).length;
-    document.getElementById("meter-label").textContent = done + " / " + t + " core · " + all + " / " + COURSE.works.length + " read";
-  }
-
-  // ---------- Course view ----------
-  function nextUp() {
-    for (var i = 0; i < CORE_ORDER.length; i++) {
-      var s = statusOf(CORE_ORDER[i]);
-      if (s !== "done" && s !== "skip" && s !== "reading") return CORE_ORDER[i];
-    }
-    return null;
-  }
-
-  function renderRail() {
-    document.getElementById("rail").innerHTML = COURSE.phases.map(function (p) {
-      var pr = phaseProgress(p);
-      return '<button data-phase="' + p.id + '" aria-current="' + (p.id === ui.phase) + '">' +
-        '<span class="rn">' + p.num + "</span>" +
-        '<span><span class="rt">' + esc(p.title) + '</span><br><span class="rp num">' + pr.done + " of " + pr.total + " core</span></span>" +
-        ring(pr.frac) + "</button>";
-    }).join("");
-  }
-
-  function renderPhase() {
-    var p = PHASE_BY_ID[ui.phase], pr = phaseProgress(p);
-    var reading = COURSE.works.filter(function (w) { return statusOf(w.id) === "reading"; });
-    var nx = nextUp();
-    var html = "";
-    if (nx) {
-      var w = WORK[nx], np = PHASE_BY_ID[PHASE_OF[nx]];
-      html += '<div class="upnext"><div><div class="eyebrow">Up next · Phase ' + np.num + " · " + CORE_INFO[nx].pos + " of " + np.core.length + "</div>" +
-        "<h2>" + esc(w.work) + "</h2><p>" + esc(w.author) + (CORE_INFO[nx].focus ? " — " + esc(CORE_INFO[nx].focus) : "") + "</p></div>" +
-        '<button class="go" data-act="start" data-id="' + nx + '">Start reading</button></div>';
-    } else {
-      html += '<div class="upnext"><div><div class="eyebrow">Core sequence complete</div><h2>Every core work is finished or set aside.</h2><p>Continue with the deeper shelves in each phase.</p></div></div>';
-    }
-    if (reading.length) {
-      html += '<div class="reading-now"><span class="eyebrow" style="align-self:center">On the desk</span>' + reading.map(function (w) {
-        return '<button class="chip reading" data-act="open" data-id="' + w.id + '">' + esc(w.work.length > 42 ? w.work.slice(0, 40) + "…" : w.work) + "</button>";
-      }).join("") + "</div>";
-    }
-    html += '<div class="phase-head"><div class="pn">Phase ' + p.num + " · " + esc(p.span) + "</div><h2>" + esc(p.title) + '</h2><p class="intro">' + esc(p.intro) + "</p>" +
-      '<div class="phase-stats num"><span><b>' + pr.done + "</b> of " + pr.total + " core works done</span><span><b>~" + pr.hoursLeft + "</b> h left of ~" + p.coreHours + " h</span><span>Sections " +
-      p.sections.map(function (n) { return esc(n + ". " + SECTION[n].title); }).join("; ") + "</span></div></div>";
-    html += '<div class="questions"><div class="eyebrow">Carry these questions through the phase</div><ol>' + p.questions.map(function (q) { return "<li>" + esc(q) + "</li>"; }).join("") + "</ol></div>";
-    html += '<div class="list-head"><h3>Core sequence</h3><span class="muted num" style="font-size:14px">Read in this order</span></div>';
-    html += '<ul class="works">' + p.core.map(function (c, i) { return workRow(c.id, { index: i + 1, focus: true }); }).join("") + "</ul>";
-    var synth = (state.ph[p.id] || {}).synth || "";
-    html += '<div class="synth"><div class="eyebrow">Phase checkpoint</div><h3>Synthesis</h3><p>' + esc(p.synthesis) + "</p>" +
-      '<textarea id="synth-' + p.id + '" data-act="synth" data-pid="' + p.id + '" placeholder="Write your synthesis when the core sequence is done">' + esc(synth) + "</textarea></div>";
-    if (p.deeper.length) {
-      var dDone = p.deeper.filter(function (id) { return statusOf(id) === "done"; }).length;
-      html += '<details class="deeper"' + (ui.open ? " open" : "") + ' id="deeper"><summary><h3>Deeper shelf</h3><span class="muted num" style="font-size:14px">' + dDone + " of " + p.deeper.length + " read</span></summary>" +
-        '<ul class="works plain">' + p.deeper.map(function (id) { return workRow(id, { desc: true }); }).join("") + "</ul></details>";
-    }
-    document.getElementById("phase").innerHTML = html;
-    var det = document.getElementById("deeper");
-    if (det) det.addEventListener("toggle", function () { ui.open = det.open; });
-  }
-
-  // ---------- Library ----------
-  var libLimit = 60;
-  function initLibraryFilters() {
-    document.getElementById("f-phase").innerHTML = '<option value="">All phases</option>' + COURSE.phases.map(function (p) { return '<option value="' + p.id + '">' + p.num + ". " + esc(p.title) + "</option>"; }).join("");
-    document.getElementById("f-sec").innerHTML = '<option value="">All sections</option>' + COURSE.sections.map(function (s) { return '<option value="' + s.n + '">' + s.n + ". " + esc(s.title) + "</option>"; }).join("");
-  }
-  function renderLibrary() {
-    var q = document.getElementById("f-q").value.trim().toLowerCase();
-    var fp = document.getElementById("f-phase").value;
-    var fs = document.getElementById("f-sec").value;
-    var fst = document.getElementById("f-status").value;
-    var fc = document.getElementById("f-core").checked;
-    var terms = q ? q.split(/\s+/) : [];
-    var hits = COURSE.works.filter(function (w) {
-      if (fp && PHASE_OF[w.id] !== fp) return false;
-      if (fs && String(w.sec) !== fs) return false;
-      if (fc && !CORE_INFO[w.id]) return false;
-      var s = statusOf(w.id);
-      if (fst === "none" && s) return false;
-      if (fst === "notes" && !hasNotes(w.id)) return false;
-      if (fst && fst !== "none" && fst !== "notes" && s !== fst) return false;
-      if (terms.length) {
-        var hay = (w.title + " " + w.desc).toLowerCase();
-        for (var i = 0; i < terms.length; i++) if (hay.indexOf(terms[i]) === -1) return false;
-      }
-      return true;
-    });
-    document.getElementById("lib-count").textContent = hits.length + (hits.length === 1 ? " work" : " works");
-    document.getElementById("lib-list").innerHTML = hits.slice(0, libLimit).map(function (w) { return workRow(w.id, { showPhase: true, desc: true }); }).join("");
-    document.getElementById("lib-more").hidden = hits.length <= libLimit;
-  }
-
-  // ---------- Notebook ----------
-  function renderNotebook() {
-    var items = [];
-    COURSE.works.forEach(function (w) { if (hasNotes(w.id)) items.push({ t: ws(w.id).upd || 0, kind: "w", id: w.id }); });
-    COURSE.phases.forEach(function (p) { var r = state.ph[p.id]; if (r && r.synth && r.synth.trim()) items.push({ t: r.upd || 0, kind: "p", id: p.id }); });
-    items.sort(function (a, b) { return b.t - a.t; });
-    var el = document.getElementById("notebook");
-    if (!items.length) {
-      el.innerHTML = '<div class="empty"><h3 style="font-size:22px;margin-bottom:6px">Nothing written yet</h3><p style="margin:0">Open any work to record a one-sentence summary and notes. Phase syntheses appear here too.</p></div>';
-      return;
-    }
-    el.innerHTML = '<div class="entries">' + items.map(function (it) {
-      if (it.kind === "p") {
-        var p = PHASE_BY_ID[it.id];
-        return '<article class="entry"><div class="eyebrow">Phase ' + p.num + " synthesis · " + (it.t ? fmtDate(new Date(it.t)) : "") + "</div><h3>" + esc(p.title) + '</h3><p class="notes">' + esc(state.ph[it.id].synth) + "</p></article>";
-      }
-      var w = WORK[it.id], r = ws(it.id);
-      return '<article class="entry"><div class="eyebrow">' + esc(w.author || "Anonymous") + " · " + STATUS_LABEL[r.s || ""] + (it.t ? " · " + fmtDate(new Date(it.t)) : "") + "</div>" +
-        '<h3><a href="#" data-act="open" data-id="' + it.id + '" style="color:inherit">' + esc(w.work) + "</a></h3>" +
-        (r.sum ? '<p class="sum">' + esc(r.sum) + "</p>" : "") + (r.notes ? '<p class="notes">' + esc(r.notes) + "</p>" : "") + "</article>";
-    }).join("") + "</div>";
-  }
-
-  // ---------- Plan ----------
-  function renderPlan() {
-    var hp = hpw();
-    document.getElementById("p-hpw").value = hp;
-    document.getElementById("p-start").value = state.set.start || todayISO();
-    var totalH = 0, leftH = 0;
-    COURSE.phases.forEach(function (p) { totalH += p.coreHours; leftH += phaseProgress(p).hoursLeft; });
-    var weeks = leftH / hp;
-    var today = todayISO();
-    var base = (state.set.start && state.set.start > today) ? state.set.start : today;
-    document.getElementById("p-figures").innerHTML =
-      '<div class="figure"><b class="num">~' + leftH + '</b><span>core hours left of ~' + totalH + "</span></div>" +
-      '<div class="figure"><b class="num">' + (weeks < 10 ? weeks.toFixed(1) : Math.round(weeks)) + "</b><span>weeks at " + hp + " h per week</span></div>" +
-      '<div class="figure"><b>' + (leftH ? fmtDate(addWeeks(base, weeks)) : "Done") + "</b><span>projected finish</span></div>";
-    var cum = 0;
-    var rows = COURSE.phases.map(function (p) {
-      var pr = phaseProgress(p);
-      cum += pr.hoursLeft;
-      return "<tr><td><span class=\"pn\">" + p.num + "</span>" + esc(p.title) + "</td>" +
-        '<td class="r"><span class="mini" aria-hidden="true"><i style="width:' + (100 * pr.frac).toFixed(1) + '%"></i></span></td>' +
-        '<td class="r">' + pr.done + "/" + pr.total + "</td>" +
-        '<td class="r">~' + pr.hoursLeft + "</td>" +
-        '<td class="r">' + (pr.hoursLeft ? fmtDate(addWeeks(base, cum / hp)) : "Done") + "</td></tr>";
-    }).join("");
-    document.getElementById("p-table").innerHTML = '<thead><tr><th>Phase</th><th class="r">Progress</th><th class="r">Core</th><th class="r">Hours left</th><th class="r">Finish by</th></tr></thead><tbody>' + rows + "</tbody>";
-    document.getElementById("about").textContent = COURSE.about;
-  }
-
-  // ---------- Detail dialog ----------
-  var dlg = document.getElementById("detail");
-  var dlgId = null;
-  function openDetail(id) {
-    var w = WORK[id]; if (!w) return;
-    dlgId = id;
-    var r = ws(id), s = r.s || "", core = CORE_INFO[id], p = PHASE_BY_ID[PHASE_OF[id]];
-    dlg.innerHTML = '<div class="detail-inner">' +
-      '<div class="detail-top"><div><div class="eyebrow">' + esc(w.author || "Anonymous") + "</div><h2 id=\"d-title\">" + esc(w.work) + "</h2></div>" +
-      '<button class="close" data-act="close" aria-label="Close">×</button></div>' +
-      '<p class="src">Phase ' + p.num + ", " + esc(p.title) + (core ? " · core " + core.pos + " of " + p.core.length + " · ~" + core.hours + " h" : " · deeper shelf") + " · Reading list section " + w.sec + ". " + esc(SECTION[w.sec].title) + "</p>" +
-      '<p class="desc">' + esc(w.desc) + "</p>" +
-      (core && core.focus ? '<p class="focus"><b>What to read and watch for.</b> ' + esc(core.focus) + "</p>" : "") +
-      '<div class="seg" role="group" aria-label="Status">' + ["", "reading", "done", "skip"].map(function (v) {
-        return '<button data-act="set" data-v="' + v + '" aria-pressed="' + (s === v) + '">' + STATUS_LABEL[v] + "</button>";
-      }).join("") + "</div>" +
-      '<div class="dates"><label class="field"><span>Started</span><input type="date" id="d-start" value="' + esc(r.start || "") + '"></label>' +
-      '<label class="field"><span>Finished</span><input type="date" id="d-end" value="' + esc(r.end || "") + '"></label></div>' +
-      '<label class="field"><span>In one sentence</span><input type="text" id="d-sum" maxlength="400" placeholder="The central claim or event, in your own words" value="' + esc(r.sum || "") + '"></label>' +
-      '<label class="field"><span>Notes</span><textarea id="d-notes" placeholder="Passages, arguments, connections to earlier works, questions">' + esc(r.notes || "") + "</textarea></label>" +
-      "</div>";
-    if (!dlg.open) { try { dlg.showModal(); } catch (e) { dlg.setAttribute("open", ""); } }
-  }
-  function closeDetail() { if (dlg.open) dlg.close(); }
-  dlg.addEventListener("close", function () { dlgId = null; renderAll(); });
-  dlg.addEventListener("click", function (e) {
-    if (e.target === dlg) { closeDetail(); return; }
-    var b = e.target.closest("[data-act]"); if (!b) return;
-    if (b.dataset.act === "close") closeDetail();
-    if (b.dataset.act === "set" && dlgId) {
-      touchWork(dlgId, { s: b.dataset.v });
-      openDetail(dlgId);
-    }
-  });
-  dlg.addEventListener("input", function (e) {
-    if (!dlgId) return;
-    var t = e.target;
-    if (t.id === "d-sum") touchWork(dlgId, { sum: t.value });
-    else if (t.id === "d-notes") touchWork(dlgId, { notes: t.value });
-    else if (t.id === "d-start") touchWork(dlgId, { start: t.value });
-    else if (t.id === "d-end") touchWork(dlgId, { end: t.value });
-  });
-
-  // ---------- Global events ----------
-  document.addEventListener("click", function (e) {
-    if (dlg.contains(e.target)) return;
-    var ph = e.target.closest("[data-phase]");
-    if (ph) { ui.phase = ph.dataset.phase; ui.open = false; saveUI(); renderCourse(); window.scrollTo({ top: 0 }); return; }
-    var el = e.target.closest("[data-act]"); if (!el) return;
-    var row = el.closest(".work");
-    var id = el.dataset.id || (row && row.dataset.id);
-    switch (el.dataset.act) {
-      case "cycle": touchWork(id, { s: NEXT_STATUS[statusOf(id)] }); renderAll(); break;
-      case "open": e.preventDefault(); openDetail(id); break;
-      case "start": touchWork(id, { s: "reading" }); if (PHASE_OF[id] !== ui.phase) { ui.phase = PHASE_OF[id]; saveUI(); } renderAll(); openDetail(id); break;
-    }
-  });
-  document.addEventListener("keydown", function (e) {
-    if ((e.key === "Enter" || e.key === " ") && e.target.matches && e.target.matches('.body[data-act="open"]')) {
-      e.preventDefault(); openDetail(e.target.closest(".work").dataset.id);
-    }
-  });
-  document.addEventListener("input", function (e) {
-    var t = e.target;
-    if (t.dataset && t.dataset.act === "synth") touchPhase(t.dataset.pid, { synth: t.value });
-  });
-
-  ["f-q", "f-phase", "f-sec", "f-status", "f-core"].forEach(function (id) {
-    document.getElementById(id).addEventListener("input", function () { libLimit = 60; renderLibrary(); });
-  });
-  document.getElementById("lib-more").addEventListener("click", function () { libLimit += 120; renderLibrary(); });
-
-  document.getElementById("p-hpw").addEventListener("change", function (e) {
-    var n = Math.max(1, Math.min(80, Math.round(Number(e.target.value) || 7)));
-    touchSettings({ hpw: n }); renderPlan();
-  });
-  document.getElementById("p-start").addEventListener("change", function (e) {
-    if (e.target.value) { touchSettings({ start: e.target.value }); renderPlan(); }
-  });
-
-  // Backup
-  var bText = document.getElementById("b-text"), bMsg = document.getElementById("b-msg");
-  function backupJSON() { return JSON.stringify({ format: "gwc-backup-1", saved: new Date().toISOString(), state: state }, null, 1); }
-  document.getElementById("b-copy").addEventListener("click", function () {
-    var txt = backupJSON();
-    bText.value = txt;
-    var done = function () { bMsg.textContent = "Copied. Paste it somewhere safe."; };
-    var fallback = function () { bText.focus(); bText.select(); bMsg.textContent = "Selected. Copy it with your keyboard or the context menu."; };
-    try { navigator.clipboard.writeText(txt).then(done, fallback); } catch (err) { fallback(); }
-  });
-  document.getElementById("b-restore").addEventListener("click", function () {
-    var parsed;
-    try { parsed = JSON.parse(bText.value); } catch (err) { bMsg.textContent = "That text is not valid JSON. Paste the full backup, from the first { to the last }."; return; }
-    var st = parsed && parsed.format === "gwc-backup-1" ? parsed.state : null;
-    if (!st || typeof st.w !== "object") { bMsg.textContent = "That JSON is not a backup from this course."; return; }
-    var now = Date.now();
-    state.w = {};
-    Object.keys(st.w).forEach(function (id) { if (WORK[id]) { state.w[id] = Object.assign({}, st.w[id], { upd: now }); queueRemote(id, 100); } });
-    state.ph = {};
-    Object.keys(st.ph || {}).forEach(function (pid) { if (PHASE_BY_ID[pid]) { state.ph[pid] = Object.assign({}, st.ph[pid], { upd: now }); queueRemote("p-" + pid, 100); } });
-    state.set = Object.assign(blankState().set, st.set || {}, { upd: now });
-    queueRemote("settings", 100);
-    persistLocal();
-    bMsg.textContent = "Restored " + Object.keys(state.w).length + " work records.";
-    renderAll();
-  });
-  document.getElementById("b-reset").addEventListener("click", function () { document.getElementById("b-confirm").hidden = false; });
-  document.getElementById("b-reset-no").addEventListener("click", function () { document.getElementById("b-confirm").hidden = true; });
-  document.getElementById("b-reset-yes").addEventListener("click", function () {
-    var now = Date.now();
-    Object.keys(state.w).forEach(function (id) { state.w[id] = { upd: now }; queueRemote(id, 100); });
-    Object.keys(state.ph).forEach(function (pid) { state.ph[pid] = { synth: "", upd: now }; queueRemote("p-" + pid, 100); });
-    persistLocal();
-    document.getElementById("b-confirm").hidden = true;
-    bMsg.textContent = "All progress erased.";
-    renderAll();
-  });
-
-  // ---------- Routing ----------
-  var VIEWS = ["course", "library", "notebook", "plan"];
-  function route() {
-    var h = (location.hash || "").replace("#", "");
-    ui.view = VIEWS.indexOf(h) >= 0 ? h : "course";
-    VIEWS.forEach(function (v) { document.getElementById("view-" + v).hidden = v !== ui.view; });
-    document.querySelectorAll(".tabs a").forEach(function (a) {
-      if (a.dataset.view === ui.view) a.setAttribute("aria-current", "page"); else a.removeAttribute("aria-current");
-    });
-    renderView();
-  }
-  window.addEventListener("hashchange", route);
-
-  function renderCourse() { renderRail(); renderPhase(); }
-  function renderView() {
-    if (ui.view === "course") renderCourse();
-    else if (ui.view === "library") renderLibrary();
-    else if (ui.view === "notebook") renderNotebook();
-    else renderPlan();
-  }
-  function renderAll() {
-    renderMeter();
-    var active = document.activeElement;
-    if (active && active.dataset && active.dataset.act === "synth") return; // don't re-render under the cursor
-    renderView();
-  }
-
-  initLibraryFilters();
-  renderMeter();
-  route();
-  connectRemote();
-})();
+<script id="app-script">
+__APP_SCRIPT__
 </script>

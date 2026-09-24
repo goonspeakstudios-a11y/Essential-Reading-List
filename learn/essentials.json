@@ -1,0 +1,301 @@
+{
+  "title": "Essentials",
+  "about": "A 250-hour track through the same reading list. Thirteen modules of roughly 12 to 25 hours each. In each module you read short, specific passages from the key works. You then survey the module's other works by reading their descriptions, about a minute each, so every one of the 571 entries is covered at least at the level of its main idea. Hour figures are rough estimates for the assigned passages.",
+  "surveyMinutes": 1,
+  "modules": [
+    {
+      "id": "e1",
+      "title": "How to Read and Argue",
+      "sections": [1, 3],
+      "intro": "The classical tools for reading and arguing: definition, the syllogism, the common fallacies, the parts of a speech, and the geometric proof. These are enough to follow the arguments in every later module.",
+      "takeaways": [
+        "Classification comes before argument. Genus, species, and difference are the basis of a definition.",
+        "A syllogism is valid because of its form, whatever its content. Fallacies are arguments that only look valid.",
+        "Rhetoric has five parts: invention, arrangement, style, memory, and delivery. Euclid's method of building from axioms became the model of certain knowledge."
+      ],
+      "check": "Take one argument you have heard this week. Put it in syllogistic form and name any fallacy it commits.",
+      "readings": [
+        {"match": "1:Porphyry — Isagoge", "hours": 2, "read": "The whole text; it is short. Learn the five predicables."},
+        {"match": "1:Aristotle — Categories", "hours": 2, "read": "Chapters 1-5, ending with the account of substance."},
+        {"match": "1:Aristotle — the rest of the Organon", "hours": 3, "read": "Prior Analytics I.1-7 (the syllogism) and Sophistical Refutations 4-5 (the thirteen fallacies)."},
+        {"match": "1:Rhetorica ad Herennium", "hours": 2, "read": "Book I.2-4 (the five canons and the parts of a speech) and Book III.16-24 (the art of memory)."},
+        {"match": "3:Euclid — Elements", "hours": 2.5, "read": "Book I: definitions, postulates, common notions, then propositions 1-5 and 47 (the Pythagorean theorem)."}
+      ]
+    },
+    {
+      "id": "e2",
+      "title": "Homer and the Gods",
+      "sections": [5],
+      "intro": "The Iliad and the Odyssey are the most frequently referenced works in the Western sections of the list. This module reads the books that carry each poem's plot and turning points, plus Hesiod's account of the gods and the earliest Greek lyric.",
+      "takeaways": [
+        "The Iliad is about the anger of Achilles, and about honor, mortality, and recognizing a shared humanity in an enemy (Priam and Achilles in Book 24).",
+        "The Odyssey is about cunning, homecoming, and xenia, the obligations between guest and host.",
+        "Hesiod gives the family tree of the gods and a moral picture of justice and labor."
+      ],
+      "check": "What does Achilles learn between Book 9 and Book 24?",
+      "readings": [
+        {"match": "5:Homer — The Iliad", "hours": 15, "read": "Iliad 1, 6, 9, 18, 22, 24. Odyssey 1, 9-12, 19, 21-23."},
+        {"match": "5:Hesiod — Theogony", "hours": 1.5, "read": "Theogony 1-210 (creation and Kronos) and Works and Days 1-201 (Prometheus, Pandora, the five ages)."},
+        {"match": "5:Sappho — Fragments", "hours": 0.5, "read": "Fragments 1, 16, and 31."}
+      ]
+    },
+    {
+      "id": "e3",
+      "title": "Tragedy, History, and the City",
+      "sections": [9],
+      "intro": "Athens in the fifth century BC produced tragedy, comedy, and history writing within a few decades. Read two tragedians, one comedy, and the founding passages of the two founding historians.",
+      "takeaways": [
+        "Tragedy stages conflicts that have no clean resolution: vengeance against justice, family against the law of the city.",
+        "Herodotus explains events through custom and fortune. Thucydides explains them through power, fear, and interest.",
+        "The Melian dialogue is the classic statement of 'the strong do what they can and the weak suffer what they must'."
+      ],
+      "check": "Compare Antigone and Creon with the Athenians and Melians. Who appeals to what law?",
+      "readings": [
+        {"match": "5:Aeschylus — The Oresteia", "hours": 4, "read": "Agamemnon and The Eumenides, the first and last plays of the trilogy."},
+        {"match": "5:Sophocles — The Theban Plays", "hours": 4, "read": "Oedipus the King and Antigone."},
+        {"match": "5:Euripides — The Tragedies", "hours": 2, "read": "The Bacchae."},
+        {"match": "5:Aristophanes — The Comedies", "hours": 2, "read": "The Clouds, a comic portrait of Socrates."},
+        {"match": "9:Herodotus — The Histories", "hours": 2.5, "read": "The preface and I.1-45 (Croesus and Solon); VII.201-239 (Thermopylae)."},
+        {"match": "9:Thucydides — The Peloponnesian War", "hours": 4, "read": "I.20-23 (method); II.35-54 (Funeral Oration and plague); III.82-83 (civil strife at Corcyra); V.84-116 (the Melian dialogue)."}
+      ]
+    },
+    {
+      "id": "e4",
+      "title": "Plato and Aristotle",
+      "sections": [12],
+      "intro": "The two philosophers whose questions set the agenda for the rest of the list: what justice is, what the soul is, what a good life is, and how we know anything. The passages below are the ones later writers quote most often.",
+      "takeaways": [
+        "Plato: justice is an order in the soul and the city. True knowledge is of the Forms, and the Cave allegory shows the path from opinion to knowledge.",
+        "Aristotle: the good life is activity in accordance with virtue, virtue is a mean found by practical wisdom, and humans are political animals.",
+        "Heraclitus and Parmenides frame the question of change and permanence that both men answer."
+      ],
+      "check": "State in three sentences where Aristotle's ethics departs from Plato's Republic.",
+      "readings": [
+        {"match": "12:The Pre-Socratics", "hours": 1.5, "read": "The fragments of Heraclitus and of Parmenides only."},
+        {"match": "12:Plato — Republic", "hours": 12, "read": "The Apology (not on the list) as a preface. Republic I-II (Thrasymachus and the Ring of Gyges), IV (the parts of the soul), VI.507-VII.521 (sun, line, cave), X.614-621 (Myth of Er). Symposium 201d-212c (Diotima). Phaedo 115-118 (the death of Socrates)."},
+        {"match": "12:Aristotle — Nicomachean Ethics", "hours": 6, "read": "Nicomachean Ethics I, II, and X.6-8. Politics I.1-2. Poetics 6-14 (tragedy)."}
+      ]
+    },
+    {
+      "id": "e5",
+      "title": "Rome: Duty, Empire, and the Stoics",
+      "sections": [6, 11],
+      "intro": "Rome took Greek culture and turned it toward law, duty, and empire, and it produced the Stoic writers still read as practical guides. This module gives you the founding myths, the national epic, and Stoicism in its own words.",
+      "takeaways": [
+        "Roman virtue is duty to family, gods, and the state (pietas). Aeneas is its model, and Virgil shows what it costs.",
+        "The Stoics separate what is in our power (judgments, choices) from what is not (everything else).",
+        "The Epicureans (Lucretius) offer the rival cure: an atomic universe with no gods to fear and no death to suffer."
+      ],
+      "check": "Is Aeneas admirable in Book 4? Answer from Virgil's text, then from Epictetus.",
+      "readings": [
+        {"match": "9:Livy — The History of Rome", "hours": 1.5, "read": "The Preface and I.1-16 (the founding); I.57-60 (Lucretia and the end of the kings)."},
+        {"match": "9:Plutarch — Parallel Lives", "hours": 1.5, "read": "The Life of Julius Caesar."},
+        {"match": "6:Virgil — The Aeneid", "hours": 6, "read": "Books 1, 2, 4, 6, and 12."},
+        {"match": "6:Lucretius — On the Nature of Things", "hours": 2, "read": "I.1-158 (the invocation and 'nothing from nothing') and III.830-1094 ('death is nothing to us')."},
+        {"match": "11:Cicero — On Duties", "hours": 2, "read": "On Duties I.1-60 and On Friendship."},
+        {"match": "3:Cicero — The Dream of Scipio", "hours": 0.5, "read": "The whole text; it is a few pages."},
+        {"match": "6:Ovid — Metamorphoses", "hours": 1.5, "read": "Book I (creation, the flood, Apollo and Daphne) and Book X (Orpheus, Pygmalion)."},
+        {"match": "9:Tacitus — Annals", "hours": 1.5, "read": "The Agricola; it is short. Note Calgacus's speech (ch. 30)."},
+        {"match": "12:Epictetus — Enchiridion", "hours": 1, "read": "The Enchiridion in full."},
+        {"match": "12:Marcus Aurelius — Meditations", "hours": 2, "read": "Books 2 and 4."},
+        {"match": "11:Seneca — Letters to Lucilius", "hours": 1, "read": "On the Shortness of Life."}
+      ]
+    },
+    {
+      "id": "e6",
+      "title": "The Bible",
+      "sections": [15],
+      "intro": "Later European literature and philosophy constantly assume a knowledge of the Bible. These passages cover the narrative spine: creation, covenant, exodus, law, wisdom, prophecy, the life of Jesus, and the early church.",
+      "takeaways": [
+        "One God who creates, makes covenants, and acts in history, unlike the gods of Homer and Hesiod.",
+        "Job and Ecclesiastes question the tradition from within: suffering that is not deserved, and the vanity of all things.",
+        "The Gospels and Paul recast the covenant around the death and resurrection of Jesus and salvation by grace."
+      ],
+      "check": "What question does Job ask, and does the voice from the whirlwind answer it?",
+      "readings": [
+        {"match": "15:The Pentateuch", "hours": 5, "read": "Genesis 1-4, 6-9, 12, 22, and 37-50. Exodus 1-20 and 32-34."},
+        {"match": "15:The Psalms", "hours": 1, "read": "Psalms 1, 8, 19, 22, 23, 51, 90, 104, 137, and 139."},
+        {"match": "15:The Book of Job", "hours": 2.5, "read": "Chapters 1-14, 38-42."},
+        {"match": "15:The Wisdom Books", "hours": 1.5, "read": "Ecclesiastes in full; skim Proverbs 1-9."},
+        {"match": "15:The Prophets", "hours": 2, "read": "Isaiah 1-6 and 40-55; Amos 5; Jeremiah 31."},
+        {"match": "15:The Four Gospels", "hours": 5, "read": "Mark in full; Matthew 5-7 (the Sermon on the Mount); John 1 and 18-21."},
+        {"match": "15:The Acts of the Apostles", "hours": 1, "read": "Acts 1-2, 9, and 17."},
+        {"match": "15:The Pauline Epistles", "hours": 2.5, "read": "Romans 1-8; 1 Corinthians 13 and 15."},
+        {"match": "15:The Apocalypse", "hours": 1, "read": "Chapters 1, 4-5, and 21-22."}
+      ]
+    },
+    {
+      "id": "e7",
+      "title": "Augustine and Late Antiquity",
+      "sections": [16],
+      "intro": "In the late Roman world, early Christian writers combined biblical faith with Greek philosophy. Augustine did so most influentially, and he had read Plotinus before his conversion. Through him the Middle Ages received both traditions.",
+      "takeaways": [
+        "Christian doctrine (Incarnation, Trinity) was worked out in the vocabulary of Greek philosophy.",
+        "Augustine's Confessions invented the inward autobiography: memory, time, and a restless heart.",
+        "The City of God divides humanity by what it loves, the earthly city and the heavenly one, rather than by political allegiance."
+      ],
+      "check": "What did Augustine take from the Platonists, by his own account in Confessions VII, and what did he find missing?",
+      "readings": [
+        {"match": "16:The Didache", "hours": 0.5, "read": "The whole text; it is short."},
+        {"match": "16:St. Athanasius", "hours": 2, "read": "The first half of On the Incarnation."},
+        {"match": "12:Plotinus — The Enneads", "hours": 2, "read": "Ennead I.6, On Beauty."},
+        {"match": "16:St. Augustine — Confessions", "hours": 6, "read": "Books I-IV, VII-IX, and XI (on time)."},
+        {"match": "16:St. Augustine — The City of God", "hours": 3, "read": "Book XIV.28 (two loves, two cities) and Book XIX (peace and the ends of life)."},
+        {"match": "16:St. Benedict of Nursia", "hours": 1, "read": "The Prologue and chapters 4-7."},
+        {"match": "16:Pseudo-Dionysius", "hours": 0.5, "read": "The Mystical Theology; it is a few pages."}
+      ]
+    },
+    {
+      "id": "e8",
+      "title": "The Medieval World",
+      "sections": [4, 7, 8, 10, 17],
+      "intro": "Three strands in one module: the northern heroic poetry, the scholastic theology of the schools, and the courtly literature that ends in Dante and Chaucer. Boethius comes first because nearly every medieval writer knew him.",
+      "takeaways": [
+        "The Germanic heroic ethic is loyalty, fame, and courage in the face of fate. Christian writers kept it and reinterpreted it.",
+        "Scholasticism reasons from authorities through objection and reply. Aquinas reconciles Aristotle with Christian faith.",
+        "Dante orders the whole cosmos morally. Chaucer puts the whole of English society on one pilgrimage."
+      ],
+      "check": "Compare Beowulf, Roland, and Gawain. What does each hero owe, and to whom?",
+      "readings": [
+        {"match": "17:St. Boethius — The Consolation of Philosophy", "hours": 2, "read": "Books I-II (Philosophy's visit and the wheel of Fortune)."},
+        {"match": "4:Anon. — Beowulf", "hours": 3, "read": "The whole poem, in a modern verse translation."},
+        {"match": "4:The Anglo-Saxon Elegies", "hours": 0.5, "read": "The Wanderer and The Dream of the Rood."},
+        {"match": "4:The Poetic Edda", "hours": 1.5, "read": "Voluspa and Havamal."},
+        {"match": "7:The Song of Roland", "hours": 1.5, "read": "From the opening through Roland's death."},
+        {"match": "17:St. Anselm", "hours": 0.5, "read": "Proslogion 2-4, the ontological argument."},
+        {"match": "17:St. Thomas Aquinas", "hours": 3, "read": "Summa Theologiae I q.2 a.3 (the five ways) and I-II qq.90-91 and 94 (law and natural law)."},
+        {"match": "7:Anon. — Sir Gawain and the Green Knight", "hours": 2, "read": "The whole poem."},
+        {"match": "7:Dante Alighieri", "hours": 6, "read": "Inferno 1-5, 26, and 33-34; Purgatorio 1 and 30; Paradiso 33."},
+        {"match": "7:Geoffrey Chaucer", "hours": 2, "read": "The General Prologue and the Pardoner's Tale."}
+      ]
+    },
+    {
+      "id": "e9",
+      "title": "Judaism and Islam",
+      "sections": [18, 19],
+      "intro": "Rabbinic law and ethics, the Qur'an and hadith, the medieval argument over philosophy and revelation, and Sufi poetry. The philosophers in this module passed Aristotle on to the Latin scholastics of Module 8.",
+      "takeaways": [
+        "Rabbinic Judaism keeps both sides of an argument on record. The Torah is studied and interpreted in every generation.",
+        "The Qur'an stresses God's oneness (tawhid), prophecy, and judgment. Hadith and the life of the Prophet set the pattern of practice.",
+        "Al-Ghazali, Averroes, and Maimonides debate whether philosophy serves revelation or threatens it. The Sufi poets describe the way of love."
+      ],
+      "check": "Set Averroes' Decisive Treatise beside Aquinas on faith and reason. Where do they agree?",
+      "readings": [
+        {"match": "18:Pirkei Avot", "hours": 1, "read": "The whole text."},
+        {"match": "18:The Babylonian Talmud", "hours": 1, "read": "Bava Metzia 59a-b (the oven of Akhnai) and Shabbat 31a (Hillel on the whole Torah)."},
+        {"match": "19:The Qur'an", "hours": 4, "read": "Suras 1; 2:1-39 and 2:255; 12 (Joseph); 18; 19 (Mary); 55; 112-114."},
+        {"match": "19:Al-Nawawi — Forty Hadith", "hours": 1, "read": "The whole collection."},
+        {"match": "19:Al-Ghazali", "hours": 2, "read": "Deliverance from Error."},
+        {"match": "19:Averroes", "hours": 1.5, "read": "The Decisive Treatise."},
+        {"match": "19:Ibn Tufayl", "hours": 1.5, "read": "The main narrative, from Hayy's birth to his meeting with Absal."},
+        {"match": "19:Moses Maimonides — The Guide", "hours": 1.5, "read": "The Introduction to Part I and I.50-60 (negative attributes)."},
+        {"match": "19:Rumi", "hours": 1, "read": "The opening of the Masnavi (the song of the reed) and a selection of ghazals."},
+        {"match": "19:Attar", "hours": 1.5, "read": "The frame story and the section on the seven valleys."},
+        {"match": "19:Ibn Khaldun", "hours": 1, "read": "Selections on asabiyya (group solidarity) and the life cycle of dynasties."}
+      ]
+    },
+    {
+      "id": "e10",
+      "title": "India, China, and Japan",
+      "sections": [14, 20, 21],
+      "intro": "The Upanishads and the Gita, the Buddha's teaching and its development into Zen, and the Confucian and Daoist classics. The passages are short, and many are meant to be reread slowly.",
+      "takeaways": [
+        "The Upanishads teach that atman (the self) is brahman (ultimate reality). The Gita teaches action without attachment to its results.",
+        "The Buddha teaches suffering, its cause, its end, and the path, and denies a permanent self (anatta). Mahayana and Zen develop this into emptiness and direct insight.",
+        "Confucius grounds order in ritual, family, and cultivated character. Laozi and Zhuangzi turn to spontaneity and the Way."
+      ],
+      "check": "Compare Krishna's advice to Arjuna with Epictetus's Enchiridion.",
+      "readings": [
+        {"match": "20:The Principal Upanishads", "hours": 2, "read": "Isha, Katha, and Chandogya VI ('tat tvam asi')."},
+        {"match": "14:The Bhagavad Gita", "hours": 4, "read": "The whole text."},
+        {"match": "21:The Pali Canon", "hours": 2, "read": "Majjhima Nikaya 22 (the raft) and 63 (the poisoned arrow)."},
+        {"match": "14:The Dhammapada", "hours": 1, "read": "Chapters 1-5."},
+        {"match": "21:The Heart Sutra", "hours": 0.5, "read": "The whole text, one page."},
+        {"match": "14:Confucius — The Analects", "hours": 2, "read": "Books 1, 2, 4, 12, and 15."},
+        {"match": "14:Mencius — The Mencius", "hours": 1, "read": "2A6 (the four sprouts) and 6A1-8 (human nature)."},
+        {"match": "14:Laozi — Tao Te Ching", "hours": 1.5, "read": "The whole text."},
+        {"match": "14:Zhuangzi — The Zhuangzi", "hours": 1.5, "read": "Chapters 1-3, including the butterfly dream and Cook Ding."},
+        {"match": "14:Sun Tzu — The Art of War", "hours": 2, "read": "The whole text."},
+        {"match": "21:Huineng", "hours": 1, "read": "The autobiographical opening and the verse contest."},
+        {"match": "21:Anon. — The Gateless Gate", "hours": 1, "read": "Cases 1-10."},
+        {"match": "14:Matsuo Basho", "hours": 1, "read": "The opening and the Hiraizumi passage."}
+      ]
+    },
+    {
+      "id": "e11",
+      "title": "Renaissance and the New Science",
+      "sections": [2, 13, 22],
+      "intro": "The recovery of ancient texts, a new political realism, the essay and the stage, and the attempt to rebuild knowledge on new foundations. The science of this period is covered here by survey. The philosophy is read directly.",
+      "takeaways": [
+        "Renaissance humanism says human beings have no fixed place in creation and must make themselves (Pico).",
+        "Machiavelli and Hobbes ground politics in power and fear rather than in virtue or divine order.",
+        "Descartes starts philosophy over from the thinking self. Locke grounds government in consent and property."
+      ],
+      "check": "How would Hobbes answer Thrasymachus in Republic I?",
+      "readings": [
+        {"match": "22:Pico della Mirandola", "hours": 1, "read": "The first part of the Oration, on the dignity of man."},
+        {"match": "13:Niccolo Machiavelli", "hours": 3, "read": "The Prince, in full."},
+        {"match": "23:Michel de Montaigne", "hours": 2, "read": "'That to philosophize is to learn to die' and 'Of cannibals'."},
+        {"match": "24:William Shakespeare", "hours": 4, "read": "Hamlet. Add King Lear if time allows."},
+        {"match": "24:Miguel de Cervantes", "hours": 2, "read": "Part I, chapters 1-8, through the windmills."},
+        {"match": "23:Rene Descartes", "hours": 2, "read": "Meditations I-II."},
+        {"match": "13:Thomas Hobbes", "hours": 2, "read": "Leviathan chapters 13-14 and 17."},
+        {"match": "23:Blaise Pascal", "hours": 1, "read": "The wager, the two infinities, and the thinking reed."},
+        {"match": "24:John Milton", "hours": 1.5, "read": "Paradise Lost, Book I."},
+        {"match": "23:John Locke", "hours": 2, "read": "Second Treatise chapters 2, 5, and 9 (the state of nature, property, the ends of government)."}
+      ]
+    },
+    {
+      "id": "e12",
+      "title": "The Modern Mind",
+      "sections": [23, 25],
+      "intro": "From the Enlightenment to the twentieth century: the limits of reason, revolution and its critics, history, the death of God, evolution, and the unconscious. The Forbidden Shelf is surveyed here too, as a record of the tradition's most radical critics.",
+      "takeaways": [
+        "Hume doubts causation and the self. Kant answers that the mind structures experience, and grounds morality in duty.",
+        "Hegel and Marx read history as a development driven by conflict. Burke and Tocqueville warn about what revolutions and democracy can destroy.",
+        "Kierkegaard, Nietzsche, and Freud move the question of meaning into the individual, the will, and the unconscious."
+      ],
+      "check": "Nietzsche's madman announces the death of God. Name three thinkers in this module and how each responds, directly or not.",
+      "readings": [
+        {"match": "23:David Hume", "hours": 2, "read": "Enquiry Concerning Human Understanding, sections II-VII."},
+        {"match": "23:Jean-Jacques Rousseau", "hours": 2, "read": "The Social Contract, Book I."},
+        {"match": "23:Immanuel Kant", "hours": 3, "read": "Groundwork of the Metaphysics of Morals, Sections I-II."},
+        {"match": "13:Edmund Burke", "hours": 1, "read": "Selections, including the passage on society as a partnership of the dead, the living, and the unborn."},
+        {"match": "13:Alexis de Tocqueville", "hours": 1, "read": "Vol. I Part II ch. 7 (tyranny of the majority) and Vol. II Part IV ch. 6 (soft despotism)."},
+        {"match": "23:Georg Wilhelm Friedrich Hegel", "hours": 1, "read": "Phenomenology of Spirit, paras. 178-196 (lordship and bondage), with a guide."},
+        {"match": "23:Soren Kierkegaard", "hours": 1.5, "read": "Fear and Trembling: the Exordium and Problema I."},
+        {"match": "23:Karl Marx", "hours": 1.5, "read": "'Estranged Labour' from the 1844 Manuscripts."},
+        {"match": "2:Charles Darwin", "hours": 2, "read": "On the Origin of Species, chapters 3-4 and the final paragraph."},
+        {"match": "23:Friedrich Nietzsche — The Birth of Tragedy", "hours": 2, "read": "On the Genealogy of Morals, First Essay; The Gay Science 125 (the madman)."},
+        {"match": "23:Sigmund Freud", "hours": 1.5, "read": "Civilization and Its Discontents, chapters 1-3."},
+        {"match": "23:Ludwig Wittgenstein", "hours": 1, "read": "Tractatus 1-2.063 and 6.4-7."},
+        {"match": "23:Simone Weil", "hours": 1, "read": "A selection from Gravity and Grace."}
+      ]
+    },
+    {
+      "id": "e13",
+      "title": "The Modern Imagination",
+      "sections": [24],
+      "intro": "The novel, the lyric, and the drama of the last three centuries, read as answers to everything before them. Most readings are complete shorter works or pivotal chapters of long ones.",
+      "takeaways": [
+        "Goethe and the Romantics make striving, nature, and feeling into sources of meaning.",
+        "The Russian novelists test modern ideas against faith, suffering, and death: the Underground Man, the Grand Inquisitor, Ivan Ilyich.",
+        "The modernists (Kafka, Conrad, Eliot, Camus) write about alienation, the absurd, and the search for order among fragments."
+      ],
+      "check": "Choose one work from this module and trace three of its sources back through earlier modules.",
+      "readings": [
+        {"match": "24:Johann Wolfgang von Goethe", "hours": 2, "read": "Faust Part One, from the opening through the pact with Mephistopheles."},
+        {"match": "24:William Blake", "hours": 0.5, "read": "'The Lamb' and 'The Tyger'."},
+        {"match": "24:William Wordsworth", "hours": 0.5, "read": "'Tintern Abbey'."},
+        {"match": "24:Leo Tolstoy", "hours": 2, "read": "The Death of Ivan Ilyich, in full."},
+        {"match": "24:Dostoevsky", "hours": 4, "read": "Notes from Underground Part I; The Brothers Karamazov Book V, chapters 4-5 ('Rebellion' and 'The Grand Inquisitor')."},
+        {"match": "24:Herman Melville", "hours": 1.5, "read": "Chapters 1, 36 ('The Quarter-Deck'), 42 ('The Whiteness of the Whale'), and 135."},
+        {"match": "24:Kafka", "hours": 2, "read": "The Metamorphosis."},
+        {"match": "24:Anton Chekhov", "hours": 1, "read": "'The Lady with the Dog'."},
+        {"match": "24:Joseph Conrad", "hours": 2.5, "read": "Heart of Darkness, in full."},
+        {"match": "24:T.S. Eliot", "hours": 1, "read": "The Waste Land, with its notes."},
+        {"match": "24:Albert Camus", "hours": 2, "read": "The title essay of The Myth of Sisyphus; The Stranger Part I."}
+      ]
+    }
+  ]
+}

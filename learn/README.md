@@ -1,15 +1,20 @@
 # The Great Works Course
 
-A study app built from the reading list in `../README.md`. Open `index.html` in a browser; it has no server or install step.
+A study app and two downloadable reading plans built from the reading list in `../README.md`.
 
-## Structure
+| File | What it is | How to use it |
+|---|---|---|
+| `index.html` | The app, with both tracks | Open in any browser. Works offline; web fonts fall back to system fonts. Progress saves in that browser. |
+| `full-course.md` | Full course reading plan (about 2,500 h) | Read on GitHub or in any Markdown viewer. Checklists, assigned sections, editions, and links. |
+| `essentials.md` | Essentials reading plan (about 250 h) | Same format, for the short track. |
 
-All 571 entries are placed in exactly one of eleven phases. Each phase has:
+Inside the app, **Plan → Downloads** exports either plan with your own progress ticked, the offline app with your progress built in, or a JSON progress backup.
 
-- a **core sequence** of works to read in order, each with a note on which parts to read and what to watch for, and a rough hour estimate
-- **questions** to carry through the phase
-- a **synthesis** prompt to write once the core sequence is done
-- a **deeper shelf**: the remaining entries from the reading-list sections that phase owns
+## The two tracks
+
+Switch between them with the toggle in the header. Notes and one-sentence summaries are shared; each track keeps its own progress.
+
+### Full course: 11 phases, 206 core works, about 2,500 hours
 
 | Phase | Title | Reading-list sections | Core works | Core hours (approx.) |
 |---|---|---|---|---|
@@ -25,44 +30,72 @@ All 571 entries are placed in exactly one of eleven phases. Each phase has:
 | X | The Modern Imagination | 24 | 25 | 397 |
 | XI | Capstone: The Forbidden Shelf | 25 | 8 | 69 |
 
-The core sequence is 206 works, about 2,500 hours. At 7 hours a week that is roughly seven years. The Plan tab recalculates this from your own pace.
+Each phase has a core sequence read in order, questions to carry through, a synthesis prompt, and a deeper shelf holding the rest of its sections.
 
-Core works can come from a section owned by another phase when the order calls for it. For example, Shakespeare (section 24) and Galileo (section 2) are core works in Phase VIII, and Plotinus (section 12) sits just before Augustine in Phase IV.
+### Essentials: 13 modules, about 250 hours
 
-## Features
+| Module | Title | Readings | Reading h | Survey h |
+|---|---|---|---|---|
+| 1 | How to Read and Argue | 5 | 11.5 | 0.5 |
+| 2 | Homer and the Gods | 3 | 17 | 0.1 |
+| 3 | Tragedy, History, and the City | 6 | 18.5 | 0.2 |
+| 4 | Plato and Aristotle | 3 | 19.5 | 0.1 |
+| 5 | Rome: Duty, Empire, and the Stoics | 11 | 20.5 | 0.5 |
+| 6 | The Bible | 9 | 21.5 | 0.2 |
+| 7 | Augustine and Late Antiquity | 7 | 15 | 0.5 |
+| 8 | The Medieval World | 10 | 22 | 1.6 |
+| 9 | Judaism and Islam | 11 | 17 | 0.9 |
+| 10 | India, China, and Japan | 13 | 20.5 | 1.1 |
+| 11 | Renaissance and the New Science | 10 | 20.5 | 0.8 |
+| 12 | The Modern Mind | 13 | 20.5 | 0.4 |
+| 13 | The Modern Imagination | 11 | 19 | 0.8 |
 
-- **Course**: phase rail, "Up next" card for the first unstarted core work, works currently in progress, core sequence, synthesis box, and deeper shelf
-- **Library**: search and filter all 571 works by phase, section, status, core-only, or has-notes
-- **Notebook**: every one-sentence summary, note, and phase synthesis, newest first
-- **Plan**: hours per week, projected finish date for each phase, JSON backup and restore, reset
+Each module assigns specific passages (for example "Iliad 1, 6, 9, 18, 22, 24" rather than the whole poem), gives three takeaways, and ends with a check-yourself question. Every other work in the module's sections is a survey item: you read its description, about a minute each, so all 571 entries are covered.
 
-Click a status circle to cycle not started, reading, finished. Open a work for its full description, the Skipped status, start and finish dates, a one-sentence summary, and notes.
+## Where to find each work
+
+Every core and Essentials work (207 in all) names a recommended translation or edition. Every one of the 571 works has "find it" links:
+
+- **Free text (Gutenberg)**: a search for a known public-domain translation, where one exists
+- **Open Library** (borrow or buy), **Internet Archive** (free scans), **Project Gutenberg**: searches on author and title
+- Specialist libraries for the section: Perseus, the MIT Internet Classics Archive and ToposText (Greek and Latin); Bible Gateway; New Advent and CCEL (Church Fathers, medieval theology); Sefaria (rabbinic texts); Quran.com; SuttaCentral (Pali Canon); Chinese Text Project
+
+The links are searches, not specific copies. Check the translator named before you borrow or buy.
 
 ## Where progress is stored
 
-- Opened as a local file or from any static host, progress is saved in that browser's `localStorage`. Use Plan, then Copy backup, to move it between browsers.
-- The published claude.ai Artifact also syncs to your account through the Artifact `db` capability, in a private per-user collection. It merges with the local copy by last-updated time.
+- As a local file or on a static host: in that browser's `localStorage`.
+- The downloaded offline app starts from the progress it was exported with.
+- The published claude.ai Artifact also syncs to your account through the Artifact `db` capability, in a private per-user collection.
 
 ## Rebuilding
 
-`index.html` is generated. Do not edit it by hand.
+`index.html`, `full-course.md` and `essentials.md` are generated. Do not edit them by hand.
 
 ```
-python3 learn/build.py            # validate and write learn/index.html
+python3 learn/build.py            # validate and write all three files
 python3 learn/build.py --check    # validate only
 python3 learn/build.py --artifact /path/page.html   # also write the unwrapped body for an Artifact publish
 ```
 
-Requires Python 3.9 or later and nothing else. The build fails without writing if:
+Requires Python 3.9 or later and nothing else.
+
+| Source | Contents |
+|---|---|
+| `curriculum.json` | Full course phases, core order, focus notes, hours |
+| `essentials.json` | Essentials modules, assigned passages, hours, takeaways |
+| `sources.json` | Recommended editions, public-domain search terms, specialist libraries by section |
+| `app.html`, `app.js` | Page template and script, inlined by the build |
+
+The build fails without writing if:
 
 | Condition | Message |
 |---|---|
 | A README entry line is not `- **Title** — description` | `README.md:<line>: entry line not in ... form` |
-| A core `match` in `curriculum.json` hits zero or several entries | `core match '<match>' must hit exactly one entry; found ...` |
-| A work is core in two phases | `'<title>' is core in more than one place` |
-| A section is unassigned or assigned twice | `sections not assigned ...` / `section N assigned to both ...` |
-| Any entry is missing or placed twice | `placement check failed ...` |
+| A `match` in any JSON file hits zero or several entries | `core match '<match>' must hit exactly one entry; found ...` |
+| A work is core twice, or an Essentials reading twice | `... is core in more than one place` / `... assigned in more than one Essentials module` |
+| A section is unassigned or assigned twice in either track | `sections not assigned ...` / `section N assigned to both ...` |
+| Any entry is missing or placed twice in either track | `placement check failed ...` / `Essentials coverage check failed ...` |
+| `app.js` contains a literal closing script tag | `app.js must not contain a literal closing script tag` |
 
-Progress is keyed to a slug of each entry's title, not its position, so reordering the reading list keeps saved progress. Renaming an entry gives it a new key.
-
-To change the course, edit `curriculum.json`. A core item's `match` is `"SECTION:text"`, where `text` is a unique substring of the entry title within that section.
+A `match` is `"SECTION:text"`, where `text` is a unique substring of the entry title within that section. Progress is keyed to a slug of each entry's title, so reordering the reading list keeps saved progress, and renaming an entry gives it a new key.
